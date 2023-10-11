@@ -46,9 +46,9 @@ import scipy.stats as ss
 import nltk
 from nltk.tokenize import RegexpTokenizer
 from nltk.stem import WordNetLemmatizer,PorterStemmer
-nltk.download('stopwords')
+#nltk.download('stopwords')
 from nltk.corpus import stopwords
-nltk.download('wordnet')
+#nltk.download('wordnet')
 import re
 lemmatizer = WordNetLemmatizer()
 stemmer = PorterStemmer() 
