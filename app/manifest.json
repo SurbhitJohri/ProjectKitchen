@@ -1,0 +1,849 @@
+{
+    "version": 1,
+    "metadata": {
+        "appmode": "python-dash",
+        "entrypoint": "app:app"
+    },
+    "locale": "en_US.UTF-8",
+    "python": {
+        "version": "3.7.11",
+        "package_manager": {
+            "name": "pip",
+            "version": "21.0.1",
+            "package_file": "requirements.txt"
+        }
+    },
+    "files": {
+        "41CC2100": {
+            "checksum": "2a6220204dc8887256debad2efc28d1b"
+        },
+        "All hydrocolloids PLM extract for R&D.xlsx": {
+            "checksum": "8cd1609b083ef2a2b55617011bfb52a7"
+        },
+        "Almonds_Chopped_Roasted_Nuts_PLM.xlsx": {
+            "checksum": "d2d81ed66c82a7d5c37a4a734debbfab"
+        },
+        "Almond_Whole_Roasted_PLM.xlsx": {
+            "checksum": "052f2a9ebf3664ad64499814b0a2a136"
+        },
+        "app.py": {
+            "checksum": "b94114df6dff683f7ad3989478a94788"
+        },
+        "assets/MDLZBITETYPE-Regular.ttf": {
+            "checksum": "9baec048ee40fd53df2cc59b9d489588"
+        },
+        "assets/styles.css": {
+            "checksum": "c1ecad146b3134a08298d7e32a989bbc"
+        },
+        "Attributes_list.xlsx": {
+            "checksum": "dae5dca0c11013694218d74b6ff71275"
+        },
+        "Attributes_list_combined_all.csv": {
+            "checksum": "b4bc686a8dc0e50f724a9edfcb50b253"
+        },
+        "Attributes_list_selected.xlsx": {
+            "checksum": "721c3afe6857327f0ff13caca6190813"
+        },
+        "Attribute_list_to_drop.xlsx": {
+            "checksum": "4a399332d2bf8c5e483050fa07dce53b"
+        },
+        "Attribute_list_to_drop_or_to_use.xlsx": {
+            "checksum": "48db6837d7678291bdc79134c0e243b9"
+        },
+        "Carbonates PLM extract for R&D (2).xlsx": {
+            "checksum": "032757c4b8708c426f48857a339c892a"
+        },
+        "carbonates_Attributes_list.csv": {
+            "checksum": "1d6d8cf25731f8056105fde9c30d79cd"
+        },
+        "Citric acids PLM extract for R&D.xlsx": {
+            "checksum": "4ff5035f01fa782bef6ac59f9e4f6987"
+        },
+        "citric_Attributes_list.csv": {
+            "checksum": "8bf5d34e6a7962a82300ad8b817a771d"
+        },
+        "citric_feature_imp_nc.csv": {
+            "checksum": "7a2fbf7b6afeedc6df0a5744df98aadc"
+        },
+        "citric_feature_imp_nct.csv": {
+            "checksum": "01ea83c784b1806430abca9b47f1389e"
+        },
+        "citric_feature_imp_nt.csv": {
+            "checksum": "35ec9823182316743e43ee187c0c6dff"
+        },
+        "citric_final_global_results.csv": {
+            "checksum": "55783cf58400572dc44d7cb58b1dc1a0"
+        },
+        "citric_final_model.xlsx": {
+            "checksum": "b7856b470aa61f543bb5aed5a2606871"
+        },
+        "citric_global_feature_imp_nc.csv": {
+            "checksum": "35687eebc2b21e471d40c09caa8f6bf0"
+        },
+        "citric_global_feature_imp_nct.csv": {
+            "checksum": "76fd4e6dcdd86addce053e76fa21c330"
+        },
+        "citric_global_feature_imp_nt.csv": {
+            "checksum": "0c8d8ef66b234c7094bb1ee6c613261f"
+        },
+        "citric_global_nct_results.csv": {
+            "checksum": "b0002619b7c74bc1d6f1530911d044f8"
+        },
+        "citric_global_nc_results.csv": {
+            "checksum": "08c26e8453e985eef24f1c91680938e6"
+        },
+        "citric_global_nt_results.csv": {
+            "checksum": "3dc80d5598abed810c466de5d1e5d4af"
+        },
+        "citric_nct_results.csv": {
+            "checksum": "6b7044de97573a316bab938d0b3248b6"
+        },
+        "citric_nc_results.csv": {
+            "checksum": "9dc7ec3592242fd8fd9a7a1e2afb348e"
+        },
+        "citric_nt_results.csv": {
+            "checksum": "ad8686c208fe90b8e9f7cc4f9cf0a994"
+        },
+        "clustering colours_WIP 221202.xlsx": {
+            "checksum": "5eef8f1387c335f392f0dbe239d33bc0"
+        },
+        "Cocoa liquor PLM extract for R&D.xlsx": {
+            "checksum": "aa5a9649ab2875540e25db5fbdd6712f"
+        },
+        "Cocoa powder PLM extract for R&D (1).xlsx": {
+            "checksum": "33e4cd8c435a43c4e7304d97acca773f"
+        },
+        "Code_new/41CC2100": {
+            "checksum": "2a6220204dc8887256debad2efc28d1b"
+        },
+        "Code_new/Attributes_list.xlsx": {
+            "checksum": "dae5dca0c11013694218d74b6ff71275"
+        },
+        "Code_new/citric_Attributes_list.csv": {
+            "checksum": "8bf5d34e6a7962a82300ad8b817a771d"
+        },
+        "Code_new/citric_final_global_results.csv": {
+            "checksum": "55783cf58400572dc44d7cb58b1dc1a0"
+        },
+        "Code_new/citric_final_model.xlsx": {
+            "checksum": "b7856b470aa61f543bb5aed5a2606871"
+        },
+        "Code_new/citric_global_nct_results.csv": {
+            "checksum": "b0002619b7c74bc1d6f1530911d044f8"
+        },
+        "Code_new/citric_global_nc_results.csv": {
+            "checksum": "08c26e8453e985eef24f1c91680938e6"
+        },
+        "Code_new/citric_global_nt_results.csv": {
+            "checksum": "3dc80d5598abed810c466de5d1e5d4af"
+        },
+        "Code_new/citric_nct_results.csv": {
+            "checksum": "6b7044de97573a316bab938d0b3248b6"
+        },
+        "Code_new/citric_nc_results.csv": {
+            "checksum": "9dc7ec3592242fd8fd9a7a1e2afb348e"
+        },
+        "Code_new/citric_nt_results.csv": {
+            "checksum": "ad8686c208fe90b8e9f7cc4f9cf0a994"
+        },
+        "Code_new/clustering colours_WIP 221202.xlsx": {
+            "checksum": "5eef8f1387c335f392f0dbe239d33bc0"
+        },
+        "Code_new/dairy_Attributes_list.csv": {
+            "checksum": "2916269a5440067ed5dd39c3523af5bb"
+        },
+        "Code_new/dairy_feature_imp_nc.csv": {
+            "checksum": "7ecac3dee618e3bf76d1024b383f6577"
+        },
+        "Code_new/dairy_feature_imp_nct.csv": {
+            "checksum": "0a843b45264c3fad139f5b4ba803b253"
+        },
+        "Code_new/dairy_feature_imp_nt.csv": {
+            "checksum": "c235ae09dfcbae3fa6b5e727ecc4621d"
+        },
+        "Code_new/dairy_final_global_results.csv": {
+            "checksum": "a7a7026304db91a71da9f90fa4e248ce"
+        },
+        "Code_new/dairy_final_model.xlsx": {
+            "checksum": "a07c1383714f0d94436fd7e6e84f92d3"
+        },
+        "Code_new/dairy_global_feature_imp_nc.csv": {
+            "checksum": "7acac0d20ae9c659568d5046070a8c8b"
+        },
+        "Code_new/dairy_global_nct_results.csv": {
+            "checksum": "9d1b8df7a7d6bdaf73a666856207449c"
+        },
+        "Code_new/dairy_global_nc_results.csv": {
+            "checksum": "c0c2eef62c0335caa45c058c2bf23470"
+        },
+        "Code_new/dairy_global_nt_results.csv": {
+            "checksum": "1f75b8a358c810db3f58ea94ef6ba50e"
+        },
+        "Code_new/dairy_nct_results.csv": {
+            "checksum": "721884bf4feedb11b9dd5a8efe95c619"
+        },
+        "Code_new/dairy_nc_results.csv": {
+            "checksum": "f432edc91df2b18c7ac9177600cd00bc"
+        },
+        "Code_new/dairy_nt_results.csv": {
+            "checksum": "20c7d6a9d6f2a70592f4b386df9f1c05"
+        },
+        "Code_new/fno_manual_clusters.xlsx": {
+            "checksum": "2d0d1d83b2f8e5c8811576ba0d308f5f"
+        },
+        "Code_new/Gelatin Manual Cluster.xlsx": {
+            "checksum": "5ef7b068cac26105f25c5800b41035d0"
+        },
+        "Code_new/gelatin_beef_Attributes_list.csv": {
+            "checksum": "3ac6a78c6027d3ee157a1701cae7230b"
+        },
+        "Code_new/gelatin_beef_final_global_results.csv": {
+            "checksum": "55783cf58400572dc44d7cb58b1dc1a0"
+        },
+        "Code_new/gelatin_beef_global_nct_results.csv": {
+            "checksum": "585bf021640db94e0e56ddf08ade9f91"
+        },
+        "Code_new/gelatin_beef_global_nc_results.csv": {
+            "checksum": "12315f24cf4cc3166e304387a1390035"
+        },
+        "Code_new/gelatin_beef_global_nt_results.csv": {
+            "checksum": "04f89d4812de626baa94b4dfbdea95d4"
+        },
+        "Code_new/gelatin_extra_Attributes_list.csv": {
+            "checksum": "0c1a5592cec8959a0b41230e17b41830"
+        },
+        "Code_new/gelatin_pork_Attributes_list.csv": {
+            "checksum": "0c1a5592cec8959a0b41230e17b41830"
+        },
+        "Code_new/gelatin_pork_final_global_results.csv": {
+            "checksum": "bc94254e16c65d437b2a2173513980fe"
+        },
+        "Code_new/gelatin_pork_global_nct_results.csv": {
+            "checksum": "f5f17d2a9fddfec526ecd7f22d89d127"
+        },
+        "Code_new/gelatin_pork_global_nc_results.csv": {
+            "checksum": "976e8df89298c2ceb3505eacd53b7efc"
+        },
+        "Code_new/gelatin_pork_global_nt_results.csv": {
+            "checksum": "0f690ef8c6abe1fd62a8f48e792ea958"
+        },
+        "Code_new/his_final_global_results.csv": {
+            "checksum": "bab82475c1803bef56259b5bee8bb3ca"
+        },
+        "Code_new/his_global_nct_results.csv": {
+            "checksum": "9932a0f958644a7a26c54bd587878f42"
+        },
+        "Code_new/his_global_nc_results.csv": {
+            "checksum": "d1d400f82b7b87c5e747b697bdaf4eff"
+        },
+        "Code_new/his_global_nt_results.csv": {
+            "checksum": "c89d47705e3611692da166104e391e08"
+        },
+        "Code_new/lecithin_Attributes_list.csv": {
+            "checksum": "289bc514bc6deefb8e71138ce5e22eed"
+        },
+        "Code_new/lecithin_final_global_results.csv": {
+            "checksum": "cf1af30d20666005ac77c22acdcc1806"
+        },
+        "Code_new/lecithin_global_nct_results.csv": {
+            "checksum": "2dc80696d2f190fdb4d87760e6e44ef3"
+        },
+        "Code_new/lecithin_global_nc_results.csv": {
+            "checksum": "79ef03cf62135f877d4e9e158a446f5b"
+        },
+        "Code_new/lecithin_global_nt_results.csv": {
+            "checksum": "9a0ef5a4dc0fce10ea4d8bda17dfd1f5"
+        },
+        "Code_new/malic_final_global_results.csv": {
+            "checksum": "ef09620b064e96ba9e2a8e19b4d60fc1"
+        },
+        "Code_new/malic_global_feature_imp_nc.csv": {
+            "checksum": "68aa7162b9a67d0e8ba4653c34233fbd"
+        },
+        "Code_new/malic_global_feature_imp_nct.csv": {
+            "checksum": "d4c87a4ef98a2f7668829f6eb6c2c886"
+        },
+        "Code_new/malic_global_feature_imp_nt.csv": {
+            "checksum": "e0897fb84189520031ad7325fb078cc5"
+        },
+        "Code_new/malic_global_nct_results.csv": {
+            "checksum": "57351039906da5795b02301644dd47cc"
+        },
+        "Code_new/malic_global_nc_results.csv": {
+            "checksum": "cab358d4e01d26c4307a920674ffd9f2"
+        },
+        "Code_new/malic_global_nt_results.csv": {
+            "checksum": "4949dded2326acaa5e4ae3987b3a5a92"
+        },
+        "Code_new/modelruntimelog.csv": {
+            "checksum": "eb62f5d8b5fd227fc22cdcc6d43af8f0"
+        },
+        "Code_new/new_clustering colours_230302.xlsx": {
+            "checksum": "1509363153f77edfb3b3e213d425b40e"
+        },
+        "Code_new/sample_spec.csv": {
+            "checksum": "ae38c28d99143d6fb4b76f6be841d7bf"
+        },
+        "Code_new/selection_metadata.csv": {
+            "checksum": "7557012cf7fe17eb46efcbc4c443a6de"
+        },
+        "Code_new/selection_metadata.xlsx": {
+            "checksum": "74b71ab9d7bf88c1634d36fe93d8d092"
+        },
+        "Code_new/simplified component list.xlsx": {
+            "checksum": "e2be7e6930b683e3d38b3ba1828bd4b6"
+        },
+        "Code_new/sugar_Attributes_list.csv": {
+            "checksum": "8feaa37fea3dc8fa719ff2ce9d0b0ab0"
+        },
+        "Code_new/sugar_final_global_results.csv": {
+            "checksum": "45051acfa411fcabffe53a3e2cfc7d31"
+        },
+        "Code_new/sugar_global_nct_results.csv": {
+            "checksum": "89590bf21de8d4d93011e28b7535d44d"
+        },
+        "Code_new/sugar_global_nc_results.csv": {
+            "checksum": "b9ede4028e70525140837d114b319b74"
+        },
+        "Code_new/sugar_global_nt_results.csv": {
+            "checksum": "01a93c7b22cb195209259c0bf7186e9c"
+        },
+        "Code_new/.vscode/settings.json": {
+            "checksum": "d5f43f4ce543f4ef7fee01ebae131c81"
+        },
+        "Code_new/UI/Code/app.py": {
+            "checksum": "3c993c4143fdc11da7af74419f00c735"
+        },
+        "Code_new/UI/Code/assets/MDLZBITETYPE-Regular.ttf": {
+            "checksum": "9baec048ee40fd53df2cc59b9d489588"
+        },
+        "Code_new/UI/Code/assets/styles.css": {
+            "checksum": "c1ecad146b3134a08298d7e32a989bbc"
+        },
+        "Code_new/UI/Code/__pycache__/app.cpython-37.pyc": {
+            "checksum": "f9c0146e7735a31112b8d4cff5c08c40"
+        },
+        "Code_new/UI/Code/__pycache__/constants.cpython-311.pyc": {
+            "checksum": "2ba00f4390fff19426268f8e224618cd"
+        },
+        "Code_new/UI/Code/__pycache__/constants.cpython-37.pyc": {
+            "checksum": "9f0e12ccd5806db9c180a01ae66940f9"
+        },
+        "Code_new/UI/Code/__pycache__/Draft_1.cpython-37.pyc": {
+            "checksum": "542b8e462488ae95ee8321cb4caf4b68"
+        },
+        "Code_new/UI/Code/__pycache__/helper_functions.cpython-311.pyc": {
+            "checksum": "c28d7eca33079542b75cc721a2514b4e"
+        },
+        "Code_new/UI/Code/__pycache__/helper_functions.cpython-37.pyc": {
+            "checksum": "31254db0d4b8820a600e9f5e53149cd9"
+        },
+        "Code_new/UI/Code/__pycache__/helper_functions.cpython-38.pyc": {
+            "checksum": "ef399b9d2cd76909430f0ad07f3990a9"
+        },
+        "Code_new/UI/Code/__pycache__/helper_functions.cpython-39.pyc": {
+            "checksum": "697ada7a29d17bb5efd587c7b75713cb"
+        },
+        "Code_new/UI/Code/__pycache__/regression.cpython-311.pyc": {
+            "checksum": "4ec31148d13450463fc96b8559f3afe1"
+        },
+        "Code_new/UI/Code/__pycache__/regression.cpython-37.pyc": {
+            "checksum": "6dc09da047e47ed4b6cc394c0e5eabee"
+        },
+        "Code_new/UI/Code/__pycache__/regression.cpython-39.pyc": {
+            "checksum": "e4986c13a94970eeea38312f9a393800"
+        },
+        "Code_new/UI/Code/__pycache__/sql.cpython-39.pyc": {
+            "checksum": "fd4809851213829fa60591fb5ace2cee"
+        },
+        "Code_new/UI/Code/__pycache__/test.cpython-311.pyc": {
+            "checksum": "b083a3b2daed5cc44552bf335ebcc3e6"
+        },
+        "Code_new/UI/Code/__pycache__/test.cpython-38.pyc": {
+            "checksum": "f8a4beae6487e07ef5b3ffa82e7417c7"
+        },
+        "Code_new/UI/Code/__pycache__/utilities.cpython-311.pyc": {
+            "checksum": "0bebffbab58944597f73a62d8691d3c5"
+        },
+        "Code_new/UI/Code/__pycache__/utilities.cpython-37.pyc": {
+            "checksum": "abf221e6f366c2a607bc936bbd882b44"
+        },
+        "Code_new/Working_codes/config.py": {
+            "checksum": "67ed041ec5bfaa498c0c4c6ed449a65b"
+        },
+        "Code_new/Working_codes/Global_DataPrep_Utils.py": {
+            "checksum": "47596d1e6f231a95b68481eaea34b836"
+        },
+        "Code_new/Working_codes/Global_Model_Output_Utils.py": {
+            "checksum": "91c83f18260b7dc00d5a863d26214f21"
+        },
+        "Code_new/Working_codes/Global_Model_Utils.py": {
+            "checksum": "46d90c177c307fdd6eb0e824cf5d2505"
+        },
+        "Code_new/Working_codes/Kitchen_global.py": {
+            "checksum": "986a9fa8faeb4916764946058b17994d"
+        },
+        "Code_new/Working_codes/Libraries.py": {
+            "checksum": "ed4e55f813dc9f6b9a3e08a885a2049a"
+        },
+        "Code_new/Working_codes/Utils.py": {
+            "checksum": "66f3c4a7da0fc75b7984aa41cc1a6dae"
+        },
+        "Code_new/Working_codes/__pycache__/config.cpython-37.pyc": {
+            "checksum": "6e8952dd49bbaab213540acce5f69f3c"
+        },
+        "Code_new/Working_codes/__pycache__/Global_DataPrep_Utils.cpython-37.pyc": {
+            "checksum": "73a0b8e069681ecaad86a7e9a1f5a160"
+        },
+        "Code_new/Working_codes/__pycache__/Global_Model_Output_Utils.cpython-37.pyc": {
+            "checksum": "9664326510e19d01fc1757c20c3c43ed"
+        },
+        "Code_new/Working_codes/__pycache__/Global_Model_Utils.cpython-37.pyc": {
+            "checksum": "e917f3729d4db307976d81897e48f85f"
+        },
+        "Code_new/Working_codes/__pycache__/Kitchen_global.cpython-37.pyc": {
+            "checksum": "70f1c84641859e2b2d154c96dbbd66c8"
+        },
+        "Code_new/Working_codes/__pycache__/Libraries.cpython-37.pyc": {
+            "checksum": "7d5532c22765ef8d891e0b06ecae8c38"
+        },
+        "Code_new/Working_codes/__pycache__/Utils.cpython-37.pyc": {
+            "checksum": "c309135c8d2c051d43d78871ebca7191"
+        },
+        "Colors PLM extract for R&D (1).xlsx": {
+            "checksum": "174f94d86be481fc7e9146e32ab7d527"
+        },
+        "colors_Attributes_list.csv": {
+            "checksum": "b6842c50fa61ded3334527c767a16ca4"
+        },
+        "config.py": {
+            "checksum": "67ed041ec5bfaa498c0c4c6ed449a65b"
+        },
+        "config.pyc": {
+            "checksum": "1e7d6f40d0602a5aa111d09c57ea9d46"
+        },
+        "Dairy PLM extract for R&D.xlsx": {
+            "checksum": "46c9342434b355a1016e42ffd7bbf105"
+        },
+        "dairy_Attributes_list.csv": {
+            "checksum": "2916269a5440067ed5dd39c3523af5bb"
+        },
+        "dairy_feature_imp_nc.csv": {
+            "checksum": "7ecac3dee618e3bf76d1024b383f6577"
+        },
+        "dairy_feature_imp_nct.csv": {
+            "checksum": "0a843b45264c3fad139f5b4ba803b253"
+        },
+        "dairy_feature_imp_nt.csv": {
+            "checksum": "c235ae09dfcbae3fa6b5e727ecc4621d"
+        },
+        "dairy_final_global_results.csv": {
+            "checksum": "a7a7026304db91a71da9f90fa4e248ce"
+        },
+        "dairy_final_model.xlsx": {
+            "checksum": "a07c1383714f0d94436fd7e6e84f92d3"
+        },
+        "dairy_global_feature_imp_nc.csv": {
+            "checksum": "7acac0d20ae9c659568d5046070a8c8b"
+        },
+        "dairy_global_feature_imp_nct.csv": {
+            "checksum": "5816970c9eb4877d0a4f29de073403f9"
+        },
+        "dairy_global_feature_imp_nt.csv": {
+            "checksum": "4f1fc38bee1663f8804c43aa3104d620"
+        },
+        "dairy_global_nct_results.csv": {
+            "checksum": "9d1b8df7a7d6bdaf73a666856207449c"
+        },
+        "dairy_global_nc_results.csv": {
+            "checksum": "c0c2eef62c0335caa45c058c2bf23470"
+        },
+        "dairy_global_nt_results.csv": {
+            "checksum": "1f75b8a358c810db3f58ea94ef6ba50e"
+        },
+        "dairy_nct_results.csv": {
+            "checksum": "721884bf4feedb11b9dd5a8efe95c619"
+        },
+        "dairy_nc_results.csv": {
+            "checksum": "f432edc91df2b18c7ac9177600cd00bc"
+        },
+        "dairy_nt_results.csv": {
+            "checksum": "20c7d6a9d6f2a70592f4b386df9f1c05"
+        },
+        "Fats&Oils PLM extract for R&D.xlsx": {
+            "checksum": "b518d977d76c96ae0d51e9ce735b10df"
+        },
+        "fno_manual_clusters.xlsx": {
+            "checksum": "2d0d1d83b2f8e5c8811576ba0d308f5f"
+        },
+        "Gelatin Manual Cluster.xlsx": {
+            "checksum": "5ef7b068cac26105f25c5800b41035d0"
+        },
+        "gelatin_beef_Attributes_list.csv": {
+            "checksum": "3ac6a78c6027d3ee157a1701cae7230b"
+        },
+        "gelatin_beef_final_global_results.csv": {
+            "checksum": "55783cf58400572dc44d7cb58b1dc1a0"
+        },
+        "gelatin_beef_global_feature_imp_nc.csv": {
+            "checksum": "c987b85d94cda76b9f8df4d06bc0b246"
+        },
+        "gelatin_beef_global_feature_imp_nct.csv": {
+            "checksum": "e9a1990c08e2cad20ceaee860c77f746"
+        },
+        "gelatin_beef_global_feature_imp_nt.csv": {
+            "checksum": "e9fc8eb846c947a717fec27c100de9c7"
+        },
+        "gelatin_beef_global_nct_results.csv": {
+            "checksum": "585bf021640db94e0e56ddf08ade9f91"
+        },
+        "gelatin_beef_global_nc_results.csv": {
+            "checksum": "12315f24cf4cc3166e304387a1390035"
+        },
+        "gelatin_beef_global_nt_results.csv": {
+            "checksum": "04f89d4812de626baa94b4dfbdea95d4"
+        },
+        "gelatin_extra_Attributes_list.csv": {
+            "checksum": "0c1a5592cec8959a0b41230e17b41830"
+        },
+        "gelatin_pork_Attributes_list.csv": {
+            "checksum": "0c1a5592cec8959a0b41230e17b41830"
+        },
+        "gelatin_pork_final_global_results.csv": {
+            "checksum": "bc94254e16c65d437b2a2173513980fe"
+        },
+        "gelatin_pork_global_feature_imp_nc.csv": {
+            "checksum": "97a62e8cf52c95b188a143618c7cb2f3"
+        },
+        "gelatin_pork_global_feature_imp_nct.csv": {
+            "checksum": "15d93bdfb22a4e6a0fe63c1ba7415112"
+        },
+        "gelatin_pork_global_feature_imp_nt.csv": {
+            "checksum": "afc77299f2d6f18a9e6e464af2b6cf32"
+        },
+        "gelatin_pork_global_nct_results.csv": {
+            "checksum": "f5f17d2a9fddfec526ecd7f22d89d127"
+        },
+        "gelatin_pork_global_nc_results.csv": {
+            "checksum": "976e8df89298c2ceb3505eacd53b7efc"
+        },
+        "gelatin_pork_global_nt_results.csv": {
+            "checksum": "0f690ef8c6abe1fd62a8f48e792ea958"
+        },
+        "Global_DataPrep_Utils.py": {
+            "checksum": "e4a521db24626f380c4f340975ed7fdb"
+        },
+        "Global_Model_Output_Utils.py": {
+            "checksum": "cfaebb22f6dea30b915a036773781975"
+        },
+        "Global_Model_Utils.py": {
+            "checksum": "6ab6447e1412bbe740bfabdf2b4ecea3"
+        },
+        "Hazelnuts_Chopped_Roasted_Nuts_PLM.xlsx": {
+            "checksum": "c691775496430cec32230e9308032fad"
+        },
+        "HIS PLM extract for R&D.xlsx": {
+            "checksum": "6adb8d1a61b226d070e96c57cf77580e"
+        },
+        "his_Attributes_list.csv": {
+            "checksum": "5a09c0d3d851e17059c4359cb4b985aa"
+        },
+        "his_final_global_results.csv": {
+            "checksum": "bab82475c1803bef56259b5bee8bb3ca"
+        },
+        "his_global_feature_imp_nc.csv": {
+            "checksum": "60343b8297722cd76751874d0edab848"
+        },
+        "his_global_feature_imp_nct.csv": {
+            "checksum": "99437b68d2ec9f0508db2ee594f4d2a3"
+        },
+        "his_global_feature_imp_nt.csv": {
+            "checksum": "d4d1c8ff6f04082ca9140b8f12530f68"
+        },
+        "his_global_nct_results.csv": {
+            "checksum": "9932a0f958644a7a26c54bd587878f42"
+        },
+        "his_global_nc_results.csv": {
+            "checksum": "d1d400f82b7b87c5e747b697bdaf4eff"
+        },
+        "his_global_nt_results.csv": {
+            "checksum": "c89d47705e3611692da166104e391e08"
+        },
+        "Honey PLM extract for R&D.xlsx": {
+            "checksum": "6edfd0d252b917c54e45e36264a56766"
+        },
+        "honey_Attributes_list.csv": {
+            "checksum": "6f1258da09b2d6ab9e46b1b3c20c03aa"
+        },
+        "Kitchen MEU dairy spec manual clusters.xlsx": {
+            "checksum": "dce3e543e8609317823438403e3f9cb0"
+        },
+        "Kitchen_global.py": {
+            "checksum": "986a9fa8faeb4916764946058b17994d"
+        },
+        "Lecithin data - PROPOSED - 10 Nov.xlsx": {
+            "checksum": "3ddddaa55662016983504790312aee07"
+        },
+        "lecithin PLM extract for R&D.xlsx": {
+            "checksum": "dc00f9407151d274dbf868315d6bf2de"
+        },
+        "lecithin_Attributes_list.csv": {
+            "checksum": "289bc514bc6deefb8e71138ce5e22eed"
+        },
+        "lecithin_final_global_results.csv": {
+            "checksum": "cf1af30d20666005ac77c22acdcc1806"
+        },
+        "lecithin_global_feature_imp_nc.csv": {
+            "checksum": "a55727a7284c2852df4ebee3eaf34151"
+        },
+        "lecithin_global_feature_imp_nct.csv": {
+            "checksum": "952f3c48d96eab74847f710bee119618"
+        },
+        "lecithin_global_feature_imp_nt.csv": {
+            "checksum": "331e83c8cbfc872ff13a4a4a38a9cd10"
+        },
+        "lecithin_global_nct_results.csv": {
+            "checksum": "2dc80696d2f190fdb4d87760e6e44ef3"
+        },
+        "lecithin_global_nc_results.csv": {
+            "checksum": "79ef03cf62135f877d4e9e158a446f5b"
+        },
+        "lecithin_global_nt_results.csv": {
+            "checksum": "9a0ef5a4dc0fce10ea4d8bda17dfd1f5"
+        },
+        "Libraries.py": {
+            "checksum": "ed4e55f813dc9f6b9a3e08a885a2049a"
+        },
+        "Libraries.pyc": {
+            "checksum": "7d11ce915f623a5acc5d04236b012eb8"
+        },
+        "Malic acids PLM extract for R&D.xlsx": {
+            "checksum": "7ccddb942aafe38a20aa0e03420d8c61"
+        },
+        "malic_Attributes_list.csv": {
+            "checksum": "b9f517e8974c1d2794d483f6741a8f75"
+        },
+        "malic_final_global_results.csv": {
+            "checksum": "038837a0c2ea12589f710a0df550d86c"
+        },
+        "malic_global_feature_imp_nc.csv": {
+            "checksum": "d4363156313dfdb6852f6c64926dd252"
+        },
+        "malic_global_feature_imp_nct.csv": {
+            "checksum": "e311196d2307912baf1217c11f505126"
+        },
+        "malic_global_feature_imp_nt.csv": {
+            "checksum": "2d6bd6cd1963d2ede70c09a194c941aa"
+        },
+        "malic_global_nct_results.csv": {
+            "checksum": "a4f33731419a6efe84ffa20c45c54424"
+        },
+        "malic_global_nc_results.csv": {
+            "checksum": "a898edea2d66565a7be26a46d0aa4228"
+        },
+        "malic_global_nt_results.csv": {
+            "checksum": "39255fda364adecb9574aca432f97529"
+        },
+        "modelruntimelog.csv": {
+            "checksum": "475612477be99b37bdf89255cb311f32"
+        },
+        "new_clustering colours_230302.xlsx": {
+            "checksum": "1509363153f77edfb3b3e213d425b40e"
+        },
+        "Nuts PLM extract for R&D.xlsx": {
+            "checksum": "a01b136e0504faacdf31c99658ac494a"
+        },
+        "pbi1.xlsx": {
+            "checksum": "57a2eda02e63e263989481bd8b638c20"
+        },
+        "PGPR PLM extract for R&D.xlsx": {
+            "checksum": "627bbc96a4fe75c13dc0e48227f29a47"
+        },
+        "PGPR_Attributes_list.csv": {
+            "checksum": "4ed468b6fbe730e5f236e2f1e71f4b6a"
+        },
+        "Plant proteins and foaming ingredients PLM extract for R&D_Foaming.xlsx": {
+            "checksum": "cb2443996fae3be0246353214eaf4355"
+        },
+        "Plant proteins and foaming ingredients PLM extract for R&D_PlantProtein.xlsx": {
+            "checksum": "3b58a757236a2bc5f4267ccde520f8ef"
+        },
+        "requirements - Copy.txt": {
+            "checksum": "a7cc98c77c0baf33842daf20b0e6326c"
+        },
+        "requirements.txt": {
+            "checksum": "231eceeca9a9d8139e7a4e484a5dd814"
+        },
+        "Salts PLM extract for R&D (1).xlsx": {
+            "checksum": "1c19e07386a229a642ae8dc47fa041ef"
+        },
+        "salt_Attributes_list.csv": {
+            "checksum": "b87b6973cfaa07a5de81c825acfaa6fb"
+        },
+        "sample_spec.csv": {
+            "checksum": "ae38c28d99143d6fb4b76f6be841d7bf"
+        },
+        "selection_metadata.csv": {
+            "checksum": "7557012cf7fe17eb46efcbc4c443a6de"
+        },
+        "selection_metadata.xlsx": {
+            "checksum": "329aefb15d2d37282b8eb96604fb3353"
+        },
+        "simplified component list.xlsx": {
+            "checksum": "e2be7e6930b683e3d38b3ba1828bd4b6"
+        },
+        "Starches PLM extract for R&D.xlsx": {
+            "checksum": "524817ca4bae91edbe99b85f14b72798"
+        },
+        "starch_Attributes_list.csv": {
+            "checksum": "ea5cdf864d22c92364df23d20267bbf6"
+        },
+        "Sugars PLM extract for R&D.xlsx": {
+            "checksum": "cc3f1fb9ca9d06667b5b969d1a9b44be"
+        },
+        "sugar_Attributes_list.csv": {
+            "checksum": "8feaa37fea3dc8fa719ff2ce9d0b0ab0"
+        },
+        "sugar_final_global_results.csv": {
+            "checksum": "45051acfa411fcabffe53a3e2cfc7d31"
+        },
+        "sugar_global_feature_imp_nc.csv": {
+            "checksum": "0703545da11945862e9062a779a0eff5"
+        },
+        "sugar_global_feature_imp_nct.csv": {
+            "checksum": "034fc1b0de0ceae0cfcd4bbbcd98570d"
+        },
+        "sugar_global_feature_imp_nt.csv": {
+            "checksum": "cd2cda4b48e15f0234d813aced41d950"
+        },
+        "sugar_global_nct_results.csv": {
+            "checksum": "89590bf21de8d4d93011e28b7535d44d"
+        },
+        "sugar_global_nc_results.csv": {
+            "checksum": "b9ede4028e70525140837d114b319b74"
+        },
+        "sugar_global_nt_results.csv": {
+            "checksum": "01a93c7b22cb195209259c0bf7186e9c"
+        },
+        "Syrups PLM extract for R&D.xlsx": {
+            "checksum": "737877a0dbe552a5ab6d93a3af386f6e"
+        },
+        "UI/Code/__pycache__/app.cpython-37.pyc": {
+            "checksum": "f9c0146e7735a31112b8d4cff5c08c40"
+        },
+        "UI/Code/__pycache__/constants.cpython-311.pyc": {
+            "checksum": "2ba00f4390fff19426268f8e224618cd"
+        },
+        "UI/Code/__pycache__/constants.cpython-37.pyc": {
+            "checksum": "9f0e12ccd5806db9c180a01ae66940f9"
+        },
+        "UI/Code/__pycache__/Draft_1.cpython-37.pyc": {
+            "checksum": "542b8e462488ae95ee8321cb4caf4b68"
+        },
+        "UI/Code/__pycache__/helper_functions.cpython-311.pyc": {
+            "checksum": "c28d7eca33079542b75cc721a2514b4e"
+        },
+        "UI/Code/__pycache__/helper_functions.cpython-37.pyc": {
+            "checksum": "31254db0d4b8820a600e9f5e53149cd9"
+        },
+        "UI/Code/__pycache__/helper_functions.cpython-38.pyc": {
+            "checksum": "ef399b9d2cd76909430f0ad07f3990a9"
+        },
+        "UI/Code/__pycache__/helper_functions.cpython-39.pyc": {
+            "checksum": "697ada7a29d17bb5efd587c7b75713cb"
+        },
+        "UI/Code/__pycache__/regression.cpython-311.pyc": {
+            "checksum": "4ec31148d13450463fc96b8559f3afe1"
+        },
+        "UI/Code/__pycache__/regression.cpython-37.pyc": {
+            "checksum": "6dc09da047e47ed4b6cc394c0e5eabee"
+        },
+        "UI/Code/__pycache__/regression.cpython-39.pyc": {
+            "checksum": "e4986c13a94970eeea38312f9a393800"
+        },
+        "UI/Code/__pycache__/sql.cpython-39.pyc": {
+            "checksum": "fd4809851213829fa60591fb5ace2cee"
+        },
+        "UI/Code/__pycache__/test.cpython-311.pyc": {
+            "checksum": "b083a3b2daed5cc44552bf335ebcc3e6"
+        },
+        "UI/Code/__pycache__/test.cpython-38.pyc": {
+            "checksum": "f8a4beae6487e07ef5b3ffa82e7417c7"
+        },
+        "UI/Code/__pycache__/utilities.cpython-311.pyc": {
+            "checksum": "0bebffbab58944597f73a62d8691d3c5"
+        },
+        "UI/Code/__pycache__/utilities.cpython-37.pyc": {
+            "checksum": "abf221e6f366c2a607bc936bbd882b44"
+        },
+        "Utils.py": {
+            "checksum": "66f3c4a7da0fc75b7984aa41cc1a6dae"
+        },
+        "Wheat flour PLM extract for R&D (5).xlsx": {
+            "checksum": "3a2af4b76ea21e7ffe31d3caa21f2c59"
+        },
+        "Working_codes/__pycache__/config.cpython-37.pyc": {
+            "checksum": "6e8952dd49bbaab213540acce5f69f3c"
+        },
+        "Working_codes/__pycache__/Global_DataPrep_Utils.cpython-37.pyc": {
+            "checksum": "4ada72643b9ba2191e25e32a393278c6"
+        },
+        "Working_codes/__pycache__/Global_Model_Output_Utils.cpython-37.pyc": {
+            "checksum": "3249af2a6dc8b7dd15504f53a5996aae"
+        },
+        "Working_codes/__pycache__/Global_Model_Utils.cpython-37.pyc": {
+            "checksum": "bd2dc31fbe3eab2207f04b869f21eaac"
+        },
+        "Working_codes/__pycache__/Kitchen_global.cpython-37.pyc": {
+            "checksum": "70f1c84641859e2b2d154c96dbbd66c8"
+        },
+        "Working_codes/__pycache__/Libraries.cpython-37.pyc": {
+            "checksum": "7d5532c22765ef8d891e0b06ecae8c38"
+        },
+        "Working_codes/__pycache__/Utils.cpython-37.pyc": {
+            "checksum": "c309135c8d2c051d43d78871ebca7191"
+        },
+        "__pycache__/config.cpython-37.pyc": {
+            "checksum": "f69791d3ee54c6b16196c678491e6977"
+        },
+        "__pycache__/config.cpython-39.pyc": {
+            "checksum": "a1b2b4d2065a60ea7e6ca87c49415986"
+        },
+        "__pycache__/Global_DataPrep_Utils.cpython-37.pyc": {
+            "checksum": "d9fd45020afdac3c925380bf3c859fb4"
+        },
+        "__pycache__/Global_DataPrep_Utils.cpython-39.pyc": {
+            "checksum": "d28263a3508eeabbff591b16cc2c21e0"
+        },
+        "__pycache__/Global_Model_Output_Utils.cpython-37.pyc": {
+            "checksum": "fe6a19afab96a9dd11bf1a8b142f693a"
+        },
+        "__pycache__/Global_Model_Output_Utils.cpython-39.pyc": {
+            "checksum": "e3e40a3773b0366e602c1bd4fa749a25"
+        },
+        "__pycache__/Global_Model_Utils.cpython-37.pyc": {
+            "checksum": "4f52af9add114b4d9db8c1111bcbb257"
+        },
+        "__pycache__/Global_Model_Utils.cpython-39.pyc": {
+            "checksum": "caeaabf3ec0b5f65e8691d35ba44ae1e"
+        },
+        "__pycache__/Kitchen_global.cpython-37.pyc": {
+            "checksum": "1ee730a6e7f2e8fd4f922ebc3c347343"
+        },
+        "__pycache__/Kitchen_global.cpython-39.pyc": {
+            "checksum": "147e198fed83f57c8153fbe2ed5c778b"
+        },
+        "__pycache__/Libraries.cpython-37.pyc": {
+            "checksum": "3b7fd3b39fa5adf2faf2e4feddd59fe7"
+        },
+        "__pycache__/Libraries.cpython-39.pyc": {
+            "checksum": "448fd02f8735d305442e534235ef6b7c"
+        },
+        "__pycache__/Utils.cpython-37.pyc": {
+            "checksum": "defdbb8242255562b57ddbedf4c2dddc"
+        },
+        "__pycache__/Utils.cpython-39.pyc": {
+            "checksum": "3c906034affe8fb737fe2655498826e7"
+        }
+    }
+}

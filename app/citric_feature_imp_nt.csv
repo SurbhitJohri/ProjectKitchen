@@ -1,0 +1,2053 @@
+feature_name,Model 1,feature_imp_scaled_vals,Region,Model,Model 2
+Quantitative - Assay (anhydrous basis) - Max,0.0,1.0,MEU,Model 1,
+Total Solids %,0.0,0.5886613951246726,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Total Shelf Life,0.0,0.5691195332674966,MEU,Model 1,
+"Standard Composition - CITRIC ACID - Value, %",0.0,0.49728191398462734,MEU,Model 1,
+Quantitative - Moisture - Max,0.0,0.28757755180030503,MEU,Model 1,
+anhydrous,0.0,0.23133270125343394,MEU,Model 1,
+acid,0.0,0.22375616447892935,MEU,Model 1,
+others,0.0,0.210108617270435,MEU,Model 1,
+colour,0.0,0.20665329403845167,MEU,Model 1,
+"Quantitative - Ash, sulphated - Max",0.0,0.16733104551929273,MEU,Model 1,
+citric,0.0,0.16422523920760668,MEU,Model 1,
+eur,0.0,0.15434350025384194,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,0.0,0.14285887932852334,MEU,Model 1,
+additive,0.0,0.13410190435527297,MEU,Model 1,
+water,0.0,0.13088039425560913,MEU,Model 1,
+karl,0.0,0.12651754461205764,MEU,Model 1,
+monohydrated,0.0,0.10789638798060869,MEU,Model 1,
+comparision,0.0,0.10167679337421548,MEU,Model 1,
+monograph,0.0,0.1016711226246089,MEU,Model 1,
+fischer,0.0,0.10121089885858686,MEU,Model 1,
+medium,0.0,0.09546422040084118,MEU,Model 1,
+Quantitative - Sulphates - Max,0.0,0.09159884512482355,MEU,Model 1,
+fine,0.0,0.0865267718792968,MEU,Model 1,
+ph,0.0,0.07329743881762787,MEU,Model 1,
+citricacid,0.0,0.0638701758462708,MEU,Model 1,
+aocs,0.0,0.055222588218683276,MEU,Model 1,
+encapsulated,0.0,0.05379971298632718,MEU,Model 1,
+gran,0.0,0.05346161434882452,MEU,Model 1,
+powder,0.0,0.053261714749928364,MEU,Model 1,
+citricacidnon,0.0,0.053256260918450184,MEU,Model 1,
+cformin,0.0,0.047254767646609096,MEU,Model 1,
+gmo,0.0,0.04461017496558547,MEU,Model 1,
+mediumgran,0.0,0.04206696479409366,MEU,Model 1,
+min,0.0,0.039501939743784555,MEU,Model 1,
+donot,0.0,0.039462639420999396,MEU,Model 1,
+proposedharmonizeto,0.0,0.03908748975611949,MEU,Model 1,
+fcc,0.0,0.038287350993916155,MEU,Model 1,
+granular,0.0,0.030377097991077396,MEU,Model 1,
+proposed,0.0,0.029201977842592673,MEU,Model 1,
+harmonized,0.0,0.029083498692655464,MEU,Model 1,
+monohydrate,0.0,0.026871009021242263,MEU,Model 1,
+comparison,0.0,0.026571774959409888,MEU,Model 1,
+encaps,0.0,0.0255026346309793,MEU,Model 1,
+jecfa,0.0,0.02394979944645353,MEU,Model 1,
+non,0.0,0.02362597855785324,MEU,Model 1,
+hplc,0.0,0.023402518153063184,MEU,Model 1,
+use,0.0,0.013911108682027608,MEU,Model 1,
+jab,0.0,0.013719419826362917,MEU,Model 1,
+comparativesolution,0.0,0.013604867584076745,MEU,Model 1,
+color,0.0,0.012823123017363247,MEU,Model 1,
+opalescencesolution,0.0,0.012546724996548807,MEU,Model 1,
+thiswillbeharmonizedto,0.0,0.009557409264879952,MEU,Model 1,
+crystals,0.0,0.007869700662985703,MEU,Model 1,
+harmonize,0.0,0.006545117290128228,MEU,Model 1,
+citricacidmonohydrate,0.0,0.005568459373500376,MEU,Model 1,
+ngm,0.0,0.0049666152229466826,MEU,Model 1,
+soln,0.0,0.0029956512047247287,MEU,Model 1,
+citricacidmonohydratedfinegranular,0.0,0.0,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Total Shelf Life,1.0,1.0,MEU,Model 1,
+"Standard Composition - CITRIC ACID - Value, %",1.0,0.9084151790771081,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,1.0,0.3758578054910585,MEU,Model 1,
+Quantitative - Assay (anhydrous basis) - Max,1.0,0.3598237428434132,MEU,Model 1,
+others,1.0,0.33848293350482256,MEU,Model 1,
+Quantitative - Moisture - Max,1.0,0.2959990733970027,MEU,Model 1,
+eur,1.0,0.2922343915428606,MEU,Model 1,
+citric,1.0,0.2849334349791847,MEU,Model 1,
+Total Solids %,1.0,0.2665999382317975,MEU,Model 1,
+water,1.0,0.2307752294814589,MEU,Model 1,
+encapsulated,1.0,0.19279543583992528,MEU,Model 1,
+ph,1.0,0.15871014270869477,MEU,Model 1,
+fischer,1.0,0.14617200899001542,MEU,Model 1,
+"Quantitative - Ash, sulphated - Max",1.0,0.13135048784472383,MEU,Model 1,
+acid,1.0,0.13071397416580421,MEU,Model 1,
+ngm,1.0,0.13010564987882312,MEU,Model 1,
+citricacid,1.0,0.12033546043446393,MEU,Model 1,
+karl,1.0,0.10527068987028468,MEU,Model 1,
+comparision,1.0,0.09098758329626729,MEU,Model 1,
+colour,1.0,0.09043739974572496,MEU,Model 1,
+additive,1.0,0.09031649269550206,MEU,Model 1,
+soln,1.0,0.07030136641085342,MEU,Model 1,
+powder,1.0,0.06993857108862553,MEU,Model 1,
+encaps,1.0,0.06601392207890996,MEU,Model 1,
+crystals,1.0,0.06519273627934521,MEU,Model 1,
+monograph,1.0,0.06074483597587994,MEU,Model 1,
+Quantitative - Sulphates - Max,1.0,0.05458342026497099,MEU,Model 1,
+jecfa,1.0,0.044837249558516715,MEU,Model 1,
+monohydrated,1.0,0.037572477621193645,MEU,Model 1,
+anhydrous,1.0,0.03443879404718121,MEU,Model 1,
+proposed,1.0,0.03393742269581779,MEU,Model 1,
+jab,1.0,0.027788051018704983,MEU,Model 1,
+harmonize,1.0,0.02628431952891824,MEU,Model 1,
+fcc,1.0,0.025898139327618433,MEU,Model 1,
+min,1.0,0.025515369048243704,MEU,Model 1,
+comparison,1.0,0.024484517239299435,MEU,Model 1,
+aocs,1.0,0.014227320035812695,MEU,Model 1,
+use,1.0,0.014026446946474395,MEU,Model 1,
+harmonized,1.0,0.01384910598853907,MEU,Model 1,
+hplc,1.0,0.011446821532582186,MEU,Model 1,
+medium,1.0,0.011124187205724162,MEU,Model 1,
+gran,1.0,0.0076213344432489874,MEU,Model 1,
+proposedharmonizeto,1.0,0.007609001529647559,MEU,Model 1,
+fine,1.0,0.0070215307631789105,MEU,Model 1,
+gmo,1.0,0.006079588820782779,MEU,Model 1,
+opalescencesolution,1.0,0.005860511052871147,MEU,Model 1,
+non,1.0,0.005376935258749057,MEU,Model 1,
+monohydrate,1.0,0.005182087915772102,MEU,Model 1,
+granular,1.0,0.0040319391363369695,MEU,Model 1,
+citricacidnon,1.0,0.0033040591979393644,MEU,Model 1,
+mediumgran,1.0,0.0027785230631422885,MEU,Model 1,
+color,1.0,0.0025695815199474896,MEU,Model 1,
+citricacidmonohydratedfinegranular,1.0,0.0,MEU,Model 1,
+citricacidmonohydrate,1.0,0.0,MEU,Model 1,
+cformin,1.0,0.0,MEU,Model 1,
+donot,1.0,0.0,MEU,Model 1,
+thiswillbeharmonizedto,1.0,0.0,MEU,Model 1,
+comparativesolution,1.0,0.0,MEU,Model 1,
+Quantitative - Assay (anhydrous basis) - Max,2.0,1.0,MEU,Model 1,
+colour,2.0,0.9600503132461685,MEU,Model 1,
+comparision,2.0,0.6731633577650312,MEU,Model 1,
+Total Solids %,2.0,0.6307541424886132,MEU,Model 1,
+Quantitative - Moisture - Max,2.0,0.5488296004080855,MEU,Model 1,
+water,2.0,0.429799185159575,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Total Shelf Life,2.0,0.41093679738890243,MEU,Model 1,
+monohydrated,2.0,0.39661951925696676,MEU,Model 1,
+"Standard Composition - CITRIC ACID - Value, %",2.0,0.34079663054712567,MEU,Model 1,
+citric,2.0,0.2534970235161643,MEU,Model 1,
+eur,2.0,0.2197681980804242,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,2.0,0.21413277507714654,MEU,Model 1,
+monograph,2.0,0.2100694073392686,MEU,Model 1,
+comparativesolution,2.0,0.20690415993234906,MEU,Model 1,
+additive,2.0,0.20549552340347468,MEU,Model 1,
+karl,2.0,0.18359737111183613,MEU,Model 1,
+others,2.0,0.16999108579364253,MEU,Model 1,
+citricacid,2.0,0.16486683194499155,MEU,Model 1,
+opalescencesolution,2.0,0.15171230533590369,MEU,Model 1,
+monohydrate,2.0,0.1506114755651183,MEU,Model 1,
+"Quantitative - Ash, sulphated - Max",2.0,0.14506421976385667,MEU,Model 1,
+hplc,2.0,0.14257335398010781,MEU,Model 1,
+granular,2.0,0.13580414546563008,MEU,Model 1,
+acid,2.0,0.12770960201139966,MEU,Model 1,
+fcc,2.0,0.11545389628022751,MEU,Model 1,
+fischer,2.0,0.10295354869556254,MEU,Model 1,
+ph,2.0,0.09882031905139858,MEU,Model 1,
+citricacidmonohydrate,2.0,0.09557064241357091,MEU,Model 1,
+min,2.0,0.08722149029549615,MEU,Model 1,
+powder,2.0,0.08695081577667135,MEU,Model 1,
+anhydrous,2.0,0.08583180855821511,MEU,Model 1,
+cformin,2.0,0.05868335011243481,MEU,Model 1,
+gran,2.0,0.05602701432386938,MEU,Model 1,
+Quantitative - Sulphates - Max,2.0,0.05047206610886591,MEU,Model 1,
+proposedharmonizeto,2.0,0.04960028265779048,MEU,Model 1,
+proposed,2.0,0.04380913093853559,MEU,Model 1,
+encapsulated,2.0,0.04241668216368477,MEU,Model 1,
+fine,2.0,0.0331911707932202,MEU,Model 1,
+thiswillbeharmonizedto,2.0,0.031199025635876326,MEU,Model 1,
+citricacidnon,2.0,0.02981593685239728,MEU,Model 1,
+citricacidmonohydratedfinegranular,2.0,0.027232094548125408,MEU,Model 1,
+donot,2.0,0.022205370151208936,MEU,Model 1,
+comparison,2.0,0.021737939477393,MEU,Model 1,
+harmonized,2.0,0.020576182550327258,MEU,Model 1,
+jecfa,2.0,0.019630682108518076,MEU,Model 1,
+non,2.0,0.019362115835163708,MEU,Model 1,
+aocs,2.0,0.01665159947997638,MEU,Model 1,
+harmonize,2.0,0.016383644158117897,MEU,Model 1,
+ngm,2.0,0.015840628608780778,MEU,Model 1,
+mediumgran,2.0,0.014428076760044855,MEU,Model 1,
+crystals,2.0,0.013458334226492891,MEU,Model 1,
+medium,2.0,0.009716582556914443,MEU,Model 1,
+encaps,2.0,0.006448043220535248,MEU,Model 1,
+jab,2.0,0.0,MEU,Model 1,
+color,2.0,0.0,MEU,Model 1,
+gmo,2.0,0.0,MEU,Model 1,
+use,2.0,0.0,MEU,Model 1,
+soln,2.0,0.0,MEU,Model 1,
+water,3.0,1.0,MEU,Model 1,
+monograph,3.0,0.8562472072296545,MEU,Model 1,
+min,3.0,0.8313429733327874,MEU,Model 1,
+Quantitative - Assay (anhydrous basis) - Max,3.0,0.7593217314531236,MEU,Model 1,
+Total Solids %,3.0,0.6535600690254747,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Total Shelf Life,3.0,0.6091260912705847,MEU,Model 1,
+others,3.0,0.5965783013008423,MEU,Model 1,
+citric,3.0,0.5491008333901276,MEU,Model 1,
+Quantitative - Moisture - Max,3.0,0.5117902522062211,MEU,Model 1,
+acid,3.0,0.5055703203969479,MEU,Model 1,
+eur,3.0,0.46228738485447146,MEU,Model 1,
+ph,3.0,0.40588892100929724,MEU,Model 1,
+colour,3.0,0.3143451311254907,MEU,Model 1,
+harmonized,3.0,0.3002007796490855,MEU,Model 1,
+comparison,3.0,0.28070237321593167,MEU,Model 1,
+fischer,3.0,0.2784004083762058,MEU,Model 1,
+"Standard Composition - CITRIC ACID - Value, %",3.0,0.2581784772466435,MEU,Model 1,
+use,3.0,0.1988990828874545,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,3.0,0.17411982317057542,MEU,Model 1,
+fcc,3.0,0.16989298672308129,MEU,Model 1,
+anhydrous,3.0,0.16845001148392633,MEU,Model 1,
+"Quantitative - Ash, sulphated - Max",3.0,0.1579148508652527,MEU,Model 1,
+karl,3.0,0.15509052632165754,MEU,Model 1,
+monohydrated,3.0,0.15198463861466185,MEU,Model 1,
+comparision,3.0,0.1477803964490812,MEU,Model 1,
+powder,3.0,0.1474785693484211,MEU,Model 1,
+donot,3.0,0.14279969720477342,MEU,Model 1,
+citricacidmonohydrate,3.0,0.14056144136571186,MEU,Model 1,
+thiswillbeharmonizedto,3.0,0.13227662674479015,MEU,Model 1,
+Quantitative - Sulphates - Max,3.0,0.11150162445781195,MEU,Model 1,
+cformin,3.0,0.10224720727867342,MEU,Model 1,
+proposedharmonizeto,3.0,0.100757104675638,MEU,Model 1,
+opalescencesolution,3.0,0.09828754482513345,MEU,Model 1,
+citricacid,3.0,0.09235532402058182,MEU,Model 1,
+additive,3.0,0.08826065703109645,MEU,Model 1,
+harmonize,3.0,0.07003284089445834,MEU,Model 1,
+comparativesolution,3.0,0.05854789181676747,MEU,Model 1,
+color,3.0,0.052414269807346425,MEU,Model 1,
+medium,3.0,0.051933612277427633,MEU,Model 1,
+jecfa,3.0,0.03514155034319574,MEU,Model 1,
+monohydrate,3.0,0.03441293558708162,MEU,Model 1,
+proposed,3.0,0.03133499678710106,MEU,Model 1,
+mediumgran,3.0,0.026577619975171083,MEU,Model 1,
+encapsulated,3.0,0.025866529170452884,MEU,Model 1,
+gmo,3.0,0.022644274429194058,MEU,Model 1,
+hplc,3.0,0.01720017535667265,MEU,Model 1,
+ngm,3.0,0.017183741385915895,MEU,Model 1,
+granular,3.0,0.01706044069070505,MEU,Model 1,
+jab,3.0,0.016587392518365586,MEU,Model 1,
+citricacidnon,3.0,0.01566123029879791,MEU,Model 1,
+soln,3.0,0.009766227619241062,MEU,Model 1,
+fine,3.0,0.008994727561492858,MEU,Model 1,
+gran,3.0,0.0073173464878429455,MEU,Model 1,
+crystals,3.0,0.006408144071638543,MEU,Model 1,
+citricacidmonohydratedfinegranular,3.0,0.0,MEU,Model 1,
+non,3.0,0.0,MEU,Model 1,
+aocs,3.0,0.0,MEU,Model 1,
+encaps,3.0,0.0,MEU,Model 1,
+powder,4.0,1.0,MEU,Model 1,
+acid,4.0,0.8876185397035156,MEU,Model 1,
+eur,4.0,0.8361130034052832,MEU,Model 1,
+"Quantitative - Ash, sulphated - Max",4.0,0.827534646244676,MEU,Model 1,
+Quantitative - Assay (anhydrous basis) - Max,4.0,0.7341052287788615,MEU,Model 1,
+"Standard Composition - CITRIC ACID - Value, %",4.0,0.701323470875907,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Total Shelf Life,4.0,0.6930239230151081,MEU,Model 1,
+aocs,4.0,0.6230917344277536,MEU,Model 1,
+citric,4.0,0.5901306410323287,MEU,Model 1,
+jab,4.0,0.509281484564171,MEU,Model 1,
+Total Solids %,4.0,0.4698613103406473,MEU,Model 1,
+water,4.0,0.45800793017245406,MEU,Model 1,
+others,4.0,0.43011731499553396,MEU,Model 1,
+ph,4.0,0.4238197016542106,MEU,Model 1,
+fischer,4.0,0.4145141708824091,MEU,Model 1,
+monograph,4.0,0.2888575238138936,MEU,Model 1,
+colour,4.0,0.25055929558444057,MEU,Model 1,
+Quantitative - Moisture - Max,4.0,0.23264473945736042,MEU,Model 1,
+comparision,4.0,0.2273914691555054,MEU,Model 1,
+jecfa,4.0,0.21344365370691004,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,4.0,0.20037008270108764,MEU,Model 1,
+additive,4.0,0.18611101207565775,MEU,Model 1,
+min,4.0,0.1715996844262913,MEU,Model 1,
+citricacid,4.0,0.16805986133237213,MEU,Model 1,
+Quantitative - Sulphates - Max,4.0,0.1454281228163663,MEU,Model 1,
+ngm,4.0,0.1372574013988197,MEU,Model 1,
+monohydrated,4.0,0.13151308480284993,MEU,Model 1,
+karl,4.0,0.12899930370626306,MEU,Model 1,
+anhydrous,4.0,0.12260100818742856,MEU,Model 1,
+fcc,4.0,0.1177435266950535,MEU,Model 1,
+use,4.0,0.1049483363169613,MEU,Model 1,
+harmonize,4.0,0.09390990510921933,MEU,Model 1,
+citricacidnon,4.0,0.059180807357652625,MEU,Model 1,
+encapsulated,4.0,0.054504162729519134,MEU,Model 1,
+crystals,4.0,0.053062504693675724,MEU,Model 1,
+thiswillbeharmonizedto,4.0,0.04860944500967809,MEU,Model 1,
+mediumgran,4.0,0.03201313149477353,MEU,Model 1,
+harmonized,4.0,0.029686013579300504,MEU,Model 1,
+monohydrate,4.0,0.02924909088216699,MEU,Model 1,
+comparativesolution,4.0,0.02875604024224068,MEU,Model 1,
+non,4.0,0.027991133385788677,MEU,Model 1,
+opalescencesolution,4.0,0.02593710752674491,MEU,Model 1,
+encaps,4.0,0.025380167732476856,MEU,Model 1,
+medium,4.0,0.021924477961901882,MEU,Model 1,
+comparison,4.0,0.021872841064619043,MEU,Model 1,
+hplc,4.0,0.02011999126448795,MEU,Model 1,
+gran,4.0,0.019536452893134628,MEU,Model 1,
+proposedharmonizeto,4.0,0.017739047465279316,MEU,Model 1,
+soln,4.0,0.016180998802189157,MEU,Model 1,
+fine,4.0,0.014939174894755623,MEU,Model 1,
+granular,4.0,0.009100609205994677,MEU,Model 1,
+gmo,4.0,0.0,MEU,Model 1,
+donot,4.0,0.0,MEU,Model 1,
+citricacidmonohydratedfinegranular,4.0,0.0,MEU,Model 1,
+citricacidmonohydrate,4.0,0.0,MEU,Model 1,
+proposed,4.0,0.0,MEU,Model 1,
+color,4.0,0.0,MEU,Model 1,
+cformin,4.0,0.0,MEU,Model 1,
+Quantitative - Assay (anhydrous basis) - Max,5.0,1.0,MEU,Model 1,
+"Standard Composition - CITRIC ACID - Value, %",5.0,0.885405674036763,MEU,Model 1,
+monohydrated,5.0,0.8602815466970695,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Total Shelf Life,5.0,0.8147301016734145,MEU,Model 1,
+water,5.0,0.8110716199225074,MEU,Model 1,
+eur,5.0,0.7636381242220713,MEU,Model 1,
+proposedharmonizeto,5.0,0.6712365939959614,MEU,Model 1,
+Quantitative - Sulphates - Max,5.0,0.6304351255704557,MEU,Model 1,
+others,5.0,0.6296248733018927,MEU,Model 1,
+colour,5.0,0.6264589203101546,MEU,Model 1,
+acid,5.0,0.5820585614447997,MEU,Model 1,
+harmonize,5.0,0.5565901207598477,MEU,Model 1,
+fcc,5.0,0.5508690110541173,MEU,Model 1,
+Quantitative - Moisture - Max,5.0,0.542799881417426,MEU,Model 1,
+citric,5.0,0.5185760201316818,MEU,Model 1,
+min,5.0,0.49621968066857913,MEU,Model 1,
+proposed,5.0,0.4813088081280794,MEU,Model 1,
+ph,5.0,0.47085128989658365,MEU,Model 1,
+"Quantitative - Ash, sulphated - Max",5.0,0.4644674115595854,MEU,Model 1,
+Total Solids %,5.0,0.4459712585521299,MEU,Model 1,
+monograph,5.0,0.43993127430495876,MEU,Model 1,
+comparision,5.0,0.3912244818827134,MEU,Model 1,
+fischer,5.0,0.3336030804855225,MEU,Model 1,
+jecfa,5.0,0.2546589231837371,MEU,Model 1,
+additive,5.0,0.20382441890281247,MEU,Model 1,
+karl,5.0,0.18836159485835602,MEU,Model 1,
+comparativesolution,5.0,0.1761653796652175,MEU,Model 1,
+aocs,5.0,0.16643787597945306,MEU,Model 1,
+fine,5.0,0.16457472468433013,MEU,Model 1,
+anhydrous,5.0,0.09327126505396521,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,5.0,0.09301341228576301,MEU,Model 1,
+powder,5.0,0.06806566082420615,MEU,Model 1,
+encapsulated,5.0,0.06167439444724692,MEU,Model 1,
+citricacid,5.0,0.06135785810060011,MEU,Model 1,
+thiswillbeharmonizedto,5.0,0.03544114287728685,MEU,Model 1,
+encaps,5.0,0.03511985809323406,MEU,Model 1,
+gmo,5.0,0.03353281770800452,MEU,Model 1,
+crystals,5.0,0.03197202072977033,MEU,Model 1,
+granular,5.0,0.030966624236027782,MEU,Model 1,
+use,5.0,0.03084074222152633,MEU,Model 1,
+opalescencesolution,5.0,0.028608307683821735,MEU,Model 1,
+soln,5.0,0.028063116749440366,MEU,Model 1,
+harmonized,5.0,0.026184040664830495,MEU,Model 1,
+medium,5.0,0.019785495862378547,MEU,Model 1,
+mediumgran,5.0,0.01833773861820485,MEU,Model 1,
+monohydrate,5.0,0.017585111630263224,MEU,Model 1,
+non,5.0,0.0164348842341925,MEU,Model 1,
+comparison,5.0,0.014511096358606852,MEU,Model 1,
+color,5.0,0.01445913062716437,MEU,Model 1,
+citricacidnon,5.0,0.013290864104352712,MEU,Model 1,
+jab,5.0,0.010723962741577008,MEU,Model 1,
+ngm,5.0,0.010193773056530856,MEU,Model 1,
+gran,5.0,0.010165638903933091,MEU,Model 1,
+hplc,5.0,0.0,MEU,Model 1,
+citricacidmonohydratedfinegranular,5.0,0.0,MEU,Model 1,
+cformin,5.0,0.0,MEU,Model 1,
+donot,5.0,0.0,MEU,Model 1,
+citricacidmonohydrate,5.0,0.0,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Total Shelf Life,6.0,1.0,MEU,Model 1,
+citric,6.0,0.7261280319647875,MEU,Model 1,
+"Quantitative - Ash, sulphated - Max",6.0,0.5058465235544628,MEU,Model 1,
+soln,6.0,0.4900004810408066,MEU,Model 1,
+acid,6.0,0.40371174776203694,MEU,Model 1,
+karl,6.0,0.3932347775397506,MEU,Model 1,
+Total Solids %,6.0,0.3838577991055464,MEU,Model 1,
+Quantitative - Moisture - Max,6.0,0.3821549422560415,MEU,Model 1,
+others,6.0,0.32391939835071215,MEU,Model 1,
+Quantitative - Assay (anhydrous basis) - Max,6.0,0.27983272609717535,MEU,Model 1,
+"Standard Composition - CITRIC ACID - Value, %",6.0,0.2679196806092757,MEU,Model 1,
+citricacid,6.0,0.23970480785360448,MEU,Model 1,
+water,6.0,0.21271772467715233,MEU,Model 1,
+fischer,6.0,0.2038970651830815,MEU,Model 1,
+additive,6.0,0.13209366904393244,MEU,Model 1,
+ph,6.0,0.12772650460279467,MEU,Model 1,
+eur,6.0,0.12382891267924097,MEU,Model 1,
+monohydrated,6.0,0.10271926123161919,MEU,Model 1,
+fcc,6.0,0.10006089588791299,MEU,Model 1,
+colour,6.0,0.09669314535113448,MEU,Model 1,
+monograph,6.0,0.09118343940311134,MEU,Model 1,
+ngm,6.0,0.08436976041261254,MEU,Model 1,
+powder,6.0,0.08335009091213712,MEU,Model 1,
+encapsulated,6.0,0.06910205027128,MEU,Model 1,
+Quantitative - Sulphates - Max,6.0,0.06638282906502431,MEU,Model 1,
+jab,6.0,0.06545929660758587,MEU,Model 1,
+anhydrous,6.0,0.0609665840872565,MEU,Model 1,
+jecfa,6.0,0.058835181183263474,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,6.0,0.05728952849265357,MEU,Model 1,
+comparision,6.0,0.05664658461301355,MEU,Model 1,
+min,6.0,0.038476012503157075,MEU,Model 1,
+proposedharmonizeto,6.0,0.025320192307072446,MEU,Model 1,
+encaps,6.0,0.02361283978496571,MEU,Model 1,
+harmonized,6.0,0.01915936477407526,MEU,Model 1,
+cformin,6.0,0.017825514022018683,MEU,Model 1,
+aocs,6.0,0.015060056932869041,MEU,Model 1,
+thiswillbeharmonizedto,6.0,0.011268053508413785,MEU,Model 1,
+monohydrate,6.0,0.010121751689394,MEU,Model 1,
+hplc,6.0,0.010039807480076584,MEU,Model 1,
+gran,6.0,0.007635777797353542,MEU,Model 1,
+fine,6.0,0.0071567563977335755,MEU,Model 1,
+comparison,6.0,0.003921696303863823,MEU,Model 1,
+citricacidmonohydrate,6.0,0.0,MEU,Model 1,
+citricacidmonohydratedfinegranular,6.0,0.0,MEU,Model 1,
+proposed,6.0,0.0,MEU,Model 1,
+citricacidnon,6.0,0.0,MEU,Model 1,
+color,6.0,0.0,MEU,Model 1,
+comparativesolution,6.0,0.0,MEU,Model 1,
+harmonize,6.0,0.0,MEU,Model 1,
+non,6.0,0.0,MEU,Model 1,
+granular,6.0,0.0,MEU,Model 1,
+donot,6.0,0.0,MEU,Model 1,
+use,6.0,0.0,MEU,Model 1,
+mediumgran,6.0,0.0,MEU,Model 1,
+medium,6.0,0.0,MEU,Model 1,
+gmo,6.0,0.0,MEU,Model 1,
+opalescencesolution,6.0,0.0,MEU,Model 1,
+crystals,6.0,0.0,MEU,Model 1,
+acid,7.0,1.0,MEU,Model 1,
+citric,7.0,0.9405013318413453,MEU,Model 1,
+others,7.0,0.6335043130742932,MEU,Model 1,
+Quantitative - Moisture - Max,7.0,0.47498447146798073,MEU,Model 1,
+"Quantitative - Ash, sulphated - Max",7.0,0.4718803106092931,MEU,Model 1,
+citricacid,7.0,0.36211887603871173,MEU,Model 1,
+"Standard Composition - CITRIC ACID - Value, %",7.0,0.32484392745331203,MEU,Model 1,
+karl,7.0,0.3169833495670253,MEU,Model 1,
+Quantitative - Assay (anhydrous basis) - Max,7.0,0.2669589363496395,MEU,Model 1,
+additive,7.0,0.24431848554991129,MEU,Model 1,
+fischer,7.0,0.23719190368383355,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Total Shelf Life,7.0,0.2078590306415462,MEU,Model 1,
+colour,7.0,0.1885904879934516,MEU,Model 1,
+water,7.0,0.17799789860272705,MEU,Model 1,
+eur,7.0,0.15647481143383002,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,7.0,0.14280356176531459,MEU,Model 1,
+Total Solids %,7.0,0.11440981681805054,MEU,Model 1,
+soln,7.0,0.1066703252009452,MEU,Model 1,
+fcc,7.0,0.10521022532509207,MEU,Model 1,
+comparision,7.0,0.1017049037252437,MEU,Model 1,
+monograph,7.0,0.09793279751581876,MEU,Model 1,
+anhydrous,7.0,0.08393097885922794,MEU,Model 1,
+powder,7.0,0.07066717290617548,MEU,Model 1,
+ph,7.0,0.06798847126760044,MEU,Model 1,
+Quantitative - Sulphates - Max,7.0,0.05651100531561964,MEU,Model 1,
+monohydrated,7.0,0.055797340858129915,MEU,Model 1,
+encapsulated,7.0,0.055071632082111285,MEU,Model 1,
+jecfa,7.0,0.05497816210275034,MEU,Model 1,
+ngm,7.0,0.04871341240959631,MEU,Model 1,
+fine,7.0,0.03225070315298229,MEU,Model 1,
+min,7.0,0.03126190993538627,MEU,Model 1,
+harmonized,7.0,0.02997220655406625,MEU,Model 1,
+cformin,7.0,0.0275059878228185,MEU,Model 1,
+medium,7.0,0.02504078334985767,MEU,Model 1,
+jab,7.0,0.02365769166601265,MEU,Model 1,
+aocs,7.0,0.021434131552453578,MEU,Model 1,
+harmonize,7.0,0.021186237718998194,MEU,Model 1,
+gmo,7.0,0.020731120870118407,MEU,Model 1,
+crystals,7.0,0.020239055606336914,MEU,Model 1,
+comparativesolution,7.0,0.014488280195805382,MEU,Model 1,
+hplc,7.0,0.014032906646573567,MEU,Model 1,
+comparison,7.0,0.012748806732871841,MEU,Model 1,
+granular,7.0,0.0112470800483442,MEU,Model 1,
+encaps,7.0,0.011181593183730194,MEU,Model 1,
+monohydrate,7.0,0.010162040168161617,MEU,Model 1,
+mediumgran,7.0,0.008638113323540664,MEU,Model 1,
+proposedharmonizeto,7.0,0.008229774704116039,MEU,Model 1,
+citricacidnon,7.0,0.00812201569297404,MEU,Model 1,
+use,7.0,0.007354728968947252,MEU,Model 1,
+gran,7.0,0.005287265801129116,MEU,Model 1,
+citricacidmonohydratedfinegranular,7.0,0.00494920968388966,MEU,Model 1,
+non,7.0,0.0,MEU,Model 1,
+opalescencesolution,7.0,0.0,MEU,Model 1,
+color,7.0,0.0,MEU,Model 1,
+proposed,7.0,0.0,MEU,Model 1,
+citricacidmonohydrate,7.0,0.0,MEU,Model 1,
+thiswillbeharmonizedto,7.0,0.0,MEU,Model 1,
+donot,7.0,0.0,MEU,Model 1,
+additive,8.0,1.0,MEU,Model 1,
+Quantitative - Moisture - Max,8.0,0.594033656166302,MEU,Model 1,
+"Standard Composition - CITRIC ACID - Value, %",8.0,0.5256110812506449,MEU,Model 1,
+others,8.0,0.5253063610779722,MEU,Model 1,
+acid,8.0,0.4900905618895838,MEU,Model 1,
+Total Solids %,8.0,0.4761630500146431,MEU,Model 1,
+fischer,8.0,0.46408710000887554,MEU,Model 1,
+citric,8.0,0.3852010805682494,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Total Shelf Life,8.0,0.3433361538558779,MEU,Model 1,
+Quantitative - Sulphates - Max,8.0,0.29831053062484636,MEU,Model 1,
+citricacid,8.0,0.27630321581311507,MEU,Model 1,
+Quantitative - Assay (anhydrous basis) - Max,8.0,0.2573563462832611,MEU,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,8.0,0.24814310904555278,MEU,Model 1,
+colour,8.0,0.21595168181897004,MEU,Model 1,
+karl,8.0,0.2108441890355526,MEU,Model 1,
+eur,8.0,0.1795342477186325,MEU,Model 1,
+monograph,8.0,0.14621299170695928,MEU,Model 1,
+water,8.0,0.14063667539895294,MEU,Model 1,
+ph,8.0,0.13096213567679135,MEU,Model 1,
+fcc,8.0,0.11865265760968433,MEU,Model 1,
+comparision,8.0,0.10290853384685145,MEU,Model 1,
+"Quantitative - Ash, sulphated - Max",8.0,0.0895836572552549,MEU,Model 1,
+min,8.0,0.08631967152247985,MEU,Model 1,
+anhydrous,8.0,0.08423944242731096,MEU,Model 1,
+medium,8.0,0.05436181015574311,MEU,Model 1,
+monohydrated,8.0,0.05105842531543636,MEU,Model 1,
+jab,8.0,0.03919989916521374,MEU,Model 1,
+jecfa,8.0,0.03745590231205156,MEU,Model 1,
+comparison,8.0,0.028199980061891224,MEU,Model 1,
+soln,8.0,0.026781039377033095,MEU,Model 1,
+encapsulated,8.0,0.025028323677142948,MEU,Model 1,
+powder,8.0,0.0237412512940929,MEU,Model 1,
+crystals,8.0,0.022859758666876243,MEU,Model 1,
+aocs,8.0,0.01762738046053174,MEU,Model 1,
+harmonized,8.0,0.015754899604879715,MEU,Model 1,
+citricacidnon,8.0,0.014023299338903655,MEU,Model 1,
+citricacidmonohydratedfinegranular,8.0,0.013573751502540936,MEU,Model 1,
+gmo,8.0,0.013252334227781652,MEU,Model 1,
+ngm,8.0,0.012563655575233866,MEU,Model 1,
+cformin,8.0,0.012391564480764087,MEU,Model 1,
+comparativesolution,8.0,0.01218265182329788,MEU,Model 1,
+encaps,8.0,0.010681220511613578,MEU,Model 1,
+proposedharmonizeto,8.0,0.010201817442551954,MEU,Model 1,
+mediumgran,8.0,0.009729924027920145,MEU,Model 1,
+harmonize,8.0,0.009623903468449877,MEU,Model 1,
+fine,8.0,0.009051733811936078,MEU,Model 1,
+use,8.0,0.008902176239037088,MEU,Model 1,
+monohydrate,8.0,0.007954634500928776,MEU,Model 1,
+gran,8.0,0.007585413399809758,MEU,Model 1,
+opalescencesolution,8.0,0.00740214677975244,MEU,Model 1,
+hplc,8.0,0.007234749806015361,MEU,Model 1,
+granular,8.0,0.006855839041742821,MEU,Model 1,
+thiswillbeharmonizedto,8.0,0.0,MEU,Model 1,
+citricacidmonohydrate,8.0,0.0,MEU,Model 1,
+donot,8.0,0.0,MEU,Model 1,
+non,8.0,0.0,MEU,Model 1,
+proposed,8.0,0.0,MEU,Model 1,
+color,8.0,0.0,MEU,Model 1,
+Quantitative - Oxalates - Max,0.0,1.0,AMEA,Model 1,
+Quantitative - Assay (anhydrous basis) - Max,0.0,0.7681855549010502,AMEA,Model 1,
+fcc,0.0,0.621601620348407,AMEA,Model 1,
+anhydrous,0.0,0.4380831301985636,AMEA,Model 1,
+Quantitative - Sulphates - Max,0.0,0.3773202431156719,AMEA,Model 1,
+Quantitative - PH - Max,0.0,0.3206850986131351,AMEA,Model 1,
+citricacid,0.0,0.3132100233221959,AMEA,Model 1,
+others,0.0,0.2601361584573829,AMEA,Model 1,
+karl,0.0,0.21795462234484422,AMEA,Model 1,
+fischer,0.0,0.20510098396390236,AMEA,Model 1,
+Total Solids %,0.0,0.20129721933098638,AMEA,Model 1,
+Quantitative - Moisture - Max,0.0,0.1908448872253225,AMEA,Model 1,
+jecfa,0.0,0.1721140123143605,AMEA,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,0.0,0.16745017565480655,AMEA,Model 1,
+citric,0.0,0.1610951991651337,AMEA,Model 1,
+powder,0.0,0.1370814486624255,AMEA,Model 1,
+acid,0.0,0.13693353582221107,AMEA,Model 1,
+gb,0.0,0.11853757417614023,AMEA,Model 1,
+granular,0.0,0.11435207477522896,AMEA,Model 1,
+cumulative,0.0,0.11114880730999978,AMEA,Model 1,
+additive,0.0,0.09829901854882298,AMEA,Model 1,
+reg,0.0,0.0946322559336106,AMEA,Model 1,
+sieve,0.0,0.09241005338155962,AMEA,Model 1,
+fine,0.0,0.09062269009811437,AMEA,Model 1,
+min,0.0,0.08994271819862816,AMEA,Model 1,
+usp,0.0,0.07637305275780126,AMEA,Model 1,
+compare,0.0,0.07194056718966742,AMEA,Model 1,
+rm,0.0,0.06482704011780022,AMEA,Model 1,
+finegranules,0.0,0.056754277383222376,AMEA,Model 1,
+color,0.0,0.053054833866383544,AMEA,Model 1,
+aocs,0.0,0.05144892306750029,AMEA,Model 1,
+rotap,0.0,0.05078417399457072,AMEA,Model 1,
+ik,0.0,0.04662809835431831,AMEA,Model 1,
+critical,0.0,0.046387005770130024,AMEA,Model 1,
+acidreg,0.0,0.04461968800527749,AMEA,Model 1,
+qa,0.0,0.03523105806107093,AMEA,Model 1,
+house,0.0,0.03481304747278818,AMEA,Model 1,
+citricacidanhydrous,0.0,0.03392390055677875,AMEA,Model 1,
+non,0.0,0.03217660365818281,AMEA,Model 1,
+citricnon,0.0,0.02613983178827736,AMEA,Model 1,
+testing,0.0,0.025714591055301397,AMEA,Model 1,
+gmo,0.0,0.024395892757552787,AMEA,Model 1,
+mesh,0.0,0.02373157112984045,AMEA,Model 1,
+plant,0.0,0.022233034184171836,AMEA,Model 1,
+bp,0.0,0.020145363255120095,AMEA,Model 1,
+th,0.0,0.018176180520252674,AMEA,Model 1,
+tm,0.0,0.017424327351719063,AMEA,Model 1,
+nfi,0.0,0.013635407350792083,AMEA,Model 1,
+std,0.0,0.012874574312219918,AMEA,Model 1,
+edition,0.0,0.010047445846818125,AMEA,Model 1,
+cali,0.0,0.009330780721851064,AMEA,Model 1,
+max,0.0,0.008600449156710476,AMEA,Model 1,
+nvp,0.0,0.006786622463808801,AMEA,Model 1,
+jab,0.0,0.00675129752092945,AMEA,Model 1,
+企标q,0.0,0.005267067951991852,AMEA,Model 1,
+maxppm,0.0,0.0,AMEA,Model 1,
+anhydrousfinegranular,0.0,0.0,AMEA,Model 1,
+granules,0.0,0.0,AMEA,Model 1,
+din,0.0,0.0,AMEA,Model 1,
+anhydrous,1.0,1.0,AMEA,Model 1,
+Quantitative - Assay (anhydrous basis) - Max,1.0,0.9467034399390994,AMEA,Model 1,
+citric,1.0,0.7873430815626041,AMEA,Model 1,
+Quantitative - Oxalates - Max,1.0,0.2680782919574424,AMEA,Model 1,
+powder,1.0,0.25716948672967804,AMEA,Model 1,
+others,1.0,0.23496852152913325,AMEA,Model 1,
+jecfa,1.0,0.2222420851141215,AMEA,Model 1,
+Quantitative - PH - Max,1.0,0.21022140463220707,AMEA,Model 1,
+acid,1.0,0.16300189314513105,AMEA,Model 1,
+Quantitative - Sulphates - Max,1.0,0.14809864726035551,AMEA,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,1.0,0.14333221718900482,AMEA,Model 1,
+fcc,1.0,0.11293489589643571,AMEA,Model 1,
+Total Solids %,1.0,0.10602470389961127,AMEA,Model 1,
+karl,1.0,0.09642761288458582,AMEA,Model 1,
+fine,1.0,0.09382030049655261,AMEA,Model 1,
+additive,1.0,0.08930117218224118,AMEA,Model 1,
+fischer,1.0,0.07122469986687079,AMEA,Model 1,
+ik,1.0,0.06956089287444185,AMEA,Model 1,
+min,1.0,0.06807498804313912,AMEA,Model 1,
+gb,1.0,0.0653091895403465,AMEA,Model 1,
+sieve,1.0,0.06269466910643733,AMEA,Model 1,
+citricacid,1.0,0.053971953164714835,AMEA,Model 1,
+max,1.0,0.053282655238261534,AMEA,Model 1,
+finegranules,1.0,0.049914444810404364,AMEA,Model 1,
+reg,1.0,0.04914173406636696,AMEA,Model 1,
+usp,1.0,0.04857199073818765,AMEA,Model 1,
+Quantitative - Moisture - Max,1.0,0.04687233723315999,AMEA,Model 1,
+granular,1.0,0.04311333661276843,AMEA,Model 1,
+maxppm,1.0,0.04274085450165057,AMEA,Model 1,
+qa,1.0,0.040056397805067465,AMEA,Model 1,
+cumulative,1.0,0.03273634346082019,AMEA,Model 1,
+citricnon,1.0,0.02759117456529136,AMEA,Model 1,
+mesh,1.0,0.022893624675449118,AMEA,Model 1,
+std,1.0,0.02269740292584447,AMEA,Model 1,
+granules,1.0,0.02123748995096638,AMEA,Model 1,
+rotap,1.0,0.019012156984063062,AMEA,Model 1,
+企标q,1.0,0.015662513989386905,AMEA,Model 1,
+acidreg,1.0,0.013649813564424915,AMEA,Model 1,
+color,1.0,0.012444630845009857,AMEA,Model 1,
+nvp,1.0,0.0120448887437445,AMEA,Model 1,
+testing,1.0,0.011318791997432302,AMEA,Model 1,
+compare,1.0,0.010840345090129228,AMEA,Model 1,
+aocs,1.0,0.01071015720636512,AMEA,Model 1,
+critical,1.0,0.009451635301512037,AMEA,Model 1,
+citricacidanhydrous,1.0,0.008935845982570632,AMEA,Model 1,
+rm,1.0,0.007566058563162008,AMEA,Model 1,
+non,1.0,0.007506139444333978,AMEA,Model 1,
+anhydrousfinegranular,1.0,0.007243684403560987,AMEA,Model 1,
+house,1.0,0.007150873733929996,AMEA,Model 1,
+nfi,1.0,0.00616090413008186,AMEA,Model 1,
+plant,1.0,0.005482710138214356,AMEA,Model 1,
+cali,1.0,0.0,AMEA,Model 1,
+bp,1.0,0.0,AMEA,Model 1,
+gmo,1.0,0.0,AMEA,Model 1,
+edition,1.0,0.0,AMEA,Model 1,
+din,1.0,0.0,AMEA,Model 1,
+jab,1.0,0.0,AMEA,Model 1,
+th,1.0,0.0,AMEA,Model 1,
+tm,1.0,0.0,AMEA,Model 1,
+Quantitative - Sulphates - Max,2.0,1.0,AMEA,Model 1,
+reg,2.0,0.7777884430390866,AMEA,Model 1,
+Quantitative - Oxalates - Max,2.0,0.5676967500708497,AMEA,Model 1,
+Total Solids %,2.0,0.5028072919197438,AMEA,Model 1,
+Quantitative - Assay (anhydrous basis) - Max,2.0,0.49742915075872446,AMEA,Model 1,
+anhydrous,2.0,0.38821754840374956,AMEA,Model 1,
+acidreg,2.0,0.35340304017481183,AMEA,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,2.0,0.3376614281330549,AMEA,Model 1,
+fcc,2.0,0.31859527744494087,AMEA,Model 1,
+jecfa,2.0,0.2860336821732836,AMEA,Model 1,
+citricacid,2.0,0.27847625892918904,AMEA,Model 1,
+citric,2.0,0.27578320015984076,AMEA,Model 1,
+karl,2.0,0.23964809247357183,AMEA,Model 1,
+others,2.0,0.2319769911228749,AMEA,Model 1,
+powder,2.0,0.21095758636252657,AMEA,Model 1,
+acid,2.0,0.20899191582584098,AMEA,Model 1,
+fischer,2.0,0.19488838074167117,AMEA,Model 1,
+Quantitative - Moisture - Max,2.0,0.15256777910940506,AMEA,Model 1,
+Quantitative - PH - Max,2.0,0.14457890856017755,AMEA,Model 1,
+qa,2.0,0.11306459485133748,AMEA,Model 1,
+granules,2.0,0.08658313045780934,AMEA,Model 1,
+finegranules,2.0,0.07272368797773378,AMEA,Model 1,
+fine,2.0,0.07235163588405734,AMEA,Model 1,
+maxppm,2.0,0.06648642211577772,AMEA,Model 1,
+usp,2.0,0.062226176760205205,AMEA,Model 1,
+rm,2.0,0.058768638564182116,AMEA,Model 1,
+cumulative,2.0,0.0573880072385885,AMEA,Model 1,
+jab,2.0,0.04889804973463961,AMEA,Model 1,
+mesh,2.0,0.04409716792778093,AMEA,Model 1,
+gb,2.0,0.033790472791426676,AMEA,Model 1,
+color,2.0,0.03336850369401887,AMEA,Model 1,
+testing,2.0,0.03169040742378059,AMEA,Model 1,
+edition,2.0,0.031513207217121184,AMEA,Model 1,
+granular,2.0,0.03018601854917216,AMEA,Model 1,
+max,2.0,0.029275929421026997,AMEA,Model 1,
+std,2.0,0.026291309349517712,AMEA,Model 1,
+sieve,2.0,0.02024229900987897,AMEA,Model 1,
+gmo,2.0,0.016501425990426123,AMEA,Model 1,
+ik,2.0,0.014063684268973035,AMEA,Model 1,
+house,2.0,0.012420409927393888,AMEA,Model 1,
+compare,2.0,0.006293769628856196,AMEA,Model 1,
+bp,2.0,0.005201318736948597,AMEA,Model 1,
+aocs,2.0,0.0,AMEA,Model 1,
+th,2.0,0.0,AMEA,Model 1,
+rotap,2.0,0.0,AMEA,Model 1,
+additive,2.0,0.0,AMEA,Model 1,
+tm,2.0,0.0,AMEA,Model 1,
+anhydrousfinegranular,2.0,0.0,AMEA,Model 1,
+nvp,2.0,0.0,AMEA,Model 1,
+cali,2.0,0.0,AMEA,Model 1,
+non,2.0,0.0,AMEA,Model 1,
+nfi,2.0,0.0,AMEA,Model 1,
+min,2.0,0.0,AMEA,Model 1,
+citricacidanhydrous,2.0,0.0,AMEA,Model 1,
+citricnon,2.0,0.0,AMEA,Model 1,
+critical,2.0,0.0,AMEA,Model 1,
+din,2.0,0.0,AMEA,Model 1,
+plant,2.0,0.0,AMEA,Model 1,
+企标q,2.0,0.0,AMEA,Model 1,
+Quantitative - Oxalates - Max,3.0,1.0,AMEA,Model 1,
+jecfa,3.0,0.41869496657988975,AMEA,Model 1,
+citric,3.0,0.32181629604924844,AMEA,Model 1,
+fcc,3.0,0.2965522077505327,AMEA,Model 1,
+Total Solids %,3.0,0.29117754701223403,AMEA,Model 1,
+Quantitative - Assay (anhydrous basis) - Max,3.0,0.2794712395190635,AMEA,Model 1,
+Quantitative - Sulphates - Max,3.0,0.260172431687649,AMEA,Model 1,
+granular,3.0,0.23104333169278723,AMEA,Model 1,
+anhydrous,3.0,0.2291150613098105,AMEA,Model 1,
+cumulative,3.0,0.20912447573415283,AMEA,Model 1,
+others,3.0,0.19551705255505766,AMEA,Model 1,
+fischer,3.0,0.1770772260995043,AMEA,Model 1,
+Quantitative - PH - Max,3.0,0.15757173987442236,AMEA,Model 1,
+ik,3.0,0.1536237072613344,AMEA,Model 1,
+acid,3.0,0.15253390274226156,AMEA,Model 1,
+qa,3.0,0.15147132481216674,AMEA,Model 1,
+fine,3.0,0.1349021835969771,AMEA,Model 1,
+karl,3.0,0.11846259648428414,AMEA,Model 1,
+color,3.0,0.10872883609941592,AMEA,Model 1,
+rm,3.0,0.10526822263466819,AMEA,Model 1,
+compare,3.0,0.10164902820458441,AMEA,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,3.0,0.09167744550927782,AMEA,Model 1,
+powder,3.0,0.08087431926796347,AMEA,Model 1,
+aocs,3.0,0.07924104920640017,AMEA,Model 1,
+std,3.0,0.07257971188484524,AMEA,Model 1,
+Quantitative - Moisture - Max,3.0,0.07204545122331854,AMEA,Model 1,
+mesh,3.0,0.06710194207715323,AMEA,Model 1,
+usp,3.0,0.06272495706394199,AMEA,Model 1,
+citricacid,3.0,0.056272878455629824,AMEA,Model 1,
+reg,3.0,0.04751440462387409,AMEA,Model 1,
+jab,3.0,0.03327474806937304,AMEA,Model 1,
+finegranules,3.0,0.030849019768101192,AMEA,Model 1,
+acidreg,3.0,0.028883985976158984,AMEA,Model 1,
+gb,3.0,0.028627529135192474,AMEA,Model 1,
+additive,3.0,0.026025292007172053,AMEA,Model 1,
+anhydrousfinegranular,3.0,0.0217563475690944,AMEA,Model 1,
+nfi,3.0,0.02067079851678017,AMEA,Model 1,
+granules,3.0,0.02029034449580031,AMEA,Model 1,
+critical,3.0,0.018561819165059903,AMEA,Model 1,
+tm,3.0,0.018496834853833986,AMEA,Model 1,
+rotap,3.0,0.016564615397832744,AMEA,Model 1,
+citricacidanhydrous,3.0,0.014020786844988233,AMEA,Model 1,
+house,3.0,0.013963445895973356,AMEA,Model 1,
+bp,3.0,0.011117476998564491,AMEA,Model 1,
+non,3.0,0.00852984117323596,AMEA,Model 1,
+gmo,3.0,0.006884033605858106,AMEA,Model 1,
+plant,3.0,0.0052604053268125546,AMEA,Model 1,
+testing,3.0,0.005188064813271587,AMEA,Model 1,
+sieve,3.0,0.004085611291382957,AMEA,Model 1,
+min,3.0,0.0033270341535583574,AMEA,Model 1,
+max,3.0,0.0030979892307664058,AMEA,Model 1,
+nvp,3.0,0.0021578053273792644,AMEA,Model 1,
+cali,3.0,0.0,AMEA,Model 1,
+maxppm,3.0,0.0,AMEA,Model 1,
+din,3.0,0.0,AMEA,Model 1,
+th,3.0,0.0,AMEA,Model 1,
+edition,3.0,0.0,AMEA,Model 1,
+citricnon,3.0,0.0,AMEA,Model 1,
+企标q,3.0,0.0,AMEA,Model 1,
+Quantitative - PH - Max,4.0,1.0,AMEA,Model 1,
+finegranules,4.0,0.971634154133868,AMEA,Model 1,
+Quantitative - Sulphates - Max,4.0,0.9660396313494719,AMEA,Model 1,
+mesh,4.0,0.8511940312125569,AMEA,Model 1,
+usp,4.0,0.754577099471497,AMEA,Model 1,
+acid,4.0,0.7124782233685548,AMEA,Model 1,
+fine,4.0,0.7098046193642097,AMEA,Model 1,
+Quantitative - Assay (anhydrous basis) - Max,4.0,0.6605042842791441,AMEA,Model 1,
+anhydrous,4.0,0.5945996215553051,AMEA,Model 1,
+citric,4.0,0.5669210239234451,AMEA,Model 1,
+fcc,4.0,0.5221397659827199,AMEA,Model 1,
+others,4.0,0.4415493519762495,AMEA,Model 1,
+granules,4.0,0.37185393205565703,AMEA,Model 1,
+Total Solids %,4.0,0.28403031962750597,AMEA,Model 1,
+Quantitative - Oxalates - Max,4.0,0.2676509523263036,AMEA,Model 1,
+karl,4.0,0.25070121292104475,AMEA,Model 1,
+jecfa,4.0,0.2300033497741069,AMEA,Model 1,
+fischer,4.0,0.22262984491206167,AMEA,Model 1,
+powder,4.0,0.21138357475277,AMEA,Model 1,
+bp,4.0,0.16541756942931873,AMEA,Model 1,
+gb,4.0,0.13552007961030837,AMEA,Model 1,
+std,4.0,0.13125504447960246,AMEA,Model 1,
+granular,4.0,0.11708952605974614,AMEA,Model 1,
+Quantitative - Moisture - Max,4.0,0.11589520808282952,AMEA,Model 1,
+additive,4.0,0.08992182224905838,AMEA,Model 1,
+reg,4.0,0.0804000088396054,AMEA,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,4.0,0.07563831445000985,AMEA,Model 1,
+citricacid,4.0,0.07297894497718437,AMEA,Model 1,
+cumulative,4.0,0.05684863178785238,AMEA,Model 1,
+acidreg,4.0,0.05490021781812308,AMEA,Model 1,
+max,4.0,0.04283355564066028,AMEA,Model 1,
+ik,4.0,0.03924246128442002,AMEA,Model 1,
+gmo,4.0,0.01987513040804791,AMEA,Model 1,
+sieve,4.0,0.019126843625752878,AMEA,Model 1,
+rm,4.0,0.01504175946403105,AMEA,Model 1,
+qa,4.0,0.014051162911984468,AMEA,Model 1,
+plant,4.0,0.0,AMEA,Model 1,
+critical,4.0,0.0,AMEA,Model 1,
+testing,4.0,0.0,AMEA,Model 1,
+th,4.0,0.0,AMEA,Model 1,
+tm,4.0,0.0,AMEA,Model 1,
+rotap,4.0,0.0,AMEA,Model 1,
+nvp,4.0,0.0,AMEA,Model 1,
+maxppm,4.0,0.0,AMEA,Model 1,
+nfi,4.0,0.0,AMEA,Model 1,
+min,4.0,0.0,AMEA,Model 1,
+compare,4.0,0.0,AMEA,Model 1,
+anhydrousfinegranular,4.0,0.0,AMEA,Model 1,
+jab,4.0,0.0,AMEA,Model 1,
+house,4.0,0.0,AMEA,Model 1,
+aocs,4.0,0.0,AMEA,Model 1,
+cali,4.0,0.0,AMEA,Model 1,
+citricacidanhydrous,4.0,0.0,AMEA,Model 1,
+citricnon,4.0,0.0,AMEA,Model 1,
+color,4.0,0.0,AMEA,Model 1,
+edition,4.0,0.0,AMEA,Model 1,
+din,4.0,0.0,AMEA,Model 1,
+non,4.0,0.0,AMEA,Model 1,
+企标q,4.0,0.0,AMEA,Model 1,
+Total Solids %,5.0,1.0,AMEA,Model 1,
+others,5.0,0.7904013643002703,AMEA,Model 1,
+additive,5.0,0.751912765062215,AMEA,Model 1,
+jecfa,5.0,0.7430718418114377,AMEA,Model 1,
+citricacid,5.0,0.7332293407570538,AMEA,Model 1,
+anhydrous,5.0,0.666568079704125,AMEA,Model 1,
+Quantitative - Moisture - Max,5.0,0.5494337514834129,AMEA,Model 1,
+Quantitative - PH - Max,5.0,0.47912315063272487,AMEA,Model 1,
+citric,5.0,0.3558201415488217,AMEA,Model 1,
+Quantitative - Oxalates - Max,5.0,0.3313208967313638,AMEA,Model 1,
+fcc,5.0,0.2933000963221678,AMEA,Model 1,
+Quantitative - Assay (anhydrous basis) - Max,5.0,0.2684049906151339,AMEA,Model 1,
+acid,5.0,0.2623488145922478,AMEA,Model 1,
+karl,5.0,0.22983314766509186,AMEA,Model 1,
+fischer,5.0,0.20641531759308407,AMEA,Model 1,
+Quantitative - Sulphates - Max,5.0,0.17302267526121687,AMEA,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,5.0,0.1324099943922145,AMEA,Model 1,
+powder,5.0,0.11729282929768163,AMEA,Model 1,
+sieve,5.0,0.06009655390461423,AMEA,Model 1,
+cumulative,5.0,0.05575046985507146,AMEA,Model 1,
+qa,5.0,0.055516831653876664,AMEA,Model 1,
+mesh,5.0,0.054275330850835676,AMEA,Model 1,
+acidreg,5.0,0.041657770758805945,AMEA,Model 1,
+usp,5.0,0.039550710800337084,AMEA,Model 1,
+plant,5.0,0.03826251177968112,AMEA,Model 1,
+ik,5.0,0.03817032215655709,AMEA,Model 1,
+fine,5.0,0.03631975447166006,AMEA,Model 1,
+finegranules,5.0,0.03629800519685185,AMEA,Model 1,
+企标q,5.0,0.030308882041001635,AMEA,Model 1,
+jab,5.0,0.0285108975131456,AMEA,Model 1,
+reg,5.0,0.02098448347307009,AMEA,Model 1,
+gb,5.0,0.01781519468077127,AMEA,Model 1,
+aocs,5.0,0.015124760006072713,AMEA,Model 1,
+compare,5.0,0.014517184873702686,AMEA,Model 1,
+granular,5.0,0.013403157389472217,AMEA,Model 1,
+rotap,5.0,0.012104872457669683,AMEA,Model 1,
+cali,5.0,0.009088159691299788,AMEA,Model 1,
+min,5.0,0.008345216758577481,AMEA,Model 1,
+th,5.0,0.00725354252461211,AMEA,Model 1,
+house,5.0,0.0065384703323590285,AMEA,Model 1,
+bp,5.0,0.0,AMEA,Model 1,
+anhydrousfinegranular,5.0,0.0,AMEA,Model 1,
+rm,5.0,0.0,AMEA,Model 1,
+tm,5.0,0.0,AMEA,Model 1,
+testing,5.0,0.0,AMEA,Model 1,
+std,5.0,0.0,AMEA,Model 1,
+din,5.0,0.0,AMEA,Model 1,
+nvp,5.0,0.0,AMEA,Model 1,
+edition,5.0,0.0,AMEA,Model 1,
+nfi,5.0,0.0,AMEA,Model 1,
+citricnon,5.0,0.0,AMEA,Model 1,
+maxppm,5.0,0.0,AMEA,Model 1,
+max,5.0,0.0,AMEA,Model 1,
+color,5.0,0.0,AMEA,Model 1,
+critical,5.0,0.0,AMEA,Model 1,
+granules,5.0,0.0,AMEA,Model 1,
+gmo,5.0,0.0,AMEA,Model 1,
+citricacidanhydrous,5.0,0.0,AMEA,Model 1,
+non,5.0,0.0,AMEA,Model 1,
+acid,6.0,1.0,AMEA,Model 1,
+others,6.0,0.907851299064387,AMEA,Model 1,
+Quantitative - Sulphates - Max,6.0,0.885774723004631,AMEA,Model 1,
+powder,6.0,0.7967027935375216,AMEA,Model 1,
+gb,6.0,0.7885952425639964,AMEA,Model 1,
+fcc,6.0,0.6922290564925819,AMEA,Model 1,
+fischer,6.0,0.5646872293593048,AMEA,Model 1,
+Quantitative - Oxalates - Max,6.0,0.5429669033757548,AMEA,Model 1,
+karl,6.0,0.4877747265824112,AMEA,Model 1,
+citric,6.0,0.48029126550963297,AMEA,Model 1,
+Total Solids %,6.0,0.46635086397993253,AMEA,Model 1,
+anhydrous,6.0,0.4455563237673482,AMEA,Model 1,
+citricacid,6.0,0.41370802965033787,AMEA,Model 1,
+Quantitative - Moisture - Max,6.0,0.31407812731041584,AMEA,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,6.0,0.290230116671742,AMEA,Model 1,
+jecfa,6.0,0.27264887719554165,AMEA,Model 1,
+Quantitative - Assay (anhydrous basis) - Max,6.0,0.22072891734293693,AMEA,Model 1,
+fine,6.0,0.18532705979877925,AMEA,Model 1,
+reg,6.0,0.16091163595305866,AMEA,Model 1,
+Quantitative - PH - Max,6.0,0.1230526978654187,AMEA,Model 1,
+color,6.0,0.10913635667040453,AMEA,Model 1,
+mesh,6.0,0.10635730696812967,AMEA,Model 1,
+granular,6.0,0.10429466370322467,AMEA,Model 1,
+usp,6.0,0.09629032195961629,AMEA,Model 1,
+finegranules,6.0,0.08844917692614775,AMEA,Model 1,
+max,6.0,0.0861617002463004,AMEA,Model 1,
+critical,6.0,0.08080543753860757,AMEA,Model 1,
+min,6.0,0.07971994240215047,AMEA,Model 1,
+maxppm,6.0,0.07816239028629962,AMEA,Model 1,
+non,6.0,0.06898884446242842,AMEA,Model 1,
+th,6.0,0.0643522982765841,AMEA,Model 1,
+anhydrousfinegranular,6.0,0.055224094639218804,AMEA,Model 1,
+rotap,6.0,0.05406156419932252,AMEA,Model 1,
+qa,6.0,0.053414306170112474,AMEA,Model 1,
+additive,6.0,0.05059684449067068,AMEA,Model 1,
+citricacidanhydrous,6.0,0.04962597294272615,AMEA,Model 1,
+house,6.0,0.03589043882717816,AMEA,Model 1,
+gmo,6.0,0.03553442855424554,AMEA,Model 1,
+aocs,6.0,0.033519134915097254,AMEA,Model 1,
+ik,6.0,0.03237113564065162,AMEA,Model 1,
+cumulative,6.0,0.03175970598059559,AMEA,Model 1,
+compare,6.0,0.028167425228586652,AMEA,Model 1,
+cali,6.0,0.026172472433386187,AMEA,Model 1,
+granules,6.0,0.02315974387684097,AMEA,Model 1,
+rm,6.0,0.022268247644784345,AMEA,Model 1,
+acidreg,6.0,0.016398555567386848,AMEA,Model 1,
+nvp,6.0,0.010500194462092277,AMEA,Model 1,
+tm,6.0,0.0,AMEA,Model 1,
+din,6.0,0.0,AMEA,Model 1,
+testing,6.0,0.0,AMEA,Model 1,
+std,6.0,0.0,AMEA,Model 1,
+sieve,6.0,0.0,AMEA,Model 1,
+nfi,6.0,0.0,AMEA,Model 1,
+bp,6.0,0.0,AMEA,Model 1,
+citricnon,6.0,0.0,AMEA,Model 1,
+plant,6.0,0.0,AMEA,Model 1,
+jab,6.0,0.0,AMEA,Model 1,
+edition,6.0,0.0,AMEA,Model 1,
+企标q,6.0,0.0,AMEA,Model 1,
+liquid,0.0,1.0,NA,Model 1,
+citric,0.0,0.9241286184488141,NA,Model 1,
+Total Solids %,0.0,0.8367513432919796,NA,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,0.0,0.5924550594986918,NA,Model 1,
+acid,0.0,0.396235969280108,NA,Model 1,
+encapsulated,0.0,0.2798548400708922,NA,Model 1,
+anhydrous,0.0,0.22558865727065575,NA,Model 1,
+powder,0.0,0.08692716684952319,NA,Model 1,
+gmo,0.0,0.08560497369679582,NA,Model 1,
+finegranular,0.0,0.07764368301122458,NA,Model 1,
+fine,0.0,0.054575632261512914,NA,Model 1,
+granular,0.0,0.024474639210059913,NA,Model 1,
+powdergmo,0.0,0.024052662671955435,NA,Model 1,
+citricacidnon,0.0,0.005907671533462733,NA,Model 1,
+non,0.0,0.0,NA,Model 1,
+liquid,1.0,1.0,NA,Model 1,
+citric,1.0,0.9241286184488141,NA,Model 1,
+Total Solids %,1.0,0.8367513432919796,NA,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,1.0,0.5924550594986918,NA,Model 1,
+acid,1.0,0.396235969280108,NA,Model 1,
+encapsulated,1.0,0.27985484007089206,NA,Model 1,
+anhydrous,1.0,0.22558865727065572,NA,Model 1,
+powder,1.0,0.08692716684952315,NA,Model 1,
+gmo,1.0,0.08560497369679577,NA,Model 1,
+finegranular,1.0,0.07764368301122458,NA,Model 1,
+fine,1.0,0.05457563226151293,NA,Model 1,
+granular,1.0,0.024474639210059913,NA,Model 1,
+powdergmo,1.0,0.024052662671955435,NA,Model 1,
+citricacidnon,1.0,0.005907671533462735,NA,Model 1,
+non,1.0,0.0,NA,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,0.0,1.0,LA,Model 1,
+powder,0.0,0.5861582861360245,LA,Model 1,
+Storage - Bag/Pouch/Sachet - Total Shelf Life,0.0,0.5653188024451682,LA,Model 1,
+anhydrous,0.0,0.30388248003807866,LA,Model 1,
+"Particle size tests - Particle size, >600µm (#30) - Max",0.0,0.2580728122108662,LA,Model 1,
+Total Solids %,0.0,0.21343746156026544,LA,Model 1,
+citric,0.0,0.20250052144335517,LA,Model 1,
+"Particle size tests - Particle size, >150µm (#100) - Max",0.0,0.19713834560730764,LA,Model 1,
+non,0.0,0.17656072007316248,LA,Model 1,
+citricacidgranular,0.0,0.14387023280440253,LA,Model 1,
+granular,0.0,0.13968665265454777,LA,Model 1,
+gmo,0.0,0.12728566004032493,LA,Model 1,
+máx,0.0,0.12018199710130972,LA,Model 1,
+others,0.0,0.1193443451473679,LA,Model 1,
+laharm,0.0,0.0872327937063124,LA,Model 1,
+po,0.0,0.08248157566811601,LA,Model 1,
+acid,0.0,0.07061145250052143,LA,Model 1,
+mesh,0.0,0.06973569507062213,LA,Model 1,
+fcc,0.0,0.056061845855996065,LA,Model 1,
+la,0.0,0.05359100657286033,LA,Model 1,
+al,0.0,0.05207013012017263,LA,Model 1,
+citricacidnongmo,0.0,0.04971160171354307,LA,Model 1,
+harm,0.0,0.047320315967932555,LA,Model 1,
+usp,0.0,0.04102154764387825,LA,Model 1,
+encapsulated,0.0,0.03922457361977954,LA,Model 1,
+retained,0.0,0.03745567731480738,LA,Model 1,
+citricnon,0.0,0.0294571150722979,LA,Model 1,
+additive,0.0,0.019256635700953574,LA,Model 1,
+sieve,0.0,0.0179471443622614,LA,Model 1,
+mm,0.0,0.0,LA,Model 1,
+citricacid,0.0,0.0,LA,Model 1,
+reported,0.0,0.0,LA,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,1.0,1.0,LA,Model 1,
+Storage - Bag/Pouch/Sachet - Total Shelf Life,1.0,0.863083486820547,LA,Model 1,
+"Particle size tests - Particle size, >150µm (#100) - Max",1.0,0.8548933768316906,LA,Model 1,
+citric,1.0,0.49866314116895655,LA,Model 1,
+powder,1.0,0.4930888873463941,LA,Model 1,
+others,1.0,0.4445565443665487,LA,Model 1,
+anhydrous,1.0,0.3801478750428447,LA,Model 1,
+non,1.0,0.37639746004893304,LA,Model 1,
+gmo,1.0,0.3238938024526747,LA,Model 1,
+"Particle size tests - Particle size, >600µm (#30) - Max",1.0,0.2511554094131292,LA,Model 1,
+acid,1.0,0.20826694775946344,LA,Model 1,
+citricacidgranular,1.0,0.17410534845767553,LA,Model 1,
+citricacidnongmo,1.0,0.1720940068153166,LA,Model 1,
+granular,1.0,0.16158531171759866,LA,Model 1,
+usp,1.0,0.11757685525819485,LA,Model 1,
+laharm,1.0,0.11649101057272664,LA,Model 1,
+citricnon,1.0,0.11446499729256272,LA,Model 1,
+mesh,1.0,0.11371451970205458,LA,Model 1,
+sieve,1.0,0.10833501483216493,LA,Model 1,
+po,1.0,0.09941978873917726,LA,Model 1,
+Total Solids %,1.0,0.08592701165103818,LA,Model 1,
+fcc,1.0,0.08357560368498455,LA,Model 1,
+harm,1.0,0.07617485650761575,LA,Model 1,
+máx,1.0,0.05958693779422869,LA,Model 1,
+retained,1.0,0.04654388765758336,LA,Model 1,
+citricacid,1.0,0.034923520052344406,LA,Model 1,
+al,1.0,0.0325430557864814,LA,Model 1,
+encapsulated,1.0,0.03186507545759637,LA,Model 1,
+additive,1.0,0.024105967249245488,LA,Model 1,
+la,1.0,0.011902321329314956,LA,Model 1,
+mm,1.0,0.0,LA,Model 1,
+reported,1.0,0.0,LA,Model 1,
+powder,2.0,1.0,LA,Model 1,
+anhydrous,2.0,0.86567535117444,LA,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,2.0,0.6430169112990901,LA,Model 1,
+"Particle size tests - Particle size, >150µm (#100) - Max",2.0,0.5668542169303643,LA,Model 1,
+Total Solids %,2.0,0.4263435869385123,LA,Model 1,
+others,2.0,0.3134463098596663,LA,Model 1,
+citric,2.0,0.2661424489267873,LA,Model 1,
+acid,2.0,0.26485668179022365,LA,Model 1,
+"Particle size tests - Particle size, >600µm (#30) - Max",2.0,0.25085226047622183,LA,Model 1,
+mesh,2.0,0.23829361791948583,LA,Model 1,
+usp,2.0,0.19362313972305506,LA,Model 1,
+fcc,2.0,0.1832995531022962,LA,Model 1,
+Storage - Bag/Pouch/Sachet - Total Shelf Life,2.0,0.15292287893815834,LA,Model 1,
+máx,2.0,0.1411779124952053,LA,Model 1,
+gmo,2.0,0.12548088598774831,LA,Model 1,
+retained,2.0,0.11266406865292912,LA,Model 1,
+non,2.0,0.0972008179884837,LA,Model 1,
+citricacidnongmo,2.0,0.09708960423792479,LA,Model 1,
+sieve,2.0,0.08377572952815862,LA,Model 1,
+la,2.0,0.0784215818226799,LA,Model 1,
+citricnon,2.0,0.07070130483235094,LA,Model 1,
+granular,2.0,0.06672825033534349,LA,Model 1,
+citricacidgranular,2.0,0.06062738173325496,LA,Model 1,
+additive,2.0,0.058109184667028295,LA,Model 1,
+al,2.0,0.05407371428960514,LA,Model 1,
+citricacid,2.0,0.036827639113649106,LA,Model 1,
+po,2.0,0.035175320533916796,LA,Model 1,
+encapsulated,2.0,0.03298282088004121,LA,Model 1,
+laharm,2.0,0.025238712371735365,LA,Model 1,
+harm,2.0,0.0,LA,Model 1,
+mm,2.0,0.0,LA,Model 1,
+reported,2.0,0.0,LA,Model 1,
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,1.0,MEU,Model 2,0.0
+Storage - Bag/Pouch/Sachet - Total Shelf Life,,0.621347951351332,MEU,Model 2,0.0
+water,,0.5367529079335822,MEU,Model 2,0.0
+comparision,,0.36715909340868885,MEU,Model 2,0.0
+colour,,0.3169680076855829,MEU,Model 2,0.0
+"Standard Composition - CITRIC ACID - Value, %",,0.30539120173465323,MEU,Model 2,0.0
+eur,,0.26027005108065226,MEU,Model 2,0.0
+citricacid,,0.25210814905457696,MEU,Model 2,0.0
+fischer,,0.23733952368806258,MEU,Model 2,0.0
+others,,0.20133812004278231,MEU,Model 2,0.0
+additive,,0.1929942921455753,MEU,Model 2,0.0
+acid,,0.17742784316518123,MEU,Model 2,0.0
+karl,,0.17249715958617873,MEU,Model 2,0.0
+Total Solids %,,0.1571245021051576,MEU,Model 2,0.0
+Quantitative - Assay (anhydrous basis) - Max,,0.15027184516306719,MEU,Model 2,0.0
+ph,,0.1339710495236431,MEU,Model 2,0.0
+citric,,0.11965623070421505,MEU,Model 2,0.0
+min,,0.10883531997008318,MEU,Model 2,0.0
+Quantitative - Moisture - Max,,0.09549328256109627,MEU,Model 2,0.0
+monograph,,0.09456959216187422,MEU,Model 2,0.0
+non,,0.07689940723467188,MEU,Model 2,0.0
+anhydrous,,0.0665664656364102,MEU,Model 2,0.0
+"Quantitative - Ash, sulphated - Max",,0.05432593691052784,MEU,Model 2,0.0
+mediumgran,,0.05038287820552481,MEU,Model 2,0.0
+fcc,,0.04959095202508746,MEU,Model 2,0.0
+citricacidnon,,0.0492526983563288,MEU,Model 2,0.0
+monohydrate,,0.0483881366511878,MEU,Model 2,0.0
+fine,,0.03916706817613872,MEU,Model 2,0.0
+Quantitative - Sulphates - Max,,0.035261953312878944,MEU,Model 2,0.0
+monohydrated,,0.03525721274997674,MEU,Model 2,0.0
+gmo,,0.030015189398735296,MEU,Model 2,0.0
+citricacidmonohydrate,,0.027097575336000126,MEU,Model 2,0.0
+harmonize,,0.02603368682382433,MEU,Model 2,0.0
+soln,,0.021304262366326945,MEU,Model 2,0.0
+jab,,0.01859267638530114,MEU,Model 2,0.0
+use,,0.01830437702162096,MEU,Model 2,0.0
+harmonized,,0.015889636710362434,MEU,Model 2,0.0
+crystals,,0.01587481093683518,MEU,Model 2,0.0
+comparison,,0.013354977282986744,MEU,Model 2,0.0
+powder,,0.013162209150537008,MEU,Model 2,0.0
+cformin,,0.012053065630557542,MEU,Model 2,0.0
+granular,,0.011608100700752702,MEU,Model 2,0.0
+encapsulated,,0.011189376583352542,MEU,Model 2,0.0
+thiswillbeharmonizedto,,0.0077301524992777195,MEU,Model 2,0.0
+jecfa,,0.006454883869909411,MEU,Model 2,0.0
+proposed,,0.005260906211150714,MEU,Model 2,0.0
+citricacidmonohydratedfinegranular,,0.005106475793819283,MEU,Model 2,0.0
+encaps,,0.0031654383974661447,MEU,Model 2,0.0
+color,,0.0,MEU,Model 2,0.0
+ngm,,0.0,MEU,Model 2,0.0
+hplc,,0.0,MEU,Model 2,0.0
+opalescencesolution,,0.0,MEU,Model 2,0.0
+aocs,,0.0,MEU,Model 2,0.0
+proposedharmonizeto,,0.0,MEU,Model 2,0.0
+donot,,0.0,MEU,Model 2,0.0
+gran,,0.0,MEU,Model 2,0.0
+comparativesolution,,0.0,MEU,Model 2,0.0
+medium,,0.0,MEU,Model 2,0.0
+anhydrous,,1.0,MEU,Model 2,1.0
+comparision,,0.9588545730624652,MEU,Model 2,1.0
+others,,0.9084757663291428,MEU,Model 2,1.0
+water,,0.8704922538388663,MEU,Model 2,1.0
+eur,,0.8624698345096701,MEU,Model 2,1.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,0.7472073684243086,MEU,Model 2,1.0
+Storage - Bag/Pouch/Sachet - Total Shelf Life,,0.6406968699885119,MEU,Model 2,1.0
+mediumgran,,0.5857888496232704,MEU,Model 2,1.0
+colour,,0.5239073877396744,MEU,Model 2,1.0
+citric,,0.5144265439942519,MEU,Model 2,1.0
+Quantitative - Assay (anhydrous basis) - Max,,0.4592559867523125,MEU,Model 2,1.0
+Total Solids %,,0.39083977847110263,MEU,Model 2,1.0
+karl,,0.32709522681139647,MEU,Model 2,1.0
+fischer,,0.31477413621054573,MEU,Model 2,1.0
+fine,,0.30930944491004364,MEU,Model 2,1.0
+monograph,,0.3050453601943664,MEU,Model 2,1.0
+"Standard Composition - CITRIC ACID - Value, %",,0.2566020899575641,MEU,Model 2,1.0
+monohydrate,,0.23372436039164987,MEU,Model 2,1.0
+min,,0.22367417055085506,MEU,Model 2,1.0
+acid,,0.21345296019894006,MEU,Model 2,1.0
+Quantitative - Moisture - Max,,0.1997068579322208,MEU,Model 2,1.0
+Quantitative - Sulphates - Max,,0.17829823566327616,MEU,Model 2,1.0
+jecfa,,0.171313909096934,MEU,Model 2,1.0
+citricacid,,0.16941317448784274,MEU,Model 2,1.0
+ph,,0.16549878325693895,MEU,Model 2,1.0
+additive,,0.15125416716856516,MEU,Model 2,1.0
+fcc,,0.1348157736872195,MEU,Model 2,1.0
+monohydrated,,0.12354123264506855,MEU,Model 2,1.0
+cformin,,0.11764474026196037,MEU,Model 2,1.0
+citricacidnon,,0.1146977414152822,MEU,Model 2,1.0
+opalescencesolution,,0.10627861185741885,MEU,Model 2,1.0
+citricacidmonohydratedfinegranular,,0.10155623147678912,MEU,Model 2,1.0
+medium,,0.09624596237835825,MEU,Model 2,1.0
+comparativesolution,,0.08767076433100456,MEU,Model 2,1.0
+hplc,,0.07595881939777396,MEU,Model 2,1.0
+comparison,,0.06600724906008604,MEU,Model 2,1.0
+powder,,0.057688964306614236,MEU,Model 2,1.0
+harmonize,,0.05578330975988849,MEU,Model 2,1.0
+use,,0.04889525109856787,MEU,Model 2,1.0
+proposed,,0.04871393324184994,MEU,Model 2,1.0
+non,,0.04245226196489316,MEU,Model 2,1.0
+citricacidmonohydrate,,0.029520730111445084,MEU,Model 2,1.0
+color,,0.027449515271525633,MEU,Model 2,1.0
+donot,,0.025953877024213805,MEU,Model 2,1.0
+proposedharmonizeto,,0.024195702747685194,MEU,Model 2,1.0
+harmonized,,0.021633929408932395,MEU,Model 2,1.0
+jab,,0.010375544585442131,MEU,Model 2,1.0
+granular,,0.0083398081955831,MEU,Model 2,1.0
+thiswillbeharmonizedto,,0.006286828556144856,MEU,Model 2,1.0
+soln,,0.0,MEU,Model 2,1.0
+encaps,,0.0,MEU,Model 2,1.0
+"Quantitative - Ash, sulphated - Max",,0.0,MEU,Model 2,1.0
+ngm,,0.0,MEU,Model 2,1.0
+encapsulated,,0.0,MEU,Model 2,1.0
+gmo,,0.0,MEU,Model 2,1.0
+crystals,,0.0,MEU,Model 2,1.0
+aocs,,0.0,MEU,Model 2,1.0
+gran,,0.0,MEU,Model 2,1.0
+fischer,,1.0,MEU,Model 2,2.0
+citricacid,,0.7818035386322892,MEU,Model 2,2.0
+others,,0.58356311668725,MEU,Model 2,2.0
+karl,,0.5663622834821703,MEU,Model 2,2.0
+additive,,0.4820110265318697,MEU,Model 2,2.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,0.47819666899152585,MEU,Model 2,2.0
+water,,0.3887269352280861,MEU,Model 2,2.0
+Storage - Bag/Pouch/Sachet - Total Shelf Life,,0.32531309170400874,MEU,Model 2,2.0
+Quantitative - Moisture - Max,,0.30980523462254744,MEU,Model 2,2.0
+"Standard Composition - CITRIC ACID - Value, %",,0.27640954410774493,MEU,Model 2,2.0
+colour,,0.2752076794608683,MEU,Model 2,2.0
+Total Solids %,,0.2605358919360509,MEU,Model 2,2.0
+citric,,0.22680247752608443,MEU,Model 2,2.0
+comparision,,0.21837225624087495,MEU,Model 2,2.0
+eur,,0.1730404638009855,MEU,Model 2,2.0
+"Quantitative - Ash, sulphated - Max",,0.14373588484821434,MEU,Model 2,2.0
+ph,,0.1320819578443135,MEU,Model 2,2.0
+acid,,0.12108407824533275,MEU,Model 2,2.0
+fcc,,0.1167190599545327,MEU,Model 2,2.0
+min,,0.09540807772499484,MEU,Model 2,2.0
+jecfa,,0.0953033985982798,MEU,Model 2,2.0
+monograph,,0.0743478128391286,MEU,Model 2,2.0
+Quantitative - Assay (anhydrous basis) - Max,,0.07104124758208448,MEU,Model 2,2.0
+anhydrous,,0.0651731268963945,MEU,Model 2,2.0
+Quantitative - Sulphates - Max,,0.05808147514981634,MEU,Model 2,2.0
+monohydrate,,0.048372552372321145,MEU,Model 2,2.0
+use,,0.03380528241888783,MEU,Model 2,2.0
+fine,,0.03185882217005241,MEU,Model 2,2.0
+mediumgran,,0.029386928110826577,MEU,Model 2,2.0
+harmonized,,0.026431976803439297,MEU,Model 2,2.0
+powder,,0.02409090553846966,MEU,Model 2,2.0
+granular,,0.023444285676657288,MEU,Model 2,2.0
+medium,,0.02117955189472494,MEU,Model 2,2.0
+harmonize,,0.018385990922523673,MEU,Model 2,2.0
+cformin,,0.017205791723378678,MEU,Model 2,2.0
+encapsulated,,0.016034725955370265,MEU,Model 2,2.0
+proposedharmonizeto,,0.015125084624162115,MEU,Model 2,2.0
+citricacidmonohydrate,,0.013263287316457477,MEU,Model 2,2.0
+citricacidnon,,0.013016052214330076,MEU,Model 2,2.0
+soln,,0.012956238646310044,MEU,Model 2,2.0
+donot,,0.012107916648869059,MEU,Model 2,2.0
+thiswillbeharmonizedto,,0.010345080238456416,MEU,Model 2,2.0
+color,,0.010165121827269433,MEU,Model 2,2.0
+gmo,,0.009678749559487304,MEU,Model 2,2.0
+non,,0.008880116170079054,MEU,Model 2,2.0
+proposed,,0.007404724884030279,MEU,Model 2,2.0
+citricacidmonohydratedfinegranular,,0.007117365763507705,MEU,Model 2,2.0
+encaps,,0.006036765947707363,MEU,Model 2,2.0
+jab,,0.0029023762057142355,MEU,Model 2,2.0
+aocs,,0.0,MEU,Model 2,2.0
+comparativesolution,,0.0,MEU,Model 2,2.0
+opalescencesolution,,0.0,MEU,Model 2,2.0
+crystals,,0.0,MEU,Model 2,2.0
+ngm,,0.0,MEU,Model 2,2.0
+monohydrated,,0.0,MEU,Model 2,2.0
+hplc,,0.0,MEU,Model 2,2.0
+comparison,,0.0,MEU,Model 2,2.0
+gran,,0.0,MEU,Model 2,2.0
+water,,1.0,MEU,Model 2,3.0
+colour,,0.9708814677438855,MEU,Model 2,3.0
+comparision,,0.9179005165945674,MEU,Model 2,3.0
+monograph,,0.7706294259294839,MEU,Model 2,3.0
+monohydrate,,0.7410639373735441,MEU,Model 2,3.0
+ph,,0.6609386988278404,MEU,Model 2,3.0
+eur,,0.5480137626935041,MEU,Model 2,3.0
+Storage - Bag/Pouch/Sachet - Total Shelf Life,,0.5215782236009953,MEU,Model 2,3.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,0.49909764856517924,MEU,Model 2,3.0
+karl,,0.46235091586479476,MEU,Model 2,3.0
+fischer,,0.3243816359378376,MEU,Model 2,3.0
+Total Solids %,,0.2872828913792831,MEU,Model 2,3.0
+citricacidmonohydrate,,0.27475155608747515,MEU,Model 2,3.0
+others,,0.27102284577600644,MEU,Model 2,3.0
+citric,,0.21941576265317264,MEU,Model 2,3.0
+anhydrous,,0.20090942896738578,MEU,Model 2,3.0
+harmonize,,0.18145522012022888,MEU,Model 2,3.0
+fcc,,0.17003708701139114,MEU,Model 2,3.0
+additive,,0.1478242540633169,MEU,Model 2,3.0
+citricacid,,0.14298023804179377,MEU,Model 2,3.0
+"Standard Composition - CITRIC ACID - Value, %",,0.13345438224853856,MEU,Model 2,3.0
+Quantitative - Moisture - Max,,0.10611512748342061,MEU,Model 2,3.0
+min,,0.09703618826500321,MEU,Model 2,3.0
+"Quantitative - Ash, sulphated - Max",,0.09447162761629792,MEU,Model 2,3.0
+fine,,0.0941145476569898,MEU,Model 2,3.0
+proposed,,0.09367915097774732,MEU,Model 2,3.0
+monohydrated,,0.0923113247028431,MEU,Model 2,3.0
+opalescencesolution,,0.08632233254237903,MEU,Model 2,3.0
+Quantitative - Assay (anhydrous basis) - Max,,0.08223135195964297,MEU,Model 2,3.0
+acid,,0.07826277396673215,MEU,Model 2,3.0
+jecfa,,0.07600042668164184,MEU,Model 2,3.0
+color,,0.07214588036344648,MEU,Model 2,3.0
+citricacidmonohydratedfinegranular,,0.061778964907575236,MEU,Model 2,3.0
+hplc,,0.05908252099994607,MEU,Model 2,3.0
+harmonized,,0.05856496494472741,MEU,Model 2,3.0
+comparison,,0.05396271296383791,MEU,Model 2,3.0
+thiswillbeharmonizedto,,0.052506282065736036,MEU,Model 2,3.0
+donot,,0.04559861824752365,MEU,Model 2,3.0
+Quantitative - Sulphates - Max,,0.042921144750391466,MEU,Model 2,3.0
+mediumgran,,0.03329396681192435,MEU,Model 2,3.0
+use,,0.032561067948368085,MEU,Model 2,3.0
+jab,,0.02434020309689152,MEU,Model 2,3.0
+proposedharmonizeto,,0.023342810899724835,MEU,Model 2,3.0
+cformin,,0.02140007387050225,MEU,Model 2,3.0
+powder,,0.01928812607029329,MEU,Model 2,3.0
+medium,,0.016724177485984773,MEU,Model 2,3.0
+granular,,0.011921032457546284,MEU,Model 2,3.0
+citricacidnon,,0.00976617749354979,MEU,Model 2,3.0
+aocs,,0.0,MEU,Model 2,3.0
+soln,,0.0,MEU,Model 2,3.0
+encapsulated,,0.0,MEU,Model 2,3.0
+comparativesolution,,0.0,MEU,Model 2,3.0
+ngm,,0.0,MEU,Model 2,3.0
+crystals,,0.0,MEU,Model 2,3.0
+encaps,,0.0,MEU,Model 2,3.0
+gmo,,0.0,MEU,Model 2,3.0
+non,,0.0,MEU,Model 2,3.0
+gran,,0.0,MEU,Model 2,3.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,1.0,MEU,Model 2,4.0
+harmonize,,0.9986354672139237,MEU,Model 2,4.0
+colour,,0.821455129328401,MEU,Model 2,4.0
+comparision,,0.8120383328141502,MEU,Model 2,4.0
+eur,,0.6980385371683768,MEU,Model 2,4.0
+water,,0.684873267157658,MEU,Model 2,4.0
+Quantitative - Sulphates - Max,,0.6445542710465931,MEU,Model 2,4.0
+Storage - Bag/Pouch/Sachet - Total Shelf Life,,0.5675417135380356,MEU,Model 2,4.0
+proposed,,0.5261476687865995,MEU,Model 2,4.0
+citric,,0.520604844235762,MEU,Model 2,4.0
+monohydrated,,0.4658582838211787,MEU,Model 2,4.0
+jecfa,,0.45275387083276486,MEU,Model 2,4.0
+others,,0.43607939663403705,MEU,Model 2,4.0
+fischer,,0.42383088758980214,MEU,Model 2,4.0
+"Quantitative - Ash, sulphated - Max",,0.3932901417066923,MEU,Model 2,4.0
+proposedharmonizeto,,0.339275570927606,MEU,Model 2,4.0
+Total Solids %,,0.33731547212031693,MEU,Model 2,4.0
+"Standard Composition - CITRIC ACID - Value, %",,0.3214508139355281,MEU,Model 2,4.0
+fcc,,0.29553453755571996,MEU,Model 2,4.0
+acid,,0.25687589629156704,MEU,Model 2,4.0
+monograph,,0.21812848022352985,MEU,Model 2,4.0
+karl,,0.2148448808968224,MEU,Model 2,4.0
+ph,,0.20133316917513522,MEU,Model 2,4.0
+opalescencesolution,,0.19290923515900169,MEU,Model 2,4.0
+min,,0.18827526467318667,MEU,Model 2,4.0
+citricacidmonohydratedfinegranular,,0.173167434224328,MEU,Model 2,4.0
+citricacidnon,,0.1450394799172893,MEU,Model 2,4.0
+monohydrate,,0.1301744795361002,MEU,Model 2,4.0
+additive,,0.12145007836140062,MEU,Model 2,4.0
+anhydrous,,0.1178336954383219,MEU,Model 2,4.0
+hplc,,0.1098703747856747,MEU,Model 2,4.0
+gmo,,0.09662049077530385,MEU,Model 2,4.0
+mediumgran,,0.09032199473398923,MEU,Model 2,4.0
+comparison,,0.08642380969314738,MEU,Model 2,4.0
+citricacidmonohydrate,,0.07228968518054672,MEU,Model 2,4.0
+citricacid,,0.07192588458922616,MEU,Model 2,4.0
+Quantitative - Assay (anhydrous basis) - Max,,0.06222089928217681,MEU,Model 2,4.0
+color,,0.06069101580216186,MEU,Model 2,4.0
+Quantitative - Moisture - Max,,0.05109042037581664,MEU,Model 2,4.0
+harmonized,,0.04357354162496518,MEU,Model 2,4.0
+use,,0.041169190073391884,MEU,Model 2,4.0
+granular,,0.037231367375351335,MEU,Model 2,4.0
+non,,0.03496252711091906,MEU,Model 2,4.0
+jab,,0.01976874365742737,MEU,Model 2,4.0
+thiswillbeharmonizedto,,0.01188667214502029,MEU,Model 2,4.0
+fine,,0.0066474176423639356,MEU,Model 2,4.0
+powder,,0.0,MEU,Model 2,4.0
+soln,,0.0,MEU,Model 2,4.0
+aocs,,0.0,MEU,Model 2,4.0
+comparativesolution,,0.0,MEU,Model 2,4.0
+cformin,,0.0,MEU,Model 2,4.0
+medium,,0.0,MEU,Model 2,4.0
+encapsulated,,0.0,MEU,Model 2,4.0
+encaps,,0.0,MEU,Model 2,4.0
+donot,,0.0,MEU,Model 2,4.0
+crystals,,0.0,MEU,Model 2,4.0
+ngm,,0.0,MEU,Model 2,4.0
+gran,,0.0,MEU,Model 2,4.0
+water,,1.0,MEU,Model 2,5.0
+eur,,0.6157746769923832,MEU,Model 2,5.0
+ph,,0.6111472802670762,MEU,Model 2,5.0
+comparision,,0.6078535323592436,MEU,Model 2,5.0
+min,,0.5525345205233153,MEU,Model 2,5.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,0.53179602985868,MEU,Model 2,5.0
+Storage - Bag/Pouch/Sachet - Total Shelf Life,,0.517187704079021,MEU,Model 2,5.0
+harmonized,,0.5032846371450006,MEU,Model 2,5.0
+Total Solids %,,0.4915646754766685,MEU,Model 2,5.0
+use,,0.4300442269295666,MEU,Model 2,5.0
+acid,,0.42380203071542843,MEU,Model 2,5.0
+color,,0.3954927412684876,MEU,Model 2,5.0
+comparison,,0.3673755072227388,MEU,Model 2,5.0
+thiswillbeharmonizedto,,0.3599414036470679,MEU,Model 2,5.0
+fcc,,0.27134846535456997,MEU,Model 2,5.0
+Quantitative - Assay (anhydrous basis) - Max,,0.27019839938543083,MEU,Model 2,5.0
+fischer,,0.26218278316875565,MEU,Model 2,5.0
+citricacid,,0.19424212920775316,MEU,Model 2,5.0
+citric,,0.19278737198286813,MEU,Model 2,5.0
+others,,0.18943799311204843,MEU,Model 2,5.0
+colour,,0.17634683460629327,MEU,Model 2,5.0
+donot,,0.1683848652350187,MEU,Model 2,5.0
+Quantitative - Moisture - Max,,0.14944942971790423,MEU,Model 2,5.0
+jecfa,,0.14338178634060533,MEU,Model 2,5.0
+comparativesolution,,0.1359700794500035,MEU,Model 2,5.0
+fine,,0.12779202402434248,MEU,Model 2,5.0
+karl,,0.11323295235455193,MEU,Model 2,5.0
+crystals,,0.09288214597336407,MEU,Model 2,5.0
+soln,,0.09288214597336407,MEU,Model 2,5.0
+powder,,0.09085500993296385,MEU,Model 2,5.0
+mediumgran,,0.08586908615899767,MEU,Model 2,5.0
+additive,,0.08120172758223235,MEU,Model 2,5.0
+"Standard Composition - CITRIC ACID - Value, %",,0.07904394277030832,MEU,Model 2,5.0
+anhydrous,,0.0747621759456939,MEU,Model 2,5.0
+granular,,0.06942436716729233,MEU,Model 2,5.0
+monograph,,0.06756832370742782,MEU,Model 2,5.0
+cformin,,0.06256326269206279,MEU,Model 2,5.0
+monohydrated,,0.05519089905452154,MEU,Model 2,5.0
+proposed,,0.05145235431080544,MEU,Model 2,5.0
+citricacidmonohydrate,,0.04802277374663909,MEU,Model 2,5.0
+"Quantitative - Ash, sulphated - Max",,0.042065476536692854,MEU,Model 2,5.0
+harmonize,,0.03710987383755464,MEU,Model 2,5.0
+citricacidmonohydratedfinegranular,,0.035485100558154396,MEU,Model 2,5.0
+Quantitative - Sulphates - Max,,0.03504618016833037,MEU,Model 2,5.0
+opalescencesolution,,0.03044373050640556,MEU,Model 2,5.0
+hplc,,0.027716828773889902,MEU,Model 2,5.0
+monohydrate,,0.027521819886171844,MEU,Model 2,5.0
+citricacidnon,,0.01653010776413859,MEU,Model 2,5.0
+non,,0.011544877068644713,MEU,Model 2,5.0
+ngm,,0.0,MEU,Model 2,5.0
+medium,,0.0,MEU,Model 2,5.0
+jab,,0.0,MEU,Model 2,5.0
+gmo,,0.0,MEU,Model 2,5.0
+aocs,,0.0,MEU,Model 2,5.0
+encapsulated,,0.0,MEU,Model 2,5.0
+proposedharmonizeto,,0.0,MEU,Model 2,5.0
+encaps,,0.0,MEU,Model 2,5.0
+gran,,0.0,MEU,Model 2,5.0
+water,,1.0,MEU,Model 2,6.0
+colour,,0.8244921284557643,MEU,Model 2,6.0
+comparision,,0.7052356099907062,MEU,Model 2,6.0
+opalescencesolution,,0.5929976152258906,MEU,Model 2,6.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,0.5883957951540076,MEU,Model 2,6.0
+citricacidmonohydratedfinegranular,,0.5603798390125545,MEU,Model 2,6.0
+min,,0.5297778668111984,MEU,Model 2,6.0
+eur,,0.5270880517223032,MEU,Model 2,6.0
+Storage - Bag/Pouch/Sachet - Total Shelf Life,,0.43274235031439146,MEU,Model 2,6.0
+others,,0.40641343841707434,MEU,Model 2,6.0
+fischer,,0.3873850280515905,MEU,Model 2,6.0
+ph,,0.3801543127070722,MEU,Model 2,6.0
+hplc,,0.34787521455637005,MEU,Model 2,6.0
+Quantitative - Moisture - Max,,0.32886656338357895,MEU,Model 2,6.0
+granular,,0.3273095670532122,MEU,Model 2,6.0
+Quantitative - Assay (anhydrous basis) - Max,,0.3024791926189433,MEU,Model 2,6.0
+Total Solids %,,0.2978320714927556,MEU,Model 2,6.0
+monohydrated,,0.2965392106639467,MEU,Model 2,6.0
+anhydrous,,0.2922441626802433,MEU,Model 2,6.0
+comparativesolution,,0.28814387335633274,MEU,Model 2,6.0
+"Standard Composition - CITRIC ACID - Value, %",,0.2811703764673173,MEU,Model 2,6.0
+karl,,0.2497407953376228,MEU,Model 2,6.0
+acid,,0.22530153943663644,MEU,Model 2,6.0
+fine,,0.22189362050513542,MEU,Model 2,6.0
+citric,,0.22161032453974616,MEU,Model 2,6.0
+monograph,,0.2179655008649161,MEU,Model 2,6.0
+gmo,,0.15719541592309777,MEU,Model 2,6.0
+mediumgran,,0.15140495211805596,MEU,Model 2,6.0
+"Quantitative - Ash, sulphated - Max",,0.15003426584032334,MEU,Model 2,6.0
+additive,,0.1447430840033877,MEU,Model 2,6.0
+proposedharmonizeto,,0.14345416277210984,MEU,Model 2,6.0
+thiswillbeharmonizedto,,0.1425051718559923,MEU,Model 2,6.0
+monohydrate,,0.10091526093920354,MEU,Model 2,6.0
+fcc,,0.08851985551572254,MEU,Model 2,6.0
+citricacid,,0.08322173214442591,MEU,Model 2,6.0
+jecfa,,0.08229092850328562,MEU,Model 2,6.0
+color,,0.07768679961822586,MEU,Model 2,6.0
+citricacidnon,,0.0720536020427456,MEU,Model 2,6.0
+harmonized,,0.06410436476312427,MEU,Model 2,6.0
+citricacidmonohydrate,,0.06208254840015798,MEU,Model 2,6.0
+harmonize,,0.058780867394419734,MEU,Model 2,6.0
+proposed,,0.05221429264028149,MEU,Model 2,6.0
+use,,0.036768964552270966,MEU,Model 2,6.0
+powder,,0.019021084752409042,MEU,Model 2,6.0
+comparison,,0.01734619254707794,MEU,Model 2,6.0
+jab,,0.017268840822964246,MEU,Model 2,6.0
+donot,,0.015705964388350306,MEU,Model 2,6.0
+medium,,0.015145282618917311,MEU,Model 2,6.0
+Quantitative - Sulphates - Max,,0.013149059663436402,MEU,Model 2,6.0
+crystals,,0.0,MEU,Model 2,6.0
+encaps,,0.0,MEU,Model 2,6.0
+soln,,0.0,MEU,Model 2,6.0
+gran,,0.0,MEU,Model 2,6.0
+non,,0.0,MEU,Model 2,6.0
+cformin,,0.0,MEU,Model 2,6.0
+ngm,,0.0,MEU,Model 2,6.0
+aocs,,0.0,MEU,Model 2,6.0
+encapsulated,,0.0,MEU,Model 2,6.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,1.0,MEU,Model 2,7.0
+citricacidnon,,0.6768115389753447,MEU,Model 2,7.0
+non,,0.5720955493722665,MEU,Model 2,7.0
+citric,,0.5572252704623991,MEU,Model 2,7.0
+water,,0.4993829891707867,MEU,Model 2,7.0
+eur,,0.4859527087967374,MEU,Model 2,7.0
+Quantitative - Assay (anhydrous basis) - Max,,0.45237657215703914,MEU,Model 2,7.0
+gmo,,0.4064918988213257,MEU,Model 2,7.0
+"Standard Composition - CITRIC ACID - Value, %",,0.38120121478391744,MEU,Model 2,7.0
+fischer,,0.3618404340373762,MEU,Model 2,7.0
+powder,,0.3585418527670723,MEU,Model 2,7.0
+colour,,0.3349271598298009,MEU,Model 2,7.0
+Storage - Bag/Pouch/Sachet - Total Shelf Life,,0.3232089492085889,MEU,Model 2,7.0
+fcc,,0.2686758326358841,MEU,Model 2,7.0
+others,,0.25476358676327393,MEU,Model 2,7.0
+comparision,,0.23813891206481433,MEU,Model 2,7.0
+Total Solids %,,0.2373097015288937,MEU,Model 2,7.0
+jecfa,,0.22568222625945475,MEU,Model 2,7.0
+Quantitative - Moisture - Max,,0.1875833409243148,MEU,Model 2,7.0
+citricacid,,0.18398456373076308,MEU,Model 2,7.0
+acid,,0.17538125466318177,MEU,Model 2,7.0
+monohydrate,,0.17012405232140557,MEU,Model 2,7.0
+karl,,0.15790619827430205,MEU,Model 2,7.0
+anhydrous,,0.13355792976260702,MEU,Model 2,7.0
+"Quantitative - Ash, sulphated - Max",,0.12500774570775325,MEU,Model 2,7.0
+additive,,0.0890535847782423,MEU,Model 2,7.0
+mediumgran,,0.08551725552533304,MEU,Model 2,7.0
+harmonized,,0.08511477664950179,MEU,Model 2,7.0
+monograph,,0.08505433780067971,MEU,Model 2,7.0
+color,,0.07789297183327831,MEU,Model 2,7.0
+Quantitative - Sulphates - Max,,0.07051746921719303,MEU,Model 2,7.0
+opalescencesolution,,0.06470292141023738,MEU,Model 2,7.0
+harmonize,,0.050898238346468436,MEU,Model 2,7.0
+ph,,0.04764598291978538,MEU,Model 2,7.0
+citricacidmonohydratedfinegranular,,0.037765939721179545,MEU,Model 2,7.0
+thiswillbeharmonizedto,,0.03670241678117084,MEU,Model 2,7.0
+citricacidmonohydrate,,0.02860247618060844,MEU,Model 2,7.0
+medium,,0.026793171432018335,MEU,Model 2,7.0
+jab,,0.02119722564967001,MEU,Model 2,7.0
+granular,,0.01707404932808096,MEU,Model 2,7.0
+encapsulated,,0.0163608125795795,MEU,Model 2,7.0
+min,,0.015026426499634406,MEU,Model 2,7.0
+comparison,,0.013302820714653045,MEU,Model 2,7.0
+proposed,,0.013083123608782927,MEU,Model 2,7.0
+fine,,0.012970014922769328,MEU,Model 2,7.0
+monohydrated,,0.009741251194693067,MEU,Model 2,7.0
+cformin,,0.008839458719132757,MEU,Model 2,7.0
+use,,0.008105033050034079,MEU,Model 2,7.0
+crystals,,0.008024982847993153,MEU,Model 2,7.0
+comparativesolution,,0.0,MEU,Model 2,7.0
+donot,,0.0,MEU,Model 2,7.0
+hplc,,0.0,MEU,Model 2,7.0
+gran,,0.0,MEU,Model 2,7.0
+proposedharmonizeto,,0.0,MEU,Model 2,7.0
+soln,,0.0,MEU,Model 2,7.0
+encaps,,0.0,MEU,Model 2,7.0
+ngm,,0.0,MEU,Model 2,7.0
+aocs,,0.0,MEU,Model 2,7.0
+powder,,1.0,AMEA,Model 2,0.0
+citricacid,,0.6095480962533271,AMEA,Model 2,0.0
+citric,,0.3976371885607937,AMEA,Model 2,0.0
+anhydrous,,0.333760791121038,AMEA,Model 2,0.0
+acid,,0.3128362678536143,AMEA,Model 2,0.0
+karl,,0.2751976732700438,AMEA,Model 2,0.0
+others,,0.24494786620109202,AMEA,Model 2,0.0
+jecfa,,0.19154897454376846,AMEA,Model 2,0.0
+Total Solids %,,0.12327285121466244,AMEA,Model 2,0.0
+fcc,,0.12324692515773517,AMEA,Model 2,0.0
+Quantitative - Assay (anhydrous basis) - Max,,0.11690665380962971,AMEA,Model 2,0.0
+fine,,0.10187526441768571,AMEA,Model 2,0.0
+fischer,,0.10038489951267189,AMEA,Model 2,0.0
+citricnon,,0.08772351024274887,AMEA,Model 2,0.0
+Quantitative - PH - Max,,0.08152692823212829,AMEA,Model 2,0.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,0.07497525245088213,AMEA,Model 2,0.0
+Quantitative - Moisture - Max,,0.07188104727731454,AMEA,Model 2,0.0
+non,,0.06464555616726017,AMEA,Model 2,0.0
+critical,,0.061451093010527966,AMEA,Model 2,0.0
+testing,,0.05664635171059929,AMEA,Model 2,0.0
+Quantitative - Sulphates - Max,,0.04954936489261232,AMEA,Model 2,0.0
+citricacidanhydrous,,0.04653997981657324,AMEA,Model 2,0.0
+plant,,0.04502762642945351,AMEA,Model 2,0.0
+house,,0.0435471115070627,AMEA,Model 2,0.0
+compare,,0.04183890262194553,AMEA,Model 2,0.0
+std,,0.04183067719646844,AMEA,Model 2,0.0
+mesh,,0.04017946424268903,AMEA,Model 2,0.0
+gb,,0.03978452824831874,AMEA,Model 2,0.0
+color,,0.036082649429793764,AMEA,Model 2,0.0
+jab,,0.033692084627114434,AMEA,Model 2,0.0
+granular,,0.03276808736102958,AMEA,Model 2,0.0
+th,,0.03046226442802207,AMEA,Model 2,0.0
+maxppm,,0.025130288382381988,AMEA,Model 2,0.0
+Quantitative - Oxalates - Max,,0.023736795923859362,AMEA,Model 2,0.0
+edition,,0.02274290287450725,AMEA,Model 2,0.0
+additive,,0.022708351017453946,AMEA,Model 2,0.0
+tm,,0.02224792277254597,AMEA,Model 2,0.0
+rotap,,0.02143605857216039,AMEA,Model 2,0.0
+din,,0.020802570342919175,AMEA,Model 2,0.0
+bp,,0.0199922513927782,AMEA,Model 2,0.0
+ik,,0.01955541910556758,AMEA,Model 2,0.0
+max,,0.017727465019460965,AMEA,Model 2,0.0
+rm,,0.016467700374709272,AMEA,Model 2,0.0
+granules,,0.016348672997180493,AMEA,Model 2,0.0
+aocs,,0.015687699657491023,AMEA,Model 2,0.0
+usp,,0.015176450764671544,AMEA,Model 2,0.0
+finegranules,,0.013993778835734503,AMEA,Model 2,0.0
+reg,,0.01230927875009897,AMEA,Model 2,0.0
+min,,0.011727341245481776,AMEA,Model 2,0.0
+cumulative,,0.009347360664483101,AMEA,Model 2,0.0
+nvp,,0.0092790683175793,AMEA,Model 2,0.0
+sieve,,0.005120093798941982,AMEA,Model 2,0.0
+acidreg,,0.004244766294519293,AMEA,Model 2,0.0
+qa,,0.004131612821614537,AMEA,Model 2,0.0
+nfi,,0.003776162315929171,AMEA,Model 2,0.0
+企标q,,0.002191136404142706,AMEA,Model 2,0.0
+anhydrousfinegranular,,0.0,AMEA,Model 2,0.0
+gmo,,0.0,AMEA,Model 2,0.0
+cali,,0.0,AMEA,Model 2,0.0
+jecfa,,1.0,AMEA,Model 2,1.0
+karl,,0.6911473545667077,AMEA,Model 2,1.0
+citric,,0.6136352754368659,AMEA,Model 2,1.0
+fischer,,0.5287781205136416,AMEA,Model 2,1.0
+fcc,,0.39369773425327204,AMEA,Model 2,1.0
+Quantitative - PH - Max,,0.3221247889853171,AMEA,Model 2,1.0
+others,,0.31903811776570407,AMEA,Model 2,1.0
+powder,,0.29796226283902394,AMEA,Model 2,1.0
+anhydrous,,0.205658855107424,AMEA,Model 2,1.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,0.16800305923222822,AMEA,Model 2,1.0
+acid,,0.1637219592326084,AMEA,Model 2,1.0
+Total Solids %,,0.11567685243293879,AMEA,Model 2,1.0
+citricacid,,0.09145130558120909,AMEA,Model 2,1.0
+max,,0.08889260186966366,AMEA,Model 2,1.0
+sieve,,0.08823433388589444,AMEA,Model 2,1.0
+Quantitative - Assay (anhydrous basis) - Max,,0.08814136816817218,AMEA,Model 2,1.0
+granular,,0.07875302440094561,AMEA,Model 2,1.0
+Quantitative - Oxalates - Max,,0.07528826879575462,AMEA,Model 2,1.0
+additive,,0.07252724961369013,AMEA,Model 2,1.0
+nvp,,0.06163780555391661,AMEA,Model 2,1.0
+rotap,,0.06066543697877217,AMEA,Model 2,1.0
+企标q,,0.06065029980145422,AMEA,Model 2,1.0
+Quantitative - Moisture - Max,,0.05711902460883928,AMEA,Model 2,1.0
+gb,,0.05182923083613526,AMEA,Model 2,1.0
+citricacidanhydrous,,0.051302875303544285,AMEA,Model 2,1.0
+th,,0.04970616015396918,AMEA,Model 2,1.0
+Quantitative - Sulphates - Max,,0.049228167364386635,AMEA,Model 2,1.0
+maxppm,,0.047699401693221656,AMEA,Model 2,1.0
+min,,0.041848557389160185,AMEA,Model 2,1.0
+din,,0.041189697228429994,AMEA,Model 2,1.0
+edition,,0.03634724042414516,AMEA,Model 2,1.0
+citricnon,,0.035181077614129516,AMEA,Model 2,1.0
+acidreg,,0.033970357781126,AMEA,Model 2,1.0
+usp,,0.031196852627945325,AMEA,Model 2,1.0
+house,,0.03039205430350163,AMEA,Model 2,1.0
+std,,0.029768643270520034,AMEA,Model 2,1.0
+jab,,0.022908227914670364,AMEA,Model 2,1.0
+plant,,0.021388364657670654,AMEA,Model 2,1.0
+fine,,0.0176767169291092,AMEA,Model 2,1.0
+bp,,0.017120932526532424,AMEA,Model 2,1.0
+non,,0.016168036312904317,AMEA,Model 2,1.0
+granules,,0.014461032204013907,AMEA,Model 2,1.0
+tm,,0.014117473484217075,AMEA,Model 2,1.0
+testing,,0.012376637011928163,AMEA,Model 2,1.0
+rm,,0.011640459359268156,AMEA,Model 2,1.0
+critical,,0.010131618598164213,AMEA,Model 2,1.0
+mesh,,0.007880556546995666,AMEA,Model 2,1.0
+aocs,,0.007240037207002356,AMEA,Model 2,1.0
+ik,,0.0035613293494264485,AMEA,Model 2,1.0
+color,,0.0035280054819425283,AMEA,Model 2,1.0
+qa,,0.0,AMEA,Model 2,1.0
+reg,,0.0,AMEA,Model 2,1.0
+nfi,,0.0,AMEA,Model 2,1.0
+cali,,0.0,AMEA,Model 2,1.0
+gmo,,0.0,AMEA,Model 2,1.0
+finegranules,,0.0,AMEA,Model 2,1.0
+compare,,0.0,AMEA,Model 2,1.0
+anhydrousfinegranular,,0.0,AMEA,Model 2,1.0
+cumulative,,0.0,AMEA,Model 2,1.0
+citric,,1.0,AMEA,Model 2,2.0
+tm,,0.7454056256030072,AMEA,Model 2,2.0
+karl,,0.6885574178417423,AMEA,Model 2,2.0
+citricacid,,0.6100527057844747,AMEA,Model 2,2.0
+granular,,0.545407631337487,AMEA,Model 2,2.0
+jab,,0.5019716278239842,AMEA,Model 2,2.0
+anhydrous,,0.5015071927126722,AMEA,Model 2,2.0
+fcc,,0.49951093449547573,AMEA,Model 2,2.0
+jecfa,,0.40153305513910326,AMEA,Model 2,2.0
+powder,,0.3864946268833604,AMEA,Model 2,2.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,0.3736640012325775,AMEA,Model 2,2.0
+acid,,0.31920391047766367,AMEA,Model 2,2.0
+Total Solids %,,0.29561064180450886,AMEA,Model 2,2.0
+ik,,0.2890098421549604,AMEA,Model 2,2.0
+fischer,,0.27551035447318284,AMEA,Model 2,2.0
+rm,,0.26704902791657625,AMEA,Model 2,2.0
+others,,0.2640984918245903,AMEA,Model 2,2.0
+Quantitative - Oxalates - Max,,0.24697788403734244,AMEA,Model 2,2.0
+aocs,,0.2239635277761416,AMEA,Model 2,2.0
+nfi,,0.18644515326061403,AMEA,Model 2,2.0
+Quantitative - Moisture - Max,,0.15741398431083953,AMEA,Model 2,2.0
+Quantitative - Sulphates - Max,,0.14583787016598154,AMEA,Model 2,2.0
+Quantitative - Assay (anhydrous basis) - Max,,0.1404861194020759,AMEA,Model 2,2.0
+Quantitative - PH - Max,,0.1400674162634875,AMEA,Model 2,2.0
+non,,0.11055785533187647,AMEA,Model 2,2.0
+nvp,,0.10871912174470183,AMEA,Model 2,2.0
+qa,,0.0939399681112839,AMEA,Model 2,2.0
+citricnon,,0.06765710732986432,AMEA,Model 2,2.0
+bp,,0.06502761118985702,AMEA,Model 2,2.0
+citricacidanhydrous,,0.050041614755461705,AMEA,Model 2,2.0
+compare,,0.04585725111760528,AMEA,Model 2,2.0
+gb,,0.03646367430765207,AMEA,Model 2,2.0
+critical,,0.03181432761436681,AMEA,Model 2,2.0
+edition,,0.029145625410379596,AMEA,Model 2,2.0
+min,,0.028754483965071596,AMEA,Model 2,2.0
+mesh,,0.025932895527879377,AMEA,Model 2,2.0
+testing,,0.02507098136713634,AMEA,Model 2,2.0
+fine,,0.023978833175691907,AMEA,Model 2,2.0
+企标q,,0.01756352809088568,AMEA,Model 2,2.0
+sieve,,0.01756352809088568,AMEA,Model 2,2.0
+rotap,,0.01647583557379039,AMEA,Model 2,2.0
+th,,0.012069507455218538,AMEA,Model 2,2.0
+acidreg,,0.0,AMEA,Model 2,2.0
+std,,0.0,AMEA,Model 2,2.0
+additive,,0.0,AMEA,Model 2,2.0
+reg,,0.0,AMEA,Model 2,2.0
+anhydrousfinegranular,,0.0,AMEA,Model 2,2.0
+granules,,0.0,AMEA,Model 2,2.0
+plant,,0.0,AMEA,Model 2,2.0
+gmo,,0.0,AMEA,Model 2,2.0
+cumulative,,0.0,AMEA,Model 2,2.0
+din,,0.0,AMEA,Model 2,2.0
+maxppm,,0.0,AMEA,Model 2,2.0
+max,,0.0,AMEA,Model 2,2.0
+finegranules,,0.0,AMEA,Model 2,2.0
+usp,,0.0,AMEA,Model 2,2.0
+house,,0.0,AMEA,Model 2,2.0
+cali,,0.0,AMEA,Model 2,2.0
+color,,0.0,AMEA,Model 2,2.0
+citric,,1.0,AMEA,Model 2,3.0
+Quantitative - Assay (anhydrous basis) - Max,,0.6015654902957491,AMEA,Model 2,3.0
+mesh,,0.5857090702838216,AMEA,Model 2,3.0
+granules,,0.5421323608877576,AMEA,Model 2,3.0
+fine,,0.5211558026607293,AMEA,Model 2,3.0
+others,,0.4651374669615377,AMEA,Model 2,3.0
+anhydrous,,0.4282208829164752,AMEA,Model 2,3.0
+karl,,0.42702033977210024,AMEA,Model 2,3.0
+finegranules,,0.3871760928329091,AMEA,Model 2,3.0
+bp,,0.37186870748397854,AMEA,Model 2,3.0
+powder,,0.36478634584440767,AMEA,Model 2,3.0
+Quantitative - Sulphates - Max,,0.321815689586894,AMEA,Model 2,3.0
+acid,,0.3095703764839355,AMEA,Model 2,3.0
+usp,,0.2749805769630705,AMEA,Model 2,3.0
+citricacid,,0.2492691840695946,AMEA,Model 2,3.0
+Quantitative - Oxalates - Max,,0.24717058873177358,AMEA,Model 2,3.0
+fischer,,0.24306795765698913,AMEA,Model 2,3.0
+jecfa,,0.23156302607455242,AMEA,Model 2,3.0
+Quantitative - PH - Max,,0.1723120746228345,AMEA,Model 2,3.0
+fcc,,0.11863568323051155,AMEA,Model 2,3.0
+Quantitative - Moisture - Max,,0.1137410313110449,AMEA,Model 2,3.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,0.0817116318581115,AMEA,Model 2,3.0
+granular,,0.07744722573173338,AMEA,Model 2,3.0
+gb,,0.07306494976279565,AMEA,Model 2,3.0
+edition,,0.07172522702978777,AMEA,Model 2,3.0
+tm,,0.07092378819300978,AMEA,Model 2,3.0
+testing,,0.06576109869097137,AMEA,Model 2,3.0
+compare,,0.04683715750999332,AMEA,Model 2,3.0
+cumulative,,0.04472531643259215,AMEA,Model 2,3.0
+nfi,,0.03908148979155641,AMEA,Model 2,3.0
+th,,0.038533628715404715,AMEA,Model 2,3.0
+nvp,,0.024576794660831663,AMEA,Model 2,3.0
+citricnon,,0.020215206779870647,AMEA,Model 2,3.0
+acidreg,,0.016248309872209304,AMEA,Model 2,3.0
+rm,,0.016025181673259947,AMEA,Model 2,3.0
+Total Solids %,,0.014605497857966809,AMEA,Model 2,3.0
+din,,0.010771126720664303,AMEA,Model 2,3.0
+std,,0.009280661901354958,AMEA,Model 2,3.0
+jab,,0.008669306982621932,AMEA,Model 2,3.0
+plant,,0.008411416988902994,AMEA,Model 2,3.0
+non,,0.007673321549509543,AMEA,Model 2,3.0
+color,,0.007664004108234743,AMEA,Model 2,3.0
+additive,,0.007348787445403833,AMEA,Model 2,3.0
+aocs,,0.0060710485780065765,AMEA,Model 2,3.0
+rotap,,0.0,AMEA,Model 2,3.0
+reg,,0.0,AMEA,Model 2,3.0
+qa,,0.0,AMEA,Model 2,3.0
+sieve,,0.0,AMEA,Model 2,3.0
+min,,0.0,AMEA,Model 2,3.0
+max,,0.0,AMEA,Model 2,3.0
+anhydrousfinegranular,,0.0,AMEA,Model 2,3.0
+ik,,0.0,AMEA,Model 2,3.0
+house,,0.0,AMEA,Model 2,3.0
+cali,,0.0,AMEA,Model 2,3.0
+citricacidanhydrous,,0.0,AMEA,Model 2,3.0
+gmo,,0.0,AMEA,Model 2,3.0
+critical,,0.0,AMEA,Model 2,3.0
+maxppm,,0.0,AMEA,Model 2,3.0
+企标q,,0.0,AMEA,Model 2,3.0
+others,,1.0,AMEA,Model 2,4.0
+powder,,0.4963765716343257,AMEA,Model 2,4.0
+citric,,0.44926993901029644,AMEA,Model 2,4.0
+citricacidanhydrous,,0.4388717916764706,AMEA,Model 2,4.0
+th,,0.4198305137028538,AMEA,Model 2,4.0
+karl,,0.4088481900556249,AMEA,Model 2,4.0
+testing,,0.38438549308824643,AMEA,Model 2,4.0
+edition,,0.37899650930079615,AMEA,Model 2,4.0
+citricacid,,0.33401548414867593,AMEA,Model 2,4.0
+house,,0.31997396955666507,AMEA,Model 2,4.0
+Quantitative - Moisture - Max,,0.3028381726706251,AMEA,Model 2,4.0
+critical,,0.29231510796285337,AMEA,Model 2,4.0
+jecfa,,0.2781023699944124,AMEA,Model 2,4.0
+fischer,,0.2261321095089062,AMEA,Model 2,4.0
+fcc,,0.18339643310932485,AMEA,Model 2,4.0
+anhydrous,,0.15496397111855292,AMEA,Model 2,4.0
+acid,,0.1441731504237915,AMEA,Model 2,4.0
+granular,,0.10269010230352266,AMEA,Model 2,4.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,0.08565011773727961,AMEA,Model 2,4.0
+gb,,0.0826821940132214,AMEA,Model 2,4.0
+finegranules,,0.08201221292930572,AMEA,Model 2,4.0
+Quantitative - Assay (anhydrous basis) - Max,,0.07387125538675018,AMEA,Model 2,4.0
+Total Solids %,,0.0641686215378098,AMEA,Model 2,4.0
+ik,,0.0592646416591955,AMEA,Model 2,4.0
+Quantitative - Sulphates - Max,,0.05747186371141702,AMEA,Model 2,4.0
+usp,,0.053961709121352036,AMEA,Model 2,4.0
+jab,,0.04648674627330298,AMEA,Model 2,4.0
+fine,,0.04179004451047375,AMEA,Model 2,4.0
+reg,,0.03383012888643851,AMEA,Model 2,4.0
+granules,,0.03273355630177912,AMEA,Model 2,4.0
+citricnon,,0.03186116827413739,AMEA,Model 2,4.0
+std,,0.02976968093458113,AMEA,Model 2,4.0
+tm,,0.0286732448658981,AMEA,Model 2,4.0
+Quantitative - PH - Max,,0.025726320280942752,AMEA,Model 2,4.0
+compare,,0.024839815414652612,AMEA,Model 2,4.0
+bp,,0.022908959933403375,AMEA,Model 2,4.0
+max,,0.019113866729809366,AMEA,Model 2,4.0
+additive,,0.01409907798780854,AMEA,Model 2,4.0
+nvp,,0.013500289031465022,AMEA,Model 2,4.0
+rotap,,0.012824249691293239,AMEA,Model 2,4.0
+sieve,,0.01258718052938665,AMEA,Model 2,4.0
+Quantitative - Oxalates - Max,,0.012532791477716463,AMEA,Model 2,4.0
+plant,,0.009756341776123058,AMEA,Model 2,4.0
+mesh,,0.009385249243011692,AMEA,Model 2,4.0
+rm,,0.009032467509513569,AMEA,Model 2,4.0
+din,,0.005967154077077903,AMEA,Model 2,4.0
+gmo,,0.0,AMEA,Model 2,4.0
+non,,0.0,AMEA,Model 2,4.0
+qa,,0.0,AMEA,Model 2,4.0
+aocs,,0.0,AMEA,Model 2,4.0
+nfi,,0.0,AMEA,Model 2,4.0
+min,,0.0,AMEA,Model 2,4.0
+maxppm,,0.0,AMEA,Model 2,4.0
+anhydrousfinegranular,,0.0,AMEA,Model 2,4.0
+color,,0.0,AMEA,Model 2,4.0
+acidreg,,0.0,AMEA,Model 2,4.0
+cumulative,,0.0,AMEA,Model 2,4.0
+cali,,0.0,AMEA,Model 2,4.0
+企标q,,0.0,AMEA,Model 2,4.0
+jecfa,,1.0,AMEA,Model 2,5.0
+citricacid,,0.941146657586132,AMEA,Model 2,5.0
+anhydrous,,0.922810558516023,AMEA,Model 2,5.0
+powder,,0.8818451819383488,AMEA,Model 2,5.0
+citric,,0.8587333994126429,AMEA,Model 2,5.0
+fischer,,0.4879702447256656,AMEA,Model 2,5.0
+others,,0.47065844393991546,AMEA,Model 2,5.0
+acid,,0.4157071707138824,AMEA,Model 2,5.0
+karl,,0.3723230866864905,AMEA,Model 2,5.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,0.37156856014320844,AMEA,Model 2,5.0
+Quantitative - PH - Max,,0.3179590771088565,AMEA,Model 2,5.0
+fcc,,0.2592119952849238,AMEA,Model 2,5.0
+Total Solids %,,0.22765907010213504,AMEA,Model 2,5.0
+tm,,0.13973372860708735,AMEA,Model 2,5.0
+granules,,0.1392281033617863,AMEA,Model 2,5.0
+rotap,,0.1369376531454046,AMEA,Model 2,5.0
+mesh,,0.1250546766984174,AMEA,Model 2,5.0
+Quantitative - Assay (anhydrous basis) - Max,,0.11226385858471268,AMEA,Model 2,5.0
+Quantitative - Sulphates - Max,,0.11192412360080553,AMEA,Model 2,5.0
+sieve,,0.1042860854808917,AMEA,Model 2,5.0
+Quantitative - Moisture - Max,,0.09910316997970478,AMEA,Model 2,5.0
+min,,0.09014262190400343,AMEA,Model 2,5.0
+max,,0.08477327967652389,AMEA,Model 2,5.0
+granular,,0.08385030388780648,AMEA,Model 2,5.0
+finegranules,,0.08078556907738696,AMEA,Model 2,5.0
+fine,,0.07837292650553283,AMEA,Model 2,5.0
+企标q,,0.07661647147456377,AMEA,Model 2,5.0
+Quantitative - Oxalates - Max,,0.07415452788962726,AMEA,Model 2,5.0
+gb,,0.07347877198778095,AMEA,Model 2,5.0
+th,,0.0640125477289566,AMEA,Model 2,5.0
+citricnon,,0.06384096769258236,AMEA,Model 2,5.0
+acidreg,,0.062202111978900146,AMEA,Model 2,5.0
+edition,,0.05862183813888009,AMEA,Model 2,5.0
+color,,0.057596291889704644,AMEA,Model 2,5.0
+non,,0.05567785037479584,AMEA,Model 2,5.0
+additive,,0.052148805312272034,AMEA,Model 2,5.0
+bp,,0.04803203053534793,AMEA,Model 2,5.0
+citricacidanhydrous,,0.0443327966584532,AMEA,Model 2,5.0
+usp,,0.04356679367486737,AMEA,Model 2,5.0
+plant,,0.04330044217195716,AMEA,Model 2,5.0
+jab,,0.042392813340868585,AMEA,Model 2,5.0
+reg,,0.03916012725386439,AMEA,Model 2,5.0
+nfi,,0.03868600479883222,AMEA,Model 2,5.0
+testing,,0.03741674724936142,AMEA,Model 2,5.0
+house,,0.03665098737622955,AMEA,Model 2,5.0
+aocs,,0.031433040405152934,AMEA,Model 2,5.0
+compare,,0.031010842066726604,AMEA,Model 2,5.0
+rm,,0.02944334284782965,AMEA,Model 2,5.0
+ik,,0.023567307517351022,AMEA,Model 2,5.0
+qa,,0.02291734124898995,AMEA,Model 2,5.0
+maxppm,,0.022223468593942888,AMEA,Model 2,5.0
+nvp,,0.019597048941687203,AMEA,Model 2,5.0
+std,,0.015300177896852061,AMEA,Model 2,5.0
+din,,0.013769015870625203,AMEA,Model 2,5.0
+critical,,0.008917995226244231,AMEA,Model 2,5.0
+anhydrousfinegranular,,0.0,AMEA,Model 2,5.0
+gmo,,0.0,AMEA,Model 2,5.0
+cumulative,,0.0,AMEA,Model 2,5.0
+cali,,0.0,AMEA,Model 2,5.0
+others,,1.0,LA,Model 2,0.0
+citric,,0.6154153796586188,LA,Model 2,0.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,0.4233797706849334,LA,Model 2,0.0
+Storage - Bag/Pouch/Sachet - Total Shelf Life,,0.35003957330867874,LA,Model 2,0.0
+gmo,,0.28279716753167605,LA,Model 2,0.0
+acid,,0.27737107156114943,LA,Model 2,0.0
+"Particle size tests - Particle size, >150µm (#100) - Max",,0.26426908449076497,LA,Model 2,0.0
+non,,0.1648350878667535,LA,Model 2,0.0
+powder,,0.1547994368683154,LA,Model 2,0.0
+"Particle size tests - Particle size, >600µm (#30) - Max",,0.1529315766986755,LA,Model 2,0.0
+retained,,0.1352774917759894,LA,Model 2,0.0
+additive,,0.12211867790128385,LA,Model 2,0.0
+laharm,,0.11967458833252784,LA,Model 2,0.0
+usp,,0.10921812947826268,LA,Model 2,0.0
+al,,0.0943511261466337,LA,Model 2,0.0
+reported,,0.09344623983526296,LA,Model 2,0.0
+Total Solids %,,0.09315540520032964,LA,Model 2,0.0
+fcc,,0.0855227062072894,LA,Model 2,0.0
+harm,,0.07371652903560197,LA,Model 2,0.0
+sieve,,0.07271963186316739,LA,Model 2,0.0
+la,,0.07220237720017088,LA,Model 2,0.0
+po,,0.06299230246615255,LA,Model 2,0.0
+anhydrous,,0.06235247560813319,LA,Model 2,0.0
+encapsulated,,0.058246307074867075,LA,Model 2,0.0
+máx,,0.056262271811430245,LA,Model 2,0.0
+citricacid,,0.05467140145545726,LA,Model 2,0.0
+citricacidnongmo,,0.051774495177659634,LA,Model 2,0.0
+mm,,0.037204746929274675,LA,Model 2,0.0
+mesh,,0.028024906670028646,LA,Model 2,0.0
+citricacidgranular,,0.023475026790779764,LA,Model 2,0.0
+granular,,0.022842554264461766,LA,Model 2,0.0
+citricnon,,0.0,LA,Model 2,0.0
+others,,1.0,LA,Model 2,1.0
+harm,,0.7442602805419014,LA,Model 2,1.0
+laharm,,0.7344614383338757,LA,Model 2,1.0
+reported,,0.6763363419939371,LA,Model 2,1.0
+po,,0.5934540222994845,LA,Model 2,1.0
+al,,0.5486238374980731,LA,Model 2,1.0
+"Particle size tests - Particle size, >600µm (#30) - Max",,0.520860808056588,LA,Model 2,1.0
+la,,0.4944251288814291,LA,Model 2,1.0
+citric,,0.45120703238734655,LA,Model 2,1.0
+mm,,0.41122167605802656,LA,Model 2,1.0
+"Particle size tests - Particle size, >150µm (#100) - Max",,0.40924349598369497,LA,Model 2,1.0
+anhydrous,,0.3130320105502937,LA,Model 2,1.0
+máx,,0.2697518283179475,LA,Model 2,1.0
+usp,,0.226077722780756,LA,Model 2,1.0
+powder,,0.20615034168564916,LA,Model 2,1.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,0.1601876273828078,LA,Model 2,1.0
+fcc,,0.14936758182472126,LA,Model 2,1.0
+Storage - Bag/Pouch/Sachet - Total Shelf Life,,0.1478689605562882,LA,Model 2,1.0
+gmo,,0.1464452703512768,LA,Model 2,1.0
+acid,,0.11131758781920635,LA,Model 2,1.0
+mesh,,0.08242416976381728,LA,Model 2,1.0
+citricnon,,0.07095971706030452,LA,Model 2,1.0
+sieve,,0.059585181632897735,LA,Model 2,1.0
+Total Solids %,,0.05395036566358949,LA,Model 2,1.0
+additive,,0.04561803141110179,LA,Model 2,1.0
+retained,,0.04495863805299124,LA,Model 2,1.0
+citricacid,,0.04019302241937417,LA,Model 2,1.0
+encapsulated,,0.0323702193981537,LA,Model 2,1.0
+non,,0.03237021939815369,LA,Model 2,1.0
+granular,,0.0,LA,Model 2,1.0
+citricacidnongmo,,0.0,LA,Model 2,1.0
+citricacidgranular,,0.0,LA,Model 2,1.0
+others,,1.0,LA,Model 2,2.0
+"Particle size tests - Particle size, >150µm (#100) - Max",,0.8255955341990001,LA,Model 2,2.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,0.7618793797965293,LA,Model 2,2.0
+citric,,0.7130344844785064,LA,Model 2,2.0
+gmo,,0.6626130921051767,LA,Model 2,2.0
+Storage - Bag/Pouch/Sachet - Total Shelf Life,,0.6227353687396554,LA,Model 2,2.0
+anhydrous,,0.4216010678861078,LA,Model 2,2.0
+"Particle size tests - Particle size, >600µm (#30) - Max",,0.3528828068499066,LA,Model 2,2.0
+non,,0.35193908744039404,LA,Model 2,2.0
+acid,,0.3219408856261952,LA,Model 2,2.0
+harm,,0.2427481266710331,LA,Model 2,2.0
+powder,,0.2395648127852323,LA,Model 2,2.0
+Total Solids %,,0.1827373725574096,LA,Model 2,2.0
+sieve,,0.16693333193328602,LA,Model 2,2.0
+usp,,0.15871942920069984,LA,Model 2,2.0
+po,,0.1241181342444141,LA,Model 2,2.0
+citricacid,,0.123979004540091,LA,Model 2,2.0
+fcc,,0.11788573601144886,LA,Model 2,2.0
+additive,,0.11778773269771181,LA,Model 2,2.0
+laharm,,0.11766172843719278,LA,Model 2,2.0
+reported,,0.11766041589281237,LA,Model 2,2.0
+retained,,0.1092027299173053,LA,Model 2,2.0
+al,,0.08917304016342054,LA,Model 2,2.0
+mm,,0.05891836717729016,LA,Model 2,2.0
+citricacidnongmo,,0.054217270721466246,LA,Model 2,2.0
+encapsulated,,0.046499509764673895,LA,Model 2,2.0
+la,,0.032037895781351106,LA,Model 2,2.0
+citricnon,,0.025505362400066157,LA,Model 2,2.0
+máx,,0.017141392093320145,LA,Model 2,2.0
+mesh,,0.004456088171481297,LA,Model 2,2.0
+citricacidgranular,,0.0011852275755073946,LA,Model 2,2.0
+granular,,0.0,LA,Model 2,2.0
+usp,,1.0,LA,Model 2,3.0
+others,,0.8326989052501734,LA,Model 2,3.0
+retained,,0.7949271451699946,LA,Model 2,3.0
+fcc,,0.7572180248246088,LA,Model 2,3.0
+"Particle size tests - Particle size, >600µm (#30) - Max",,0.704094711279007,LA,Model 2,3.0
+citric,,0.5344542633567189,LA,Model 2,3.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,0.383609349703184,LA,Model 2,3.0
+powder,,0.3607880078636959,LA,Model 2,3.0
+acid,,0.3182002158661629,LA,Model 2,3.0
+anhydrous,,0.2907531705342687,LA,Model 2,3.0
+mesh,,0.2759039395574744,LA,Model 2,3.0
+Storage - Bag/Pouch/Sachet - Total Shelf Life,,0.24273138154344304,LA,Model 2,3.0
+"Particle size tests - Particle size, >150µm (#100) - Max",,0.22443335132218029,LA,Model 2,3.0
+la,,0.17066075283324342,LA,Model 2,3.0
+gmo,,0.15727873718294655,LA,Model 2,3.0
+Total Solids %,,0.1542768483540205,LA,Model 2,3.0
+mm,,0.14807069616837557,LA,Model 2,3.0
+reported,,0.14513626551538045,LA,Model 2,3.0
+po,,0.14476524554776038,LA,Model 2,3.0
+non,,0.12115488397193738,LA,Model 2,3.0
+laharm,,0.12032611209621463,LA,Model 2,3.0
+additive,,0.0739425930922828,LA,Model 2,3.0
+citricacid,,0.07285483000539665,LA,Model 2,3.0
+sieve,,0.06779546681057745,LA,Model 2,3.0
+harm,,0.05983540205072854,LA,Model 2,3.0
+al,,0.050593631948192115,LA,Model 2,3.0
+citricnon,,0.0455342687533729,LA,Model 2,3.0
+encapsulated,,0.0,LA,Model 2,3.0
+citricacidnongmo,,0.0,LA,Model 2,3.0
+citricacidgranular,,0.0,LA,Model 2,3.0
+máx,,0.0,LA,Model 2,3.0
+granular,,0.0,LA,Model 2,3.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,1.0,NA,Model 2,0.0
+finegranular,,0.5154242850445382,NA,Model 2,0.0
+fine,,0.400225035161744,NA,Model 2,0.0
+citricacidnon,,0.36243788091889356,NA,Model 2,0.0
+gmo,,0.3551054852320676,NA,Model 2,0.0
+citric,,0.35274261603375523,NA,Model 2,0.0
+non,,0.30436005625879037,NA,Model 2,0.0
+powder,,0.25909048288795117,NA,Model 2,0.0
+acid,,0.25449601500234414,NA,Model 2,0.0
+granular,,0.25288326300984526,NA,Model 2,0.0
+Total Solids %,,0.12517580872011252,NA,Model 2,0.0
+anhydrous,,0.08551336146272855,NA,Model 2,0.0
+liquid,,0.03278012189404595,NA,Model 2,0.0
+encapsulated,,0.0,NA,Model 2,0.0
+powdergmo,,0.0,NA,Model 2,0.0
+citricacidnon,,1.0,NA,Model 2,1.0
+citric,,0.9232367681212568,NA,Model 2,1.0
+gmo,,0.8800880088008801,NA,Model 2,1.0
+non,,0.8373059528175039,NA,Model 2,1.0
+powder,,0.8162816281628162,NA,Model 2,1.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,0.6109277594426109,NA,Model 2,1.0
+Total Solids %,,0.4052071873854052,NA,Model 2,1.0
+fine,,0.1631829849651632,NA,Model 2,1.0
+acid,,0.12101210121012104,NA,Model 2,1.0
+finegranular,,0.11978975675345313,NA,Model 2,1.0
+granular,,0.08434176751008433,NA,Model 2,1.0
+anhydrous,,0.024446889133357783,NA,Model 2,1.0
+encapsulated,,0.0,NA,Model 2,1.0
+liquid,,0.0,NA,Model 2,1.0
+powdergmo,,0.0,NA,Model 2,1.0
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,,1.0,NA,Model 2,2.0
+finegranular,,0.7937439670240798,NA,Model 2,2.0
+fine,,0.6612663379510059,NA,Model 2,2.0
+granular,,0.40580731001017456,NA,Model 2,2.0
+acid,,0.2969137251832721,NA,Model 2,2.0
+citric,,0.24348438600610472,NA,Model 2,2.0
+powder,,0.16221856982598945,NA,Model 2,2.0
+citricacidnon,,0.13607784821684799,NA,Model 2,2.0
+Total Solids %,,0.13054707677858657,NA,Model 2,2.0
+non,,0.11270251232683733,NA,Model 2,2.0
+anhydrous,,0.10331063629960087,NA,Model 2,2.0
+gmo,,0.06949988260154967,NA,Model 2,2.0
+liquid,,0.04560277582113695,NA,Model 2,2.0
+encapsulated,,0.0,NA,Model 2,2.0
+powdergmo,,0.0,NA,Model 2,2.0

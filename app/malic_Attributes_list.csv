@@ -1,0 +1,183 @@
+Attributes_list
+Total Solids %
+Storage - Bag - Min Remaining SL Upon Receipt
+Storage - Bag/Pouch/Sachet - Total Shelf Life
+"Particle size tests - Particle size, >710µm (#25) - Max"
+"Particle size tests - Particle size, >150µm (#100) - Max"
+"Standard Composition - MALIC ACID - Value, %"
+"Quantitative - Ash, sulphated - Max"
+Storage - Bag - Total Shelf Life
+Quantitative - Moisture - Max
+Quantitative - PH - Max
+"Standard Composition - PALM OIL - Value, %"
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt
+Shipping - Bag/Pouch/Sachet - Shipping Condition
+Shipping - Drum/Barrel/Keg - Shipping Condition
+Shipping - Bag - Shipping Condition
+Shipping - Box - Shipping Condition
+Shipping - Bulk/Tanker/Truck/Rail car - Shipping Condition
+Shipping - Tote - Shipping Condition
+Shipping - Can/Jerry can/Pail/Bucket/Jug/Tub - Shipping Condition
+Shipping - Box/Case/Carton - Shipping Condition
+Shipping - Bottle - Shipping Condition
+Storage - Bag/Pouch/Sachet - Storage Condition
+Storage - Drum/Barrel/Keg - Storage Condition
+Storage - Bag - Storage Condition
+Storage - Box - Storage Condition
+Storage - Box/Case/Carton - Storage Condition
+Storage - Tote - Storage Condition
+Quantitative - Moisture - Certificate of Analysis (CoA)
+"Quantitative - Ash, sulphated - Certificate of Analysis (CoA)"
+Quantitative - PH - Certificate of Analysis (CoA)
+"Quantitative - Acid, fumaric - Certificate of Analysis (CoA)"
+"Quantitative - Acid, maleic - Certificate of Analysis (CoA)"
+"Quantitative - Moisture, loss on drying - Certificate of Analysis (CoA)"
+"Quantitative - Solids, water insoluble - Certificate of Analysis (CoA)"
+Quantitative - Assay (anhydrous basis) - Certificate of Analysis (CoA)
+"Quantitative - Sulphates, water soluble - Certificate of Analysis (CoA)"
+Quantitative - Melting point - Certificate of Analysis (CoA)
+Quantitative - Specific rotation - Certificate of Analysis (CoA)
+Quantitative - Moisture - Minimum Testing Frequency
+"Quantitative - Ash, sulphated - Minimum Testing Frequency"
+Quantitative - PH - Minimum Testing Frequency
+"Quantitative - Acid, fumaric - Minimum Testing Frequency"
+"Quantitative - Acid, maleic - Minimum Testing Frequency"
+"Quantitative - Solids, water insoluble - Minimum Testing Frequency"
+Quantitative - Assay (anhydrous basis) - Minimum Testing Frequency
+"Quantitative - Sulphates, water soluble - Minimum Testing Frequency"
+Quantitative - Melting point - Minimum Testing Frequency
+Quantitative - Specific rotation - Minimum Testing Frequency
+"Particle size tests - Particle size, >150µm (#100) - Minimum Testing Frequency"
+"Particle size tests - Particle size, >710µm (#25) - Minimum Testing Frequency"
+"Particle size tests - Particle size, >600µm (#30) - Minimum Testing Frequency"
+"Particle size tests - Particle size, >2mm (#10) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >850µm (#20) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >150µm (#100) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >710µm (#25) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >630µm - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >600µm (#30) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, residue on pan - Certificate of Analysis (CoA)"
+Allergens - Buckwheat (Japanese definition) - Exception Value Desc.
+Allergens - Gelatin from animal sources other than Fish - Exception Value Desc.
+Allergens - Refined ingredient(s) derived from Wheat - Exception Value Desc.
+Allergens - Matsutake Mushroom (Japanese definition) - Exception Value Desc.
+Allergens - Yam (Japanese definition) - Exception Value Desc.
+Allergens - Beef (Japanese definition) - Exception Value Desc.
+Allergens - Chicken (Japanese definition) - Exception Value Desc.
+Allergens - Pork (Japanese definition) - Exception Value Desc.
+Allergens - Other animal-derived ingredients - Exception Value Desc.
+Allergens - Apple (Japanese definition) - Exception Value Desc.
+Allergens - Banana (Japanese definition) - Exception Value Desc.
+Allergens - Grapefruit - Exception Value Desc.
+Allergens - Kiwifruit (Japanese definition) - Exception Value Desc.
+Allergens - Orange (Japanese definition) - Exception Value Desc.
+Allergens - Peach (Japanese definition) - Exception Value Desc.
+Allergens - Wheat (Brazil definition) - Exception Value Desc.
+Allergens - Rye (Brazil definition) - Exception Value Desc.
+Allergens - Barley (Brazil definition) - Exception Value Desc.
+Allergens - Oat (Brazil definition) - Exception Value Desc.
+Allergens - Crustacean (Brazil definition) - Exception Value Desc.
+Allergens - Egg (Brazil definition) - Exception Value Desc.
+Allergens - Fish (Brazil definition) - Exception Value Desc.
+Allergens - Peanut (Brazil definition) - Exception Value Desc.
+Allergens - Soya (Brazil definition) - Exception Value Desc.
+Allergens - Milk (Brazil definition) - Exception Value Desc.
+Allergens - Almond (Brazil definition) - Exception Value Desc.
+Allergens - Hazelnut (Brazil definition) - Exception Value Desc.
+Allergens - Cashew (Brazil definition) - Exception Value Desc.
+Allergens - Brazil Nut (Brazil definition) - Exception Value Desc.
+Allergens - Macadamia (Brazil definition) - Exception Value Desc.
+Allergens - Walnut (Brazil definition) - Exception Value Desc.
+Allergens - Hickory Nut and Pecan (Brazil definition) - Exception Value Desc.
+Allergens - Pistachio (Brazil definition) - Exception Value Desc.
+Allergens - Pine Nut (Brazil definition) - Exception Value Desc.
+Allergens - Chestnut (Brazil definition) - Exception Value Desc.
+Allergens - Natural Latex (Brazil definition) - Exception Value Desc.
+Allergens - Cinnamon - Exception Value Desc.
+Allergens - Ethanol - Exception Value Desc.
+Allergens - Phenylalanine from aspartame - Exception Value Desc.
+Allergens - TBHQ - Exception Value Desc.
+Allergens - BHA - Exception Value Desc.
+Allergens - BHT - Exception Value Desc.
+Allergens - Ethylene Oxide - Exception Value Desc.
+Allergens - Irradiated ingredients - Exception Value Desc.
+Allergens - Mango (Taiwan Definition) - Exception Value Desc.
+Allergens - Coconut (Taiwan Definition) - Exception Value Desc.
+Allergens - Shea Nut (Taiwan Definition) - Exception Value Desc.
+Diet Suitability - Suitable for Jewish Diet (Global definition) - Exception Value Desc.
+Diet Suitability - Suitable for Muslim Diet (Global definition) - Exception Value Desc.
+Diet Suitability - Suitable for Vegan Diet (Global definition) - Exception Value Desc.
+Diet Suitability - Suitable for Children under 3 years (EU) - Exception Value Desc.
+Diet Suitability - Organic Certified (AMEA) - Exception Value Desc.
+Diet Suitability - Organic Certified (EU) - Exception Value Desc.
+Diet Suitability - Organic Certified (LA) - Exception Value Desc.
+Diet Suitability - Organic Certified (NA) - Exception Value Desc.
+GM Assessment - absence of GM contamination - Derived From GM Crop(s)
+GM Assessment - absence of GM contamination - Contains GM DNA/Protein
+GM Assessment - Unavoidable GM contamination is less than or equal to 0.9% - Derived From GM Crop(s)
+GM Assessment - Unavoidable GM contamination is less than or equal to 0.9% - Contains GM DNA/Protein
+GM Assessment - Unavoidable GM contamination is greater than or equal to 3% but not greater than 5% - Derived From GM Crop(s)
+GM Assessment - Unavoidable GM contamination is greater than or equal to 3% but not greater than 5% - Contains GM DNA/Protein
+Absence of Engineered Nano-materials
+Quantitative - Moisture - Analytical Reference Method
+"Quantitative - Ash, sulphated - Analytical Reference Method"
+Quantitative - PH - Analytical Reference Method
+"Quantitative - Acid, fumaric - Analytical Reference Method"
+"Quantitative - Acid, maleic - Analytical Reference Method"
+"Quantitative - Moisture, loss on drying - Analytical Reference Method"
+"Quantitative - Solids, water insoluble - Analytical Reference Method"
+Quantitative - Assay (anhydrous basis) - Analytical Reference Method
+"Quantitative - Sulphates, water soluble - Analytical Reference Method"
+Quantitative - Melting point - Analytical Reference Method
+Quantitative - Specific rotation - Analytical Reference Method
+"Quantitative - Acid, fumaric - TXT: Key Testing Details"
+"Quantitative - Acid, maleic - TXT: Key Testing Details"
+"Quantitative - Solids, water insoluble - TXT: Key Testing Details"
+Quantitative - Assay (anhydrous basis) - TXT: Key Testing Details
+"Particle size tests - Particle size, >2mm (#10) - Analytical Reference Method"
+"Particle size tests - Particle size, >850µm (#20) - Analytical Reference Method"
+"Particle size tests - Particle size, >150µm (#100) - Analytical Reference Method"
+"Particle size tests - Particle size, >710µm (#25) - Analytical Reference Method"
+"Particle size tests - Particle size, >630µm - Analytical Reference Method"
+"Particle size tests - Particle size, >600µm (#30) - Analytical Reference Method"
+"Particle size tests - Particle size, residue on pan - Analytical Reference Method"
+"Particle size tests - Particle size, residue on pan - TXT: Key Testing Details"
+"Quantitative - Moisture, loss on drying - Max"
+Storage - Box - Min Remaining SL Upon Receipt
+"Standard Composition - SUGAR - Value, %"
+Storage - Tote - Total Shelf Life
+"Standard Composition - FUMARIC ACID - Value, %"
+"Standard Composition - SODIUM MALATE - Value, %"
+"Quantitative - Solids, water insoluble - Max"
+"Standard Composition - VEGETABLE OIL BLEND - Value, %"
+"Particle size tests - Particle size, residue on pan - Max"
+"Particle size tests - Particle size, >600µm (#30) - Max"
+"Particle size tests - Particle size, >850µm (#20) - Max"
+"Standard Composition - HYDROGENATED PALM OIL - Value, %"
+Quantitative - Specific rotation - Max
+"Particle size tests - Particle size, >2mm (#10) - Max"
+Storage - Box/Case/Carton - Min Remaining SL Upon Receipt
+Storage - Drum/Barrel/Keg - Min Remaining SL Upon Receipt
+Storage - Box - Total Shelf Life
+"Quantitative - Acid, maleic - Max"
+"Standard Composition - FULLY HYDROGENATED SUNFLOWER OIL - Value, %"
+Storage - Drum/Barrel/Keg - Total Shelf Life
+"Standard Composition - TRICALCIUM CITRATE - Value, %"
+Storage - Tote - Min Remaining SL Upon Receipt
+Quantitative - Melting point - Max
+"Quantitative - Acid, fumaric - Max"
+"Particle size tests - Particle size, >630µm - Max"
+"Standard Composition - WATER - Value, %"
+"Standard Composition - DL-MALIC ACID - Value, %"
+"Standard Composition - CITRIC ACID - Value, %"
+Quantitative - Assay (anhydrous basis) - Max
+Storage - Box/Case/Carton - Total Shelf Life
+Specification description
+Quantitative - Moisture - TXT: Key Testing Details
+"Quantitative - Ash, sulphated - TXT: Key Testing Details"
+Quantitative - PH - TXT: Key Testing Details
+Quantitative - Melting point - TXT: Key Testing Details
+Quantitative - Specific rotation - TXT: Key Testing Details
+"Particle size tests - Particle size, >150µm (#100) - TXT: Key Testing Details"
+"Particle size tests - Particle size, >710µm (#25) - TXT: Key Testing Details"
+Classification

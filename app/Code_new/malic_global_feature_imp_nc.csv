@@ -1,0 +1,326 @@
+0,1
+"                                          feature_name  Model 1  \
+0    Shipping - Bag/Pouch/Sachet - Shipping Conditi...        0   
+1    Shipping - Bag/Pouch/Sachet - Shipping Conditi...        0   
+2    Shipping - Bag/Pouch/Sachet - Shipping Conditi...        0   
+3         Standard Composition - MALIC ACID - Value, %        0   
+4                                       Total Solids %        0   
+5    Shipping - Drum/Barrel/Keg - Shipping Conditio...        0   
+6    Shipping - Drum/Barrel/Keg - Shipping Conditio...        0   
+7    Shipping - Drum/Barrel/Keg - Shipping Conditio...        0   
+8         Standard Composition - MALIC ACID - Value, %        1   
+9                                       Total Solids %        1   
+10   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        1   
+11   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        1   
+12   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        1   
+13   Shipping - Drum/Barrel/Keg - Shipping Conditio...        1   
+14   Shipping - Drum/Barrel/Keg - Shipping Conditio...        1   
+15   Shipping - Drum/Barrel/Keg - Shipping Conditio...        1   
+16   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        2   
+17   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        2   
+18        Standard Composition - MALIC ACID - Value, %        2   
+19   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        2   
+20                                      Total Solids %        2   
+21   Shipping - Drum/Barrel/Keg - Shipping Conditio...        2   
+22   Shipping - Drum/Barrel/Keg - Shipping Conditio...        2   
+23   Shipping - Drum/Barrel/Keg - Shipping Conditio...        2   
+24        Standard Composition - MALIC ACID - Value, %        3   
+25                                      Total Solids %        3   
+26   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        3   
+27   Shipping - Drum/Barrel/Keg - Shipping Conditio...        3   
+28   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        3   
+29   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        3   
+30   Shipping - Drum/Barrel/Keg - Shipping Conditio...        3   
+31   Shipping - Drum/Barrel/Keg - Shipping Conditio...        3   
+32        Standard Composition - MALIC ACID - Value, %        4   
+33   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        4   
+34   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        4   
+35   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        4   
+36                                      Total Solids %        4   
+37   Shipping - Drum/Barrel/Keg - Shipping Conditio...        4   
+38   Shipping - Drum/Barrel/Keg - Shipping Conditio...        4   
+39   Shipping - Drum/Barrel/Keg - Shipping Conditio...        4   
+40        Standard Composition - MALIC ACID - Value, %        5   
+41   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        5   
+42                                      Total Solids %        5   
+43   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        5   
+44   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        5   
+45   Shipping - Drum/Barrel/Keg - Shipping Conditio...        5   
+46   Shipping - Drum/Barrel/Keg - Shipping Conditio...        5   
+47   Shipping - Drum/Barrel/Keg - Shipping Conditio...        5   
+48                                      Total Solids %        6   
+49   Shipping - Drum/Barrel/Keg - Shipping Conditio...        6   
+50   Shipping - Drum/Barrel/Keg - Shipping Conditio...        6   
+51        Standard Composition - MALIC ACID - Value, %        6   
+52   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        6   
+53   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        6   
+54   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        6   
+55   Shipping - Drum/Barrel/Keg - Shipping Conditio...        6   
+56   Shipping - Drum/Barrel/Keg - Shipping Conditio...        7   
+57   Shipping - Drum/Barrel/Keg - Shipping Conditio...        7   
+58        Standard Composition - MALIC ACID - Value, %        7   
+59                                      Total Solids %        7   
+60   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        7   
+61   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        7   
+62   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        7   
+63   Shipping - Drum/Barrel/Keg - Shipping Conditio...        7   
+64        Standard Composition - MALIC ACID - Value, %        8   
+65                                      Total Solids %        8   
+66   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        8   
+67   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        8   
+68   Shipping - Drum/Barrel/Keg - Shipping Conditio...        8   
+69   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        8   
+70   Shipping - Drum/Barrel/Keg - Shipping Conditio...        8   
+71   Shipping - Drum/Barrel/Keg - Shipping Conditio...        8   
+72   Shipping - Drum/Barrel/Keg - Shipping Conditio...        9   
+73        Standard Composition - MALIC ACID - Value, %        9   
+74   Shipping - Drum/Barrel/Keg - Shipping Conditio...        9   
+75                                      Total Solids %        9   
+76   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        9   
+77   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        9   
+78   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        9   
+79   Shipping - Drum/Barrel/Keg - Shipping Conditio...        9   
+80   Shipping - Bag/Pouch/Sachet - Shipping Conditi...       10   
+81                                      Total Solids %       10   
+82        Standard Composition - MALIC ACID - Value, %       10   
+83   Shipping - Bag/Pouch/Sachet - Shipping Conditi...       10   
+84   Shipping - Bag/Pouch/Sachet - Shipping Conditi...       10   
+85   Shipping - Drum/Barrel/Keg - Shipping Conditio...       10   
+86   Shipping - Drum/Barrel/Keg - Shipping Conditio...       10   
+87   Shipping - Drum/Barrel/Keg - Shipping Conditio...       10   
+88        Standard Composition - MALIC ACID - Value, %       11   
+89   Shipping - Bag/Pouch/Sachet - Shipping Conditi...       11   
+90   Shipping - Bag/Pouch/Sachet - Shipping Conditi...       11   
+91                                      Total Solids %       11   
+92   Shipping - Bag/Pouch/Sachet - Shipping Conditi...       11   
+93   Shipping - Drum/Barrel/Keg - Shipping Conditio...       11   
+94   Shipping - Drum/Barrel/Keg - Shipping Conditio...       11   
+95   Shipping - Drum/Barrel/Keg - Shipping Conditio...       11   
+96        Standard Composition - MALIC ACID - Value, %       12   
+97                                      Total Solids %       12   
+98   Shipping - Bag/Pouch/Sachet - Shipping Conditi...       12   
+99   Shipping - Bag/Pouch/Sachet - Shipping Conditi...       12   
+100  Shipping - Drum/Barrel/Keg - Shipping Conditio...       12   
+101  Shipping - Bag/Pouch/Sachet - Shipping Conditi...       12   
+102  Shipping - Drum/Barrel/Keg - Shipping Conditio...       12   
+103  Shipping - Drum/Barrel/Keg - Shipping Conditio...       12   
+
+     feature_imp_scaled_vals  Region    Model  
+0                   1.000000  Global  Model 1  
+1                   0.518447  Global  Model 1  
+2                   0.330778  Global  Model 1  
+3                   0.310202  Global  Model 1  
+4                   0.223221  Global  Model 1  
+5                   0.028833  Global  Model 1  
+6                   0.013454  Global  Model 1  
+7                   0.000000  Global  Model 1  
+8                   1.000000  Global  Model 1  
+9                   0.649687  Global  Model 1  
+10                  0.337121  Global  Model 1  
+11                  0.295673  Global  Model 1  
+12                  0.268819  Global  Model 1  
+13                  0.197294  Global  Model 1  
+14                  0.124850  Global  Model 1  
+15                  0.000000  Global  Model 1  
+16                  1.000000  Global  Model 1  
+17                  0.534880  Global  Model 1  
+18                  0.510411  Global  Model 1  
+19                  0.313498  Global  Model 1  
+20                  0.147507  Global  Model 1  
+21                  0.012990  Global  Model 1  
+22                  0.011829  Global  Model 1  
+23                  0.000000  Global  Model 1  
+24                  1.000000  Global  Model 1  
+25                  0.356064  Global  Model 1  
+26                  0.202928  Global  Model 1  
+27                  0.155223  Global  Model 1  
+28                  0.125766  Global  Model 1  
+29                  0.077602  Global  Model 1  
+30                  0.074276  Global  Model 1  
+31                  0.000000  Global  Model 1  
+32                  1.000000  Global  Model 1  
+33                  0.802686  Global  Model 1  
+34                  0.488769  Global  Model 1  
+35                  0.432403  Global  Model 1  
+36                  0.343267  Global  Model 1  
+37                  0.106369  Global  Model 1  
+38                  0.045545  Global  Model 1  
+39                  0.000000  Global  Model 1  
+40                  1.000000  Global  Model 1  
+41                  0.918936  Global  Model 1  
+42                  0.619272  Global  Model 1  
+43                  0.467625  Global  Model 1  
+44                  0.198499  Global  Model 1  
+45                  0.034507  Global  Model 1  
+46                  0.033134  Global  Model 1  
+47                  0.000000  Global  Model 1  
+48                  1.000000  Global  Model 1  
+49                  0.765708  Global  Model 1  
+50                  0.735189  Global  Model 1  
+51                  0.477167  Global  Model 1  
+52                  0.213322  Global  Model 1  
+53                  0.189963  Global  Model 1  
+54                  0.166777  Global  Model 1  
+55                  0.000000  Global  Model 1  
+56                  1.000000  Global  Model 1  
+57                  0.934256  Global  Model 1  
+58                  0.429458  Global  Model 1  
+59                  0.366755  Global  Model 1  
+60                  0.205011  Global  Model 1  
+61                  0.164504  Global  Model 1  
+62                  0.121979  Global  Model 1  
+63                  0.000000  Global  Model 1  
+64                  1.000000  Global  Model 1  
+65                  0.560460  Global  Model 1  
+66                  0.192949  Global  Model 1  
+67                  0.153035  Global  Model 1  
+68                  0.089417  Global  Model 1  
+69                  0.051582  Global  Model 1  
+70                  0.005020  Global  Model 1  
+71                  0.000000  Global  Model 1  
+72                  1.000000  Global  Model 1  
+73                  0.768262  Global  Model 1  
+74                  0.703791  Global  Model 1  
+75                  0.430781  Global  Model 1  
+76                  0.177669  Global  Model 1  
+77                  0.050163  Global  Model 1  
+78                  0.043207  Global  Model 1  
+79                  0.000000  Global  Model 1  
+80                  1.000000  Global  Model 1  
+81                  0.869491  Global  Model 1  
+82                  0.826621  Global  Model 1  
+83                  0.598120  Global  Model 1  
+84                  0.303481  Global  Model 1  
+85                  0.043466  Global  Model 1  
+86                  0.008937  Global  Model 1  
+87                  0.000000  Global  Model 1  
+88                  1.000000  Global  Model 1  
+89                  0.561756  Global  Model 1  
+90                  0.344631  Global  Model 1  
+91                  0.318038  Global  Model 1  
+92                  0.108416  Global  Model 1  
+93                  0.035902  Global  Model 1  
+94                  0.004131  Global  Model 1  
+95                  0.000000  Global  Model 1  
+96                  1.000000  Global  Model 1  
+97                  0.715869  Global  Model 1  
+98                  0.315931  Global  Model 1  
+99                  0.224583  Global  Model 1  
+100                 0.143488  Global  Model 1  
+101                 0.134039  Global  Model 1  
+102                 0.011788  Global  Model 1  
+103                 0.000000  Global  Model 1  ","                                         feature_name  Model 2  \
+0   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        0   
+1   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        0   
+2   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        0   
+3        Standard Composition - MALIC ACID - Value, %        0   
+4   Shipping - Drum/Barrel/Keg - Shipping Conditio...        0   
+5                                      Total Solids %        0   
+6   Shipping - Drum/Barrel/Keg - Shipping Conditio...        0   
+7   Shipping - Drum/Barrel/Keg - Shipping Conditio...        0   
+8   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        1   
+9   Shipping - Bag/Pouch/Sachet - Shipping Conditi...        1   
+10  Shipping - Bag/Pouch/Sachet - Shipping Conditi...        1   
+11       Standard Composition - MALIC ACID - Value, %        1   
+12                                     Total Solids %        1   
+13  Shipping - Drum/Barrel/Keg - Shipping Conditio...        1   
+14  Shipping - Drum/Barrel/Keg - Shipping Conditio...        1   
+15  Shipping - Drum/Barrel/Keg - Shipping Conditio...        1   
+16  Shipping - Bag/Pouch/Sachet - Shipping Conditi...        2   
+17  Shipping - Bag/Pouch/Sachet - Shipping Conditi...        2   
+18  Shipping - Bag/Pouch/Sachet - Shipping Conditi...        2   
+19       Standard Composition - MALIC ACID - Value, %        2   
+20                                     Total Solids %        2   
+21  Shipping - Drum/Barrel/Keg - Shipping Conditio...        2   
+22  Shipping - Drum/Barrel/Keg - Shipping Conditio...        2   
+23  Shipping - Drum/Barrel/Keg - Shipping Conditio...        2   
+24  Shipping - Drum/Barrel/Keg - Shipping Conditio...        3   
+25                                     Total Solids %        3   
+26  Shipping - Drum/Barrel/Keg - Shipping Conditio...        3   
+27       Standard Composition - MALIC ACID - Value, %        3   
+28  Shipping - Bag/Pouch/Sachet - Shipping Conditi...        3   
+29  Shipping - Bag/Pouch/Sachet - Shipping Conditi...        3   
+30  Shipping - Bag/Pouch/Sachet - Shipping Conditi...        3   
+31  Shipping - Drum/Barrel/Keg - Shipping Conditio...        3   
+32       Standard Composition - MALIC ACID - Value, %        4   
+33  Shipping - Drum/Barrel/Keg - Shipping Conditio...        4   
+34  Shipping - Drum/Barrel/Keg - Shipping Conditio...        4   
+35  Shipping - Bag/Pouch/Sachet - Shipping Conditi...        4   
+36                                     Total Solids %        4   
+37  Shipping - Drum/Barrel/Keg - Shipping Conditio...        4   
+38  Shipping - Bag/Pouch/Sachet - Shipping Conditi...        4   
+39  Shipping - Bag/Pouch/Sachet - Shipping Conditi...        4   
+40                                     Total Solids %        5   
+41       Standard Composition - MALIC ACID - Value, %        5   
+42  Shipping - Drum/Barrel/Keg - Shipping Conditio...        5   
+43  Shipping - Drum/Barrel/Keg - Shipping Conditio...        5   
+44  Shipping - Bag/Pouch/Sachet - Shipping Conditi...        5   
+45  Shipping - Bag/Pouch/Sachet - Shipping Conditi...        5   
+46  Shipping - Bag/Pouch/Sachet - Shipping Conditi...        5   
+47  Shipping - Drum/Barrel/Keg - Shipping Conditio...        5   
+48       Standard Composition - MALIC ACID - Value, %        6   
+49  Shipping - Bag/Pouch/Sachet - Shipping Conditi...        6   
+50  Shipping - Bag/Pouch/Sachet - Shipping Conditi...        6   
+51                                     Total Solids %        6   
+52  Shipping - Bag/Pouch/Sachet - Shipping Conditi...        6   
+53  Shipping - Drum/Barrel/Keg - Shipping Conditio...        6   
+54  Shipping - Drum/Barrel/Keg - Shipping Conditio...        6   
+55  Shipping - Drum/Barrel/Keg - Shipping Conditio...        6   
+
+    feature_imp_scaled_vals  Region    Model  
+0                  1.000000  Global  Model 2  
+1                  0.428816  Global  Model 2  
+2                  0.409750  Global  Model 2  
+3                  0.184335  Global  Model 2  
+4                  0.126190  Global  Model 2  
+5                  0.088277  Global  Model 2  
+6                  0.057048  Global  Model 2  
+7                  0.000000  Global  Model 2  
+8                  1.000000  Global  Model 2  
+9                  0.726956  Global  Model 2  
+10                 0.394906  Global  Model 2  
+11                 0.234133  Global  Model 2  
+12                 0.134046  Global  Model 2  
+13                 0.020030  Global  Model 2  
+14                 0.011343  Global  Model 2  
+15                 0.000000  Global  Model 2  
+16                 1.000000  Global  Model 2  
+17                 0.645949  Global  Model 2  
+18                 0.355177  Global  Model 2  
+19                 0.093775  Global  Model 2  
+20                 0.051171  Global  Model 2  
+21                 0.017412  Global  Model 2  
+22                 0.011655  Global  Model 2  
+23                 0.000000  Global  Model 2  
+24                 1.000000  Global  Model 2  
+25                 0.837940  Global  Model 2  
+26                 0.762481  Global  Model 2  
+27                 0.747515  Global  Model 2  
+28                 0.488715  Global  Model 2  
+29                 0.278182  Global  Model 2  
+30                 0.142512  Global  Model 2  
+31                 0.000000  Global  Model 2  
+32                 1.000000  Global  Model 2  
+33                 0.798788  Global  Model 2  
+34                 0.467512  Global  Model 2  
+35                 0.264663  Global  Model 2  
+36                 0.259675  Global  Model 2  
+37                 0.130170  Global  Model 2  
+38                 0.105353  Global  Model 2  
+39                 0.000000  Global  Model 2  
+40                 1.000000  Global  Model 2  
+41                 0.953582  Global  Model 2  
+42                 0.641550  Global  Model 2  
+43                 0.436728  Global  Model 2  
+44                 0.237124  Global  Model 2  
+45                 0.096186  Global  Model 2  
+46                 0.091134  Global  Model 2  
+47                 0.000000  Global  Model 2  
+48                 1.000000  Global  Model 2  
+49                 0.456222  Global  Model 2  
+50                 0.387512  Global  Model 2  
+51                 0.303830  Global  Model 2  
+52                 0.153753  Global  Model 2  
+53                 0.051802  Global  Model 2  
+54                 0.009088  Global  Model 2  
+55                 0.000000  Global  Model 2  "

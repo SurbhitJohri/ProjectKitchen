@@ -1,0 +1,626 @@
+Specification Number,Specification description,Region,Type,Volume,Spend,Model 1,Model 2,Model 3,variable,value,Cluster name,Level 0,Level 1,Level 2,Level 3
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000005962,1.0,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000001702,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000001219,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000006483,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000006730,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000000488,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000003062,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000006809,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000006831,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005962,Acid- Malic Acid,Global,ward_euclidean,21075.0,81954.3280410785,9,5,9,200000007287,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000006621,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000001702,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000001219,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000006483,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000006730,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000000488,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000003062,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000006809,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000006831,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006621,"ACID,MALIC,40% SOLUTION,1000L",Global,ward_euclidean,185600.0,477144.6956222891,7,7,7,200000007287,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000006795,1.0,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000001702,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000007318,0.9979695150626713,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000001219,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000006483,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000006730,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000000488,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000003062,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000006809,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000006831,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006795,"CONF,SUGAR MALIC ACID 90% BLEND",Global,ward_euclidean,559800.0,1281381.4537102233,6,0,6,200000007287,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000007175,1.0,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000001621,0.9999922409947045,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000001702,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000001219,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000006483,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000006730,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000000488,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000003062,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000006809,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000006831,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000007152,0.9811689634166021,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007175,ACID-POWDER-MALIC-ACID,Global,ward_euclidean,77460.0288001562,336219.8834759096,0,1,0,200000007287,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000008130,0.9999999999999998,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000001702,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000001219,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000006483,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000006730,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000000488,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000003062,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000006809,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000006831,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008130,MALIC ACID-REGULAR,Global,ward_euclidean,27000.0,139748.131083578,8,6,8,200000007287,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000001621,1.0000000000000004,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000007175,0.9999922409947045,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000001702,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000001219,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000006483,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000006730,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000000488,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000003062,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000006809,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000006831,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000007152,0.9815492930190484,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001621,"Acid, DL-Malic Acid, Fine Granular",Global,ward_euclidean,38350.0,116344.69734877339,0,1,0,200000007287,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000001702,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000001219,0.99990850138931,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000006483,0.99990850138931,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000006730,0.9965258392126498,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000000488,0.99990850138931,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000003062,0.9994978513504282,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000006809,0.9940126888831048,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000006831,0.9983000449952508,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001702,EM INGREDIENT - Acid-Malic-powder,Global,ward_euclidean,700.0,3295.907865271518,2,0,2,200000007287,0.9993963022189262,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000007027,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000001702,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000001219,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000006483,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000006730,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000000488,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000003062,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000007801,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000006809,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000006831,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007027,Acid-Malic Acid- Acidity Regulator,Global,ward_euclidean,40974.0,240693.22890601025,1,3,1,200000007287,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000007318,0.9999999999999998,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000006795,0.9979695150626713,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000001702,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000001219,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000006483,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000006730,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000000488,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000003062,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000006809,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000006831,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007318,"Acid, DL-Malic Acid, Powder",Global,ward_euclidean,1050.0,2855.606799289727,6,0,6,200000007287,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000001219,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000001702,0.99990850138931,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000006483,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000006730,0.9971509715864236,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000000488,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000003062,0.9997296157508788,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000006809,0.9948152611399353,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000006831,0.9987527735005981,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000001219,Malic Acid,Global,ward_euclidean,3250.0,20635.44684586467,2,0,2,200000007287,0.9996817761667169,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000006483,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000001702,0.99990850138931,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000001219,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000006730,0.9971509715864236,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000000488,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000003062,0.9997296157508788,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000006809,0.9948152611399353,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000006831,0.9987527735005981,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006483,Acid-Granular-Malic Acid,Global,ward_euclidean,10800.0,33450.52079225808,2,0,2,200000007287,0.9996817761667169,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000006730,0.9999999999999997,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000001702,0.9965258392126498,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000001219,0.9971509715864236,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000006483,0.9971509715864236,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000000488,0.9971509715864236,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000003062,0.9986285211363533,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000006809,0.9996521085594294,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000006831,0.9996731588132033,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006730,ACID-MALIC-ENCAPSULATED,Global,ward_euclidean,27705.88520383257,163402.8804207719,2,0,2,200000007287,0.9987337048521975,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000008342,1.0,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000001702,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000001219,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000006483,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000006730,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000000488,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000003062,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000006809,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000006831,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008342,EM Ingredient- Malic Acid-FCC-Fine,Global,ward_euclidean,14741.740003626193,50550.0,10,8,10,200000007287,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000000488,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000001702,0.99990850138931,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000001219,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000006483,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000006730,0.9971509715864236,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000003062,0.9997296157508788,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000006809,0.9948152611399353,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000006831,0.9987527735005981,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000000488,Acid-Granular-Malic Acid-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,159800.0,612436.2105263157,2,0,2,200000007287,0.9996817761667169,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000003062,1.0,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000001702,0.9994978513504282,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000001219,0.9997296157508788,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000006483,0.9997296157508788,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000006730,0.9986285211363533,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000000488,0.9997296157508788,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000006809,0.9969032488556105,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000006831,0.9996376569963528,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000003062,Encapsulated Malic Acid-Balchem,Global,ward_euclidean,2450.0,24855.89817901984,2,0,2,200000007287,0.9999921135788487,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000006620,0.9999999999999996,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000001702,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000001219,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000006483,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000006730,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000000488,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000003062,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000006809,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000006831,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006620,ACID-MALIC-POWDER,Global,ward_euclidean,325.0,1363.49389090909,3,4,3,200000007287,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000006845,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000001702,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000001219,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000006483,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000006730,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000000488,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000003062,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000006809,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000006831,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006845,Acid- Malic Acid- Encapsulated- Non GMO,Global,ward_euclidean,3000.0,30387.86871458776,11,0,11,200000007287,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000007801,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000001702,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000007027,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000001219,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000006483,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000006730,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000000488,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000003062,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000006809,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000006831,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007801,MALIC ACID-PROPOSED HARMONIZE TO 25001330,Global,ward_euclidean,1525.0,5836.228579973651,1,3,1,200000007287,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000008195,0.9999999999999998,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000001702,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000001219,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000006483,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000006730,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000000488,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000003062,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000006809,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000006831,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000008195,MALIC ACID-Powder-GRANULAR,Global,ward_euclidean,12975.0,61666.61180208333,12,9,12,200000007287,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000002076,0.9999999999999998,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000001702,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000001219,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000006483,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000006730,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000000488,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000003062,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000006809,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000006831,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000002076,Acid- Malic acid - Granules,Global,ward_euclidean,100.0,808.337186363636,4,2,4,200000007287,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000005462,0.9999999999999999,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000001702,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000001219,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000006483,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000006730,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000000488,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000003062,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000006809,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000006831,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000005462,"ACID,MALIC,ENCAPSULAT,POWDER MA",Global,ward_euclidean,300.0,3933.84068088667,5,0,5,200000007287,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000006809,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000001702,0.9940126888831048,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000001219,0.9948152611399353,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000006483,0.9948152611399353,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000006730,0.9996521085594294,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000000488,0.9948152611399353,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000003062,0.9969032488556105,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000006831,0.9986510906531469,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006809,"ACID,MALIC ENCAPSULATED 80%",Global,ward_euclidean,250.0,4421.13070238095,2,0,2,200000007287,0.997059336102278,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000006831,1.0,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000001702,0.9983000449952508,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000001219,0.9987527735005981,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000006483,0.9987527735005981,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000006730,0.9996731588132033,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000000488,0.9987527735005981,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000003062,0.9996376569963528,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000006809,0.9986510906531469,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000006831,ACID-MALIC-90%-ENCAPSULATED,Global,ward_euclidean,5000.0,49047.8973737154,2,0,2,200000007287,0.9996934311420305,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000007152,1.0000000000000004,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000007175,0.9811689634166021,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000001621,0.9815492930190484,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000001702,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000001219,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000006483,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000006730,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000000488,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000003062,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000006809,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000006831,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007152,ACID-POWDER-CITRIC/MALIC-BLEND,Global,ward_euclidean,9213.856,49689.23386070585,0,1,0,200000007287,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000007287,1.0000000000000002,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000005962,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000006621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000006795,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000007175,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000008130,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000001621,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000001702,0.9993963022189262,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000007027,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000007318,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000001219,0.9996817761667169,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000006483,0.9996817761667169,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000006730,0.9987337048521975,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000008342,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000000488,0.9996817761667169,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000003062,0.9999921135788487,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000006620,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000006845,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000007801,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000008195,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000002076,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000005462,,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000006809,0.997059336102278,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000006831,0.9996934311420305,,Ingredient,Other Ingredients,Acids,Other Acids
+200000007287,ACID-POWDER-MALIC-ENCAPSULATED,Global,ward_euclidean,6500.0,90252.5,2,0,2,200000007152,,,Ingredient,Other Ingredients,Acids,Other Acids

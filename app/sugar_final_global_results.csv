@@ -1,0 +1,105 @@
+,Specification Number,Specification description,Region,Type,Volume,Spend,Cluster name,Level 0,Level 1,Level 2,Level 3,Level 4,nc_Model 1,nc_Model 2,nc_Model 3,nc_Model 4,nt_Model 1,nt_Model 2,nt_Model 3,nct_Model 1,nct_Model 2,nct_Model 3,nct_Model 4
+0,200000000032,Sweetener-Sugar-Crystal-Medium-Category 2,Global,ward_euclidean,29255813.0,16587775.58718667,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,45,29,45,45,53,13,53,49,10,49,63
+1,200000000618,Sweetener-Crystal Sugar Coarse,Global,ward_euclidean,68356174.7,40893723.52915663,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,55,33,55,51,36,23,36,53,14,53,55
+2,200000000983,SUGAR C K1,Global,ward_euclidean,2387380.0,1215083.3781479194,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,53,1,53,43,6,2,6,55,16,55,79
+3,200000002530,SUGAR-DRY-REFINED-FINE GRANULAR,Global,ward_euclidean,9855000.0,4313943.697887394,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,42,27,42,2,37,1,37,41,40,41,64
+4,200000002834,SUGAR - VHP CHOC,Global,ward_euclidean,9492000.0,7066947.16689314,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,37,16,37,35,31,19,31,37,30,37,47
+5,200000002993,Sugar-Crystal-Fine-Category 2,Global,ward_euclidean,4887960.0,2688434.6508499444,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,50,8,50,46,3,6,3,50,2,50,68
+6,200000003701,EXTRA FINE SUGAR,Global,ward_euclidean,1425500.0,718091.1083159867,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,36,38,36,41,47,2,47,36,38,36,77
+7,200000005523,SUGAR,Global,ward_euclidean,1288000.0,644874.648405058,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,12,0,12,7,22,1,22,12,1,15,1
+8,200000005888,Sugar-Grain-Crystal-Semi White,Global,ward_euclidean,43416095.5,20233733.748724252,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,5,6,5,3,48,27,48,26,34,26,66
+9,200000005979,Sugar-Dry- Refined- Extra fine granular,Global,ward_euclidean,36641920.0,22900339.314650383,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,49,35,49,37,51,28,51,24,25,24,60
+10,200000006884,WHITE CRYSTAL SUGAR,Global,ward_euclidean,37290200.0,22261507.63778097,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,7,1,7,7,2,2,2,16,16,16,80
+11,200000006976,"SWT,REFINED WHITE SUGAR (BULK)",Global,ward_euclidean,12290000.0,8622035.779886292,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,51,19,51,30,6,1,6,29,26,59,49
+12,200000007914,SUGAR CASTER N 2,Global,ward_euclidean,2797380.0,1504156.8681736658,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,41,13,41,29,6,2,6,39,44,39,73
+13,200000008083,SUGAR POWDERED REFINED A,Global,ward_euclidean,82290.0,52293.2888952455,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,61,28,61,38,24,16,24,31,12,63,57
+14,200000008226,DARK BROWN CANE SUGAR-POWDER-MUSCOVADO,Global,ward_euclidean,60000.0,76087.89804117262,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,1,1,1,39,33,1,33,25,1,5,58
+15,200000010430,"SUGAR EU No.2 – 45 Icumsa, standard harmonized",Global,ward_euclidean,399399721.0,217966241.6683966,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,6,8,6,34,35,6,35,7,2,1,50
+16,200000000023,Sugar - Grade #1,Global,ward_euclidean,57410250.0,45494953.70652503,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,3,2,3,8,8,26,8,0,5,2,85
+17,200000000086,Sugar-Premium Grade plus,Global,ward_euclidean,3625000.0,3082557.4975234102,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,38,20,38,14,45,26,45,33,33,33,53
+18,200000000597,SWEETENER-GRANULATED-SUGAR,Global,ward_euclidean,29246500.0,18074932.662354082,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,56,36,56,0,34,15,34,54,24,54,51
+19,200000001163,"Sugar, Refined Graded",Global,ward_euclidean,138240.0,106357.0046768043,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,8,9,8,1,10,4,10,8,20,8,65
+20,200000001165,"Sugar, Refined, Caster, Bag",Global,ward_euclidean,958200.0,718471.4191393153,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,48,43,48,47,9,2,9,48,16,48,75
+21,200000001558,"DO NOT USE_Sugar, White, Discontinued",Global,ward_euclidean,53557542.0,36464867.397126704,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,0,0,0,7,2,9,2,4,20,14,61
+22,200000001560,"DO NOT USE_Sugar, 1A, Manu Grade, 25kg",Global,ward_euclidean,42800.0,31020.486826289613,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,8,9,8,1,10,9,10,8,20,8,69
+23,200000001909,SUGAR-EXTRA-FINE-REFINED,Global,ward_euclidean,9369500.0,5132037.013405174,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,57,25,57,28,52,34,52,43,18,43,83
+24,200000001967,"Sweetener, Sugar, Granulated",Global,ward_euclidean,10624900.0,5382992.2589157,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,58,22,58,42,54,4,54,2,13,57,6
+25,200000003707,Soft white Sugar-for JP,Global,ward_euclidean,21000.0,19037.47598305908,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,28,2,28,8,8,26,8,0,5,27,74
+26,200000004647,SUGAR&SWEETENER-REFINED SUGAR,Global,ward_euclidean,4580550.0,3328227.5460610157,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,2,36,2,0,6,1,6,3,1,0,1
+27,200000004945,SUGAR_SUGAR and STARCH-BLEND-POWDER,Global,ward_euclidean,1689477.536,1771213.7719089338,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,62,0,62,56,1,4,1,12,13,7,82
+28,200000005562, PLANTATION WHITE SUGAR 120 IU,Global,ward_euclidean,112809643.0,53322048.504348956,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,34,31,34,40,46,1,46,35,39,35,54
+29,200000005581,Pulverised Sugar ICUMSA 120,Global,ward_euclidean,823271.0,499129.8968791703,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,59,24,59,49,2,19,2,30,41,61,86
+30,200000005617,"Sugars, Refined",Global,ward_euclidean,1565000.0,1010623.4547298065,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,28,2,28,0,17,1,17,0,5,27,56
+31,200000008084,SUGAR POWDERED REFINED B,Global,ward_euclidean,182550.0,124635.77303545715,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,27,23,27,48,24,16,24,45,12,45,81
+32,200000000107,Sweetener-Sugar White Crystal,Global,ward_euclidean,14994000.0,5349390.548272945,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,5,6,5,3,40,19,40,26,34,26,52
+33,200000000178,Sweetener-Sugar-Crystal,Global,ward_euclidean,68888290.5,21242787.276020925,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,54,6,54,3,9,19,9,15,4,3,8
+34,200000000381,Sugar - Fine,Global,ward_euclidean,47905478.86099998,30850549.1852431,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,11,30,11,11,5,2,5,27,17,56,84
+35,200000000512,MEALS ONLY - Manufacturers Sugar - Bags,Global,ward_euclidean,7200.0,5254.200661284721,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,8,9,8,7,2,2,2,8,1,8,24
+36,200000000669,"""Meals Only""-Sugar - Sifted",Global,ward_euclidean,305000.0,281344.0225610211,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,46,42,46,53,32,22,32,46,27,46,71
+37,200000001864,Sugar- 80 ICUMSA,Global,ward_euclidean,496100.0,299226.77413010754,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,26,3,26,52,16,24,16,22,31,22,41
+38,200000001966,"Sweetener, Sugar, Refined",Global,ward_euclidean,165000.0,79630.54202511694,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,32,0,32,50,1,4,1,2,13,47,6
+39,200000002371, Sugar (Fine granulated Refined),Global,ward_euclidean,7409375.0,3866455.3244729475,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,3,2,3,8,43,31,43,0,43,2,27
+40,200000002516,SWEETENER-CRYSTAL-SEMI WHITE SUGAR,Global,ward_euclidean,10125600.0,2961527.4778620237,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,5,6,5,3,9,19,9,15,4,3,8
+41,200000005824,Sweetwener-White Sugar (Direct),Global,ward_euclidean,4221300.0,2058375.2914480448,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,18,10,18,33,30,21,30,38,9,38,76
+42,200000006224,STANDARD SUGAR,Global,ward_euclidean,4173824.5,2851131.043682381,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,29,0,29,1,2,19,2,5,1,60,1
+43,200000006289,Sugar- Granular- Type A,Global,ward_euclidean,14942536.0,8835074.14547314,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,29,0,29,1,29,4,29,12,0,7,78
+44,200000006457,Sugar-Grain-Common Sugar Type A,Global,ward_euclidean,13401650.0,8109531.959119833,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,Semi White 45I > 600I,35,17,35,16,49,12,49,28,15,58,59
+45,200000007207,SWEETENER-POWDER-SUGAR CANE,Global,ward_euclidean,21532500.0,15189765.576383643,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,47,41,47,36,29,4,29,47,13,23,42
+46,200000008286,Sugar-Granulated-NBI-No. 1 (sourced from cane),Global,ward_euclidean,54671224.68851198,55724905.66234821,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,24,11,24,23,11,10,11,51,19,51,48
+47,200000008290,Sugar-Powdered-6X,Global,ward_euclidean,5640580.270526207,6782685.443545813,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,60,7,60,7,5,33,5,1,0,29,62
+48,200000009233,Sugar/Golden Sugar - 350 IU,Global,ward_euclidean,25085671.0,15491328.009453693,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,39,4,39,44,11,10,11,17,3,17,46
+49,200000000395,Sugar - Sanding,Global,ward_euclidean,7000.0,6355.9605063075105,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,11,30,11,11,41,14,41,27,17,56,70
+50,200000002790,Sweetener-Sugar-Crystal- Big particle size -Category 2,Global,ward_euclidean,275740.0,141597.93456373885,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,6,8,6,32,3,6,3,7,2,1,72
+51,200000007746,SUGAR CANE BAG,Global,ward_euclidean,146400.0,162317.3400144674,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,7,1,7,0,6,2,6,16,16,16,1
+52,200000000398,Sugar - Medium,Global,ward_euclidean,7000.0,6397.529115730224,,Ingredient,Sugars and Sweeteners,Sugars,Crystal & Refined,White <= 45I,22,37,22,31,15,14,15,44,17,44,44
+53,200000000839,Sweetener- Invertsugar Syrup,Global,ward_euclidean,182750.0,142660.94318635535,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Liquid Invert,25,5,25,7,1,5,1,6,0,28,20
+54,200000001110,Sweetener-Cane Molasses,Global,ward_euclidean,11975.0,31625.57386216333,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,25,5,25,7,1,17,1,6,42,28,0
+55,200000001294,Colorant_Caramel_Liquid,Global,ward_euclidean,5700.0,27322.978934274415,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,25,5,25,7,1,0,1,6,0,28,40
+56,200000001978,Invert sugar syrup DM73%,Global,ward_euclidean,617120.0,345172.8120476219,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Liquid Invert,4,5,4,7,1,5,1,9,36,4,38
+57,200000002140,ICING SUGAR WITH POTATO STARCH BAG,Global,ward_euclidean,510159.3,323241.56117096596,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,"Milled, Powder, Icing",10,5,10,25,28,3,28,10,35,10,35
+58,200000003491,Invert Sugar Syrup,Global,ward_euclidean,346625.0,668710.1313895053,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Liquid Invert,30,15,30,5,13,5,13,11,11,62,2
+59,200000005488,Icing Sugar,Global,ward_euclidean,674900.0,409142.8991251034,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,"Milled, Powder, Icing",0,7,0,24,4,3,4,4,36,6,2
+60,200000005952,PHASE OUT_Sugar- Dry-fine- for Tang full Sugar_harmonised to 200000005979,Global,ward_euclidean,11630800.0,6291142.094834482,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,"Milled, Powder, Icing",44,14,44,54,42,8,42,42,7,42,39
+61,200000006612,"MOLASSES,TREACLE",Global,ward_euclidean,1379960.0,756656.706787443,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,9,15,9,5,13,17,13,1,42,12,88
+62,200000006633,"SWT LIQ,INVERT SUGAR SYRUP",Global,ward_euclidean,447020.0,334958.15421702346,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Liquid Invert,0,15,0,12,12,5,12,4,36,6,37
+63,200000006771,"MOLASSES,PURE CANE",Global,ward_euclidean,7840.0,18919.10722624506,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,9,15,9,5,13,17,13,1,42,12,17
+64,200000006934,"SWT DRY,SUGAR,SILK ICING",Global,ward_euclidean,69300.0,141152.55716302694,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,"Milled, Powder, Icing",9,15,9,7,28,0,28,1,42,12,34
+65,200000007045,"SWT,ICING SUGAR",Global,ward_euclidean,1212000.0,1091076.4933591848,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,"Milled, Powder, Icing",20,32,20,19,4,20,4,40,23,40,18
+66,200000007913,ICING SUGAR WITH CORN STARCH BAG,Global,ward_euclidean,19775.0,16167.073426499988,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,"Milled, Powder, Icing",10,5,10,22,28,3,28,10,35,10,87
+67,200000007915,SUGAR LIQUID MS 81,Global,ward_euclidean,291660.0,244595.42053345952,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Liquid,25,5,25,7,0,0,0,6,0,28,0
+68,200000008086,Caramel Colour E150c 3350,Global,ward_euclidean,1440.0,3735.4270508563886,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,25,5,25,7,1,0,1,6,0,28,43
+69,200000001109,"Sugar, Invert, Bulk",Global,ward_euclidean,2504040.0,1662306.3330831549,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Liquid Invert,21,0,21,12,12,5,12,11,11,31,3
+70,200000001111,"CANE SUGAR, Refined, Liquid",Global,ward_euclidean,4217226.0,2086412.6032725207,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Liquid,13,0,13,7,0,0,0,5,0,25,0
+71,200000001486,"Sugar, Icing, Soft Mix",Global,ward_euclidean,1658985.0,1462396.9594396336,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,"Milled, Powder, Icing",33,39,33,15,55,29,55,34,32,34,45
+72,200000003403,Invert.Syrup.72.Bulk,Global,ward_euclidean,471900.0,401105.63336744835,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Liquid Invert,21,0,21,12,12,5,12,11,11,31,3
+73,200000006677,"MOLASSES,PURE CANE",Global,ward_euclidean,21750.0,24810.158579317478,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,9,15,9,7,1,17,1,1,42,12,17
+74,200000008115,RETIRED - SUGAR INVERT SYRUP - SEE NOTES,Global,ward_euclidean,12000.0,17480.34790513362,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Liquid,1,5,1,6,14,30,14,25,0,5,23
+75,200000008116,CANE MOLASSES,Global,ward_euclidean,8400.0,31573.38706305095,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,1,5,1,6,14,32,14,25,42,5,31
+76,200000011096,SUG-White Organic Sugar,Global,ward_euclidean,12500.0,22054.225565345692,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,16,5,16,55,22,1,22,32,1,32,19
+77,200000000110,Sweetener-Sugar-Crystal-Extra Fine,Global,ward_euclidean,1176000.0,743277.9685828362,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,"Milled, Powder, Icing",52,21,52,20,27,7,27,20,8,20,67
+78,200000000165,Sweetener-Invert Sugar,Global,ward_euclidean,3515320.0,1173181.9410509293,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Liquid Invert,13,0,13,12,12,5,12,5,36,25,3
+79,200000000386,Sugar - Icing 6X,Global,ward_euclidean,1123520.227,818152.4549078845,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,"Milled, Powder, Icing",14,0,14,17,7,0,7,6,0,9,30
+80,200000001186,Invert Sugar Liquid,Global,ward_euclidean,3013347.877156524,2372396.07245436,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Liquid Invert,4,7,4,7,1,5,1,9,36,4,0
+81,200000001498,Sanding Mix - Fruit,Global,ward_euclidean,95062.5,121505.82035889608,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,17,0,17,2,44,11,44,13,22,13,26
+82,200000001678,MOLASSES BLEND-50 FANCY-50 BLACKSTRAP,Global,ward_euclidean,28800.0,35695.52673905913,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,14,15,14,5,13,17,13,6,42,9,25
+83,200000002013,Colored sugar confection (natural colors),Global,ward_euclidean,517000.0,843381.7647058823,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Colored Sugar,40,34,40,21,39,25,39,19,28,19,11
+84,200000002719,Sanding Mix - EXTREME Sour,Global,ward_euclidean,13975.0,29298.07190310557,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,17,0,17,27,19,11,19,13,22,13,22
+85,200000002967,Sugar White Milled,Global,ward_euclidean,6953700.0,4153233.9107020036,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,"Milled, Powder, Icing",2,1,2,26,50,3,50,3,6,0,32
+86,200000003462,Milled Icing Sugar,Global,ward_euclidean,1764010.0,1474666.9537395036,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,"Milled, Powder, Icing",23,26,23,9,38,3,38,23,37,11,29
+87,200000004213,Colour-Microfine Brown-Powder-Natural,Global,ward_euclidean,160.0,17037.60827027803,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,14,0,14,7,1,0,1,6,0,9,28
+88,200000006503,SUCROSE-SUCROSE-67.5% TS,Global,ward_euclidean,7263992.25,4472793.1177711105,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Liquid,4,7,4,7,0,0,0,9,36,4,15
+89,200000008341,Sugar-Sucrose-Liquid-No.2,Global,ward_euclidean,225200.001,177515.58397055574,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Liquid,0,7,0,5,21,0,21,4,36,14,33
+90,200000009309,GLASS SUGAR -Nutryplus SAPI de CV,Global,ward_euclidean,3612625.0,2967004.76410694,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,"Milled, Powder, Icing",12,0,12,24,26,35,26,12,0,15,21
+91,200000002053,SUGAR-WHITE MILLED,Global,ward_euclidean,74300.0,51954.77416583989,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,"Milled, Powder, Icing",15,0,15,7,28,3,28,52,0,52,4
+92,200000004229,MEALS ONLY -Liquid Caramel-liquid,Global,ward_euclidean,295104.6000000001,902048.6933333332,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Liquid,12,0,12,7,0,0,0,12,0,15,0
+93,200000005085,Extract-Stevia -Powder,Global,ward_euclidean,160.0,54624.5705727273,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,"Milled, Powder, Icing",15,5,15,8,23,0,23,52,0,52,16
+94,200000007169,SWEETENER-LIQUID-SUCROSE,Global,ward_euclidean,10562840.095,6544040.739795702,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Liquid,4,7,4,7,0,0,0,9,36,4,0
+95,200000008060,SUGAR POWDERED,Global,ward_euclidean,61000.0,40729.97062653868,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,"Milled, Powder, Icing",7,1,7,7,28,3,28,16,16,16,4
+96,200000008307,Cinnamon Sugar Topping - No.2,Global,ward_euclidean,124780.0,418721.92,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,"Milled, Powder, Icing",31,18,31,10,25,18,25,14,21,30,9
+97,200000000721,Grain-Starch Treacle (GFS 10),Global,ward_euclidean,2320.0,1329.419624,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,25,5,25,7,1,0,1,6,0,28,13
+98,200000001929,"India, Invert Syrup",Global,ward_euclidean,44510.015999999996,20198.753045921112,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Liquid Invert,12,0,12,7,1,5,1,12,36,15,36
+99,200000002382,COLOR-COCHINEAL CARMINE-LIQUID,Global,ward_euclidean,50.0,4469.63684865048,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,25,5,25,7,1,0,1,6,0,28,14
+100,200000002568,"Color, Beta Carotene",Global,ward_euclidean,95.0,18957.54707738641,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,9,15,9,7,1,0,1,1,0,12,12
+101,200000004046,Color - Red HPMC speckle,Global,ward_euclidean,217.8,37898.94,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,19,40,19,18,20,0,20,18,0,18,5
+102,200000011085,Sugar-Golden-6x blend,Global,ward_euclidean,4468551.355,3665454.8460181425,,Ingredient,Sugars and Sweeteners,Sugars,Specialties,Others,43,12,43,13,18,0,18,21,29,21,7
+103,200000001088,"Cane Sugar, Fine Grind",Global,ward_euclidean,0.0,0.0,,,,,,,12,0,12,4,1,0,1,12,0,15,10

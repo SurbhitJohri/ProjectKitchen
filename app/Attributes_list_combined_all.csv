@@ -1,0 +1,213 @@
+Attributes_list,Type
+"Nutrient Composition - Sodium, g - Value",num
+"Nutrient Composition - Moisture, g - Value",num
+"Nutrient Composition - Trans Fat, g - Value",num
+"Nutrient Composition - Saturated + Trans Fat, g - Value",num
+"Nutrient Composition - Monounsaturated Fat (total), g - Value",num
+Quantitative - Iodine value - Max,num
+"Nutrient Composition - Monounsaturated Fat (cis), g - Value",num
+"Nutrient Composition - Total Fat, g - Value",num
+Storage - Drum/Barrel/Keg - Min Remaining SL Upon Receipt,num
+"Nutrient Composition - Calories from Total Fat, kcal - Value",num
+Storage - Drum/Barrel/Keg - Total Shelf Life,num
+"Nutrient Composition - Energy, kJ - Value",num
+Quantitative - Acid value - Max,num
+Quantitative - Saponification value - Max,num
+Storage - Can/Jerry can/Pail/Bucket/Jug/Tub - Min Remaining SL Upon Receipt,num
+"Nutrient Composition - Calories, kcal - Value",num
+"Nutrient Composition - Trans Fat on total fat, % - Value",num
+"Nutrient Composition - Phosphorus, mg - Value",num
+Quantitative - Viscosity reduction - Max,num
+Storage - Can - Min Remaining SL Upon Receipt,num
+"Nutrient Composition - Cholesterol, mg - Value",num
+Standard composition - POLYGLYCEROL ESTERS OF INTERESTERIFIED RICINOLEIC ACID - Value,num
+"Nutrient Composition - Saturated Fat, g - Value",num
+"Nutrient Composition - Sodium, mg - Value",num
+"Nutrient Composition - Polyunsaturated Fat (cis), g - Value",num
+"Nutrient Composition - Trans Fat, mg - Value",num
+"Nutrient Composition - Polyunsaturated Fat (total), g - Value",num
+"Approved Supplier Trade Name - Electrogasochem-Polyglycerol polyricinoleate, PGPR 01-1-200 kg",cat
+Approved Supplier Trade Name - Palsgaard Netherlands B.V.-PGPR 4125-31076101-25 kg,cat
+Approved Supplier Trade Name - Lasenor Nagpur IN- Verol PR- Pack size- 25kg-Can/Jerry can/Pail/Bucket/Jug/Tub Pack Size- 180kg- Drum/Barrel/Keg Pack Size-900kg- Dr,cat
+Approved Supplier Trade Name - Palsgaard Netherlands B.V.-Polyglycerol polyricinoleate 4150-31077103 -25kg Net,cat
+"Approved Supplier Trade Name - Lasenor-Nagpur-IN- VEROL PR HF Pack size and pack type details:- 25kg- Can/Jerry can/Pail/Bucket/Jug/Tub, 180kg- Drum/Barrel/Keg, 90",cat
+Approved Supplier Trade Name - KERRY INGREDIENTS (M) SDN BHD-PGPR / RIKEMAL PRV-200-20070728-190 kg steel drum,cat
+Approved Supplier Trade Name - Kerry Ingredients-ADMUL WOL 1403-20kg,cat
+Approved Supplier Trade Name - Palsgaard-Palsgaard® AMP 4448-180kg,cat
+Approved Supplier Trade Name - Palsgaard-Palsgaard® AMP 4448-900kg,cat
+Approved Supplier Trade Name - Palsgaard Netherlands B.V.-Palsgaard Netherlands B.V.-310 77 104-25kg 30cm*25cm*47cm,cat
+"Approved Supplier Trade Name - Lasenor-Nagpur-IN- VEROL PR HF- Pack size and pack type details:- 25kg- Can/Jerry can/Pail/Bucket/Jug/Tub, 180kg- Drum/Barrel/Keg, 9",cat
+Approved Supplier Trade Name - Palsgaard Netherlands B.V.-Polyglycerol polyricinoleate(PGPR)(E476)-31076102-200 kg net drum,cat
+Approved Supplier Trade Name - Palsgaard Netherlands B.V.-Polyglycerol polyricinoleate(PGPR)(E476)-31076104-25 kg net pail,cat
+Approved Supplier Trade Name - Palsgaard Netherlands B.V.-Polyglycerol polyricinoleate(PGPR)(E476)-31076106-975 kg net IBC,cat
+Approved Supplier Trade Name - Palsgaard Netherlands B.V.-Palsgaard PGPR 4150-31077104-25kg,cat
+Approved Supplier Trade Name - Palsgaard Netherlands B.V.-Palsgaard PGPR 4150-31077105-975kg,cat
+Approved Supplier Trade Name - Savannah Surfactants-PGPR DynaVisc 999-200 kg HDPE Drum-200 kg,cat
+Approved Supplier Trade Name - Savannah Surfactants-PGPR DynaVisc 999-25 kg HDPE Jerry Can-25 kg,cat
+Approved Supplier Trade Name - Savannah Surfactants-PGPR DynaVisc 999-950 kg IBC-950 kg,cat
+Approved Supplier Trade Name - Polyglycerol-polyricinoleate E 476-100%,cat
+Approved Supplier Trade Name - Polyglycerol-polyricinoleate E476-100%,cat
+Approved Supplier Trade Name - Lasenor India Nagpur pvt ltd-VEROL PR,cat
+Approved Supplier Trade Name - PGPR,cat
+Approved Supplier Trade Name - Fine Organic Ambernath-FINAMUL 1909 (Ammonium Phosphatide) -Finamul 1909,cat
+Approved Supplier Trade Name - Palsgaard Netherlands B.V.-Palsgaard® PGPR 4150-91415001-975kg,cat
+Approved Supplier Trade Name - Kerry Ingredients-ADMUL WOL 1403-20070728 (old code: 5Z00493)-20 kg,cat
+Approved Supplier Trade Name - Palsgaard-PGPR 4150-310 77 319-750 kg,cat
+Approved Supplier Trade Name - Palsgaard-PGPR 4150-310 77 319-975 kg,cat
+Approved Supplier Trade Name - ABITEC Corp.-Caprol MPGO-8550-6549-425 pound drum,cat
+Approved Supplier Trade Name - ABITEC Corp.-Caprol MPGO-8550-6550-50 pound HDPE,cat
+Approved Supplier Trade Name - Palsgaard A/S - PGE 1009,cat
+Approved Supplier Trade Name - Danisco Ingredients-Grindsted PGPR 90-502647,cat
+Approved Supplier Location - Electrogasochem-Zhytomyr-UA,cat
+Approved Supplier Location - Palsgaard Netherlands B.V.-Zierikzee-NL,cat
+Approved Supplier Location - Lasenor -Nagpur-IN,cat
+Approved Supplier Location - Palsgaard-Juelsminde-DK,cat
+Approved Supplier Location - Palsgaard Netherlands B.V.-Zierikzee-NL.1,cat
+Approved Supplier Location - Lasenor -Nagpur-IN.1,cat
+Approved Supplier Location - Kerry Ingredients (M) Sdn. Bhd-Shah Alam-MY,cat
+Approved Supplier Location - Kerry Ingredients-Zwijndrecht-NL,cat
+Approved Supplier Location - Palsgaard-Juelsminde-DK.1,cat
+Approved Supplier Location - Palsgaard Netherlands B.V.-Zierikzee-NL.2,cat
+Approved Supplier Location - Palsgaard-Juelsminde-DK.2,cat
+Approved Supplier Location - Lasenor -Nagpur-IN.2,cat
+Approved Supplier Location - Palsgaard Netherlands B.V.-Zierikzee-NL.3,cat
+Approved Supplier Location - Savannah Surfactants-Goa-IN,cat
+Approved Supplier Location - Palsgaard Netherlands B.V.-Zierikzee-NL.4,cat
+Approved Supplier Location - Kerry Ingredients-Zwijndrecht-NL.1,cat
+Approved Supplier Location - Palsgaard-Juelsminde-DK.3,cat
+Approved Supplier Location - Lasenor -Nagpur-IN.3,cat
+Approved Supplier Location - Savannah Surfactants-Goa-IN.1,cat
+Approved Supplier Location - Palsgaard-Juelsminde-DK.4,cat
+Approved Supplier Location - Fine Organic Ambernath-IN,cat
+Approved Supplier Location - Palsgaard Netherlands B.V.-Zierikzee-NL.5,cat
+Approved Supplier Location - Kerry Ingredients-Zwijndrecht-NL.2,cat
+Approved Supplier Location - Savannah Surfactants-Goa-IN.2,cat
+Approved Supplier Location - Palsgaard-Juelsminde-DK.5,cat
+Approved Supplier Location - ABITEC Corp.-Janesville-US,cat
+Approved Supplier Location - Palsgaard-Juelsminde-DK.6,cat
+Approved Supplier Location - Danisco Ingredients-Pirapozinho-BR,cat
+Shipping - Drum/Barrel/Keg - Shipping Condition,cat
+Shipping - Can/Jerry can/Pail/Bucket/Jug/Tub - Shipping Condition,cat
+Shipping - Box/Case/Carton - Shipping Condition,cat
+Shipping - Can - Shipping Condition,cat
+Shipping - Tote - Shipping Condition,cat
+Shipping - Bag/Pouch/Sachet - Shipping Condition,cat
+Storage - Drum/Barrel/Keg - Storage Condition,cat
+Storage - Can/Jerry can/Pail/Bucket/Jug/Tub - Storage Condition,cat
+Storage - Pallet - Storage Condition,cat
+Storage - Tote - Storage Condition,cat
+Storage - Can - Storage Condition,cat
+Storage - Box/Case/Carton - Storage Condition,cat
+Storage - Bag/Pouch/Sachet - Storage Condition,cat
+Quantitative - Saponification value - Certificate of Analysis (CoA),cat
+Quantitative - Acid value - Certificate of Analysis (CoA),cat
+Quantitative - Hydroxyl Value - Certificate of Analysis (CoA),cat
+Quantitative - Iodine value - Certificate of Analysis (CoA),cat
+Quantitative - Moisture - Certificate of Analysis (CoA),cat
+"Quantitative - Glycerol, free - Certificate of Analysis (CoA)",cat
+Quantitative - Assay (as fatty acids) - Certificate of Analysis (CoA),cat
+"Quantitative - Nitrogen, total - Certificate of Analysis (CoA)",cat
+Quantitative - PH - Certificate of Analysis (CoA),cat
+"Quantitative - Ash, sulphated - Certificate of Analysis (CoA)",cat
+"Quantitative - Elements, phosphorus - Certificate of Analysis (CoA)",cat
+"Quantitative - Solids, hexane insoluble - Certificate of Analysis (CoA)",cat
+"Quantitative - Moisture, loss on drying - Certificate of Analysis (CoA)",cat
+"Quantitative - Color, subsidiary - Certificate of Analysis (CoA)",cat
+"Quantitative - Fatty acids, free (as oleic) - Certificate of Analysis (CoA)",cat
+Quantitative - Refractive index - Certificate of Analysis (CoA),cat
+Quantitative - Viscosity reduction - Certificate of Analysis (CoA),cat
+Quantitative - Density - Certificate of Analysis (CoA),cat
+"Quantitative - Viscosity, Newton - Certificate of Analysis (CoA)",cat
+Quantitative - Viscosity - Certificate of Analysis (CoA),cat
+Quantitative - Color - Certificate of Analysis (CoA),cat
+Quantitative - Saponification value - Minimum Testing Frequency,cat
+Quantitative - Acid value - Minimum Testing Frequency,cat
+Quantitative - Hydroxyl Value - Minimum Testing Frequency,cat
+Quantitative - Iodine value - Minimum Testing Frequency,cat
+"Quantitative - Glycerol, free - Minimum Testing Frequency",cat
+"Quantitative - Color, subsidiary - Minimum Testing Frequency",cat
+Quantitative - Refractive index - Minimum Testing Frequency,cat
+Quantitative - Viscosity reduction - Minimum Testing Frequency,cat
+"Quantitative - Viscosity, Newton - Minimum Testing Frequency",cat
+"Qualitative - Nitrogen, ammonia - Acceptance Criteria",cat
+"Qualitative - Nitrogen, ammonia - Certificate of Analysis (CoA)",cat
+"Qualitative - Nitrogen, ammonia - Analytical Reference Method",cat
+"Qualitative - Nitrogen, ammonia - TXT: Key Testing Details",cat
+Qualitative - Gluten - Acceptance Criteria,cat
+Qualitative - Gluten - Minimum Testing Frequency,cat
+Qualitative - Extraneous matter - Acceptance Criteria,cat
+Qualitative - Extraneous matter - Certificate of Analysis (CoA),cat
+Qualitative - Extraneous matter - Analytical Reference Method,cat
+Quantitative - Saponification value - Analytical Reference Method,cat
+Quantitative - Acid value - Analytical Reference Method,cat
+Quantitative - Hydroxyl Value - Analytical Reference Method,cat
+Quantitative - Iodine value - Analytical Reference Method,cat
+Quantitative - Moisture - Analytical Reference Method,cat
+"Quantitative - Glycerol, free - Analytical Reference Method",cat
+Quantitative - Assay (as fatty acids) - Analytical Reference Method,cat
+"Quantitative - Nitrogen, total - Analytical Reference Method",cat
+"Quantitative - Ash, sulphated - Analytical Reference Method",cat
+"Quantitative - Elements, phosphorus - Analytical Reference Method",cat
+"Quantitative - Moisture, loss on drying - Analytical Reference Method",cat
+"Quantitative - Fatty acids, free (as oleic) - Analytical Reference Method",cat
+Quantitative - Refractive index - Analytical Reference Method,cat
+Quantitative - Viscosity reduction - Analytical Reference Method,cat
+Quantitative - Density - Analytical Reference Method,cat
+Quantitative - Viscosity - Analytical Reference Method,cat
+Quantitative - Moisture - TXT: Key Testing Details,cat
+Quantitative - Assay (as fatty acids) - TXT: Key Testing Details,cat
+Quantitative - PH - TXT: Key Testing Details,cat
+"Quantitative - Color, subsidiary - TXT: Key Testing Details",cat
+Quantitative - Viscosity reduction - TXT: Key Testing Details,cat
+Quantitative - Density - TXT: Key Testing Details,cat
+Quantitative - Viscosity - TXT: Key Testing Details,cat
+Standard composition - CITRIC ACID - Value,cat
+Standard composition - AMMONIUM SALTS OF PHOSPHATIDIC ACID - Value,cat
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt,cat
+Quantitative - Moisture - Max,cat
+"Quantitative - Color, subsidiary - Max",cat
+Storage - Pallet - Total Shelf Life,cat
+"Nutrient Composition - Available Carbohydrate, g - Value",cat
+"Nutrient Composition - Calories, kcal (LA calculation) - Value",cat
+Storage - Box/Case/Carton - Min Remaining SL Upon Receipt,cat
+"Nutrient Composition - Iron, mg - Value",cat
+Quantitative - Refractive index - Max,cat
+"Nutrient Composition - Calories from Saturated Fat, kcal - Value",cat
+"Quantitative - Glycerol, free - Max",cat
+Storage - Box/Case/Carton - Total Shelf Life,cat
+"Nutrient Composition - Iodine, μg - Value",cat
+Quantitative - Viscosity - Max,cat
+Quantitative - Hydroxyl Value - Max,cat
+"Quantitative - Elements, phosphorus - Max",cat
+Storage - Pallet - Min Remaining SL Upon Receipt,cat
+Storage - Can/Jerry can/Pail/Bucket/Jug/Tub - Total Shelf Life,cat
+Quantitative - Density - Max,cat
+"Nutrient Composition - Zinc, mg - Value",cat
+Storage - Can - Total Shelf Life,cat
+"Quantitative - Viscosity, Newton - Max",cat
+"Nutrient Composition - Copper, mg - Value",cat
+Storage - Tote - Min Remaining SL Upon Receipt,cat
+"Nutrient Composition - Available Carbohydrate, g (MX calculation) - Value",cat
+"Quantitative - Ash, sulphated - Max",cat
+"Quantitative - Moisture, loss on drying - Max",cat
+"Nutrient Composition - Calories, kcal (US calculation) - Value",cat
+Storage - Bag/Pouch/Sachet - Total Shelf Life,cat
+"Nutrient Composition - Total Carbohydrate, g - Value",cat
+Standard composition - ALPHA TOCOPHEROL - Value,cat
+Quantitative - PH - Max,cat
+"Nutrient Composition - Organic Acid, g - Value",cat
+Storage - Tote - Total Shelf Life,cat
+Standard composition - POLYGLYCEROL ESTERS OF FATTY ACIDS - Value,cat
+"Quantitative - Fatty acids, free (as oleic) - Max",cat
+"Quantitative - Solids, hexane insoluble - Max",cat
+"Nutrient Composition - Ash, g - Value",cat
+"Nutrient Composition - Potassium, mg - Value",cat
+"Nutrient Composition - Other Carbohydrate, g - Value",cat
+"Quantitative - Nitrogen, total - Max",cat
+Specification description,text
+Quantitative - Saponification value - TXT: Key Testing Details,text
+Quantitative - Acid value - TXT: Key Testing Details,text
+Quantitative - Hydroxyl Value - TXT: Key Testing Details,text
+Quantitative - Iodine value - TXT: Key Testing Details,text
+Quantitative - Refractive index - TXT: Key Testing Details,text
+Classification,text

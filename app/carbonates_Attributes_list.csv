@@ -1,0 +1,376 @@
+Attributes_list
+Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt
+"Quantitative - Moisture, loss on drying - Max"
+"Quantitative - Ash, total - Max"
+"Nutrient Composition - Sodium, mg - Value"
+"Nutrient Composition - Phosphorus, mg - Value"
+"Nutrient Composition - Potassium, mg - Value"
+"Particle size tests - Particle size, >500µm (#35) - Max"
+Standard Composition - AMMONIUM HYDROGEN CARBONATE - Value
+"Nutrient Composition - Iron, mg - Value"
+"Nutrient Composition - Energy, kJ - Value"
+"Nutrient Composition - Ash, g - Value"
+Standard Composition - MAGNESIUM CARBONATE - Value
+"Particle size tests - Particle size, >200µm - Max"
+"Nutrient Composition - Total Sulphites, mg/kg (ppm) - Value"
+Standard Composition - MAGNESIUM CARBONATES - Value
+Quantitative - Assay - Max
+"Nutrient Composition - Magnesium, mg - Value"
+"Nutrient Composition - Molybdenum, μg - Value"
+"Nutrient Composition - Calcium, mg - Value"
+"Quantitative - Density, bulk free flow - Max"
+Quantitative - PH - Max.1
+Quantitative - PH - Max
+"Particle size tests - Particle size, >250µm (#60) - Max"
+"Nutrient Composition - Moisture, g - Value"
+"Nutrient Composition - Chromium, μg - Value"
+Storage - Bag/Pouch/Sachet - Total Shelf Life
+"Nutrient Composition - Other Proximates, g - Value"
+"Quantitative - Elements, chlorides - Max"
+"Nutrient Composition - Sodium, g - Value"
+Quantitative - Moisture - Max
+"Nutrient Composition - Manganese, mg - Value"
+"Nutrient Composition - Copper, mg - Value"
+Standard Composition - CALCIUM CARBONATE - Value
+Standard Composition - SODIUM HYDROGEN CARBONATE - Value
+"Nutrient Composition - Calories, kcal - Value"
+"Nutrient Composition - Zinc, mg - Value"
+Approved Supplier Location - BASF SE Ammonium Carbonates Plant-Ludwigshafen-DE - Identifier 2
+Approved Supplier Location - Esseco Group-San Martino Trecate-IT - Identifier 2
+Approved Supplier Location - BASF SE Sulfite Plant-Ludwigshafen-DE - Identifier 2
+Approved Supplier Location - Canton Laboratories-Vadodara-IN - Identifier 2
+Approved Supplier Location - Mineraria Sacilese-Sacile(PN)-IT - Identifier 2
+Approved Supplier Location - Church & Dwight Company Incorporated-Green River-US - Identifier 2
+"Approved Supplier Location - Solvay Quimica, S.L.-Torrelavega-ES - Identifier 2"
+Approved Supplier Location - Tata Chemicals Europe-Northwich-GB - Identifier 2
+Approved Supplier Location - Ineos-Runcorn-GB - Identifier 2
+Approved Supplier Location - Dr Paul Lohmann GmbH KG-Emmerthal-DE - Identifier 2
+Approved Supplier Location - Merck-Darmstadt-DE - Identifier 2
+Approved Supplier Location - Addcon Nordic-PORSGRUNN-NO - Identifier 2
+Approved Supplier Location - Solvay - Bernburg - DE - Identifier 2
+Approved Supplier Location - Solvay-Rheinberg-DE - Identifier 2
+Approved Supplier Location - Solvay-Dombasle sur Meurthe-FR - Identifier 2
+Approved Supplier Location - Soda Polska Ciech-Inowroclaw-PL - Identifier 2
+Approved Supplier Location - Food Blending bvba-Evergem-BE - Identifier 2
+Approved Supplier Location - Food Blending bv-Evergem-BE - Identifier 2
+Approved Supplier Location - CSM-GERLENHOFEN (Neu-Ulm)-DE - Identifier 2
+Approved Supplier Location - Church & Dwight Company Incorporated-Old Fort-US - Identifier 2
+Approved Supplier Location - Totalmix Industria e Comercio Ltda-São Carlos do Ivaí-BR - Identifier 2
+Approved Supplier Location - IPC Nor (Totalmix)-Camacari-BR - Identifier 2
+Approved Supplier Location - Morgan Chemical-10 of Ramadan City-EG - Identifier 2
+Approved Supplier Location - Armand Products Inc-Muscle Shoals-US - Identifier 2
+Approved Supplier Location - Omya-Orgon-FR - Identifier 2
+Approved Supplier Location - Omya-Kemalpasa-TR - Identifier 2
+Approved Supplier Location - Mineraria Sacilese-Sacile-IT - Identifier 2
+Approved Supplier Location - Omya-Superior-US - Identifier 2
+Microbiological Requirements - Aerobic Plate Count/TVC - I/C - S/U
+Microbiological Requirements - Coliforms - I/C - S/U
+Microbiological Requirements - Enterobacteriaceae - I/C - S/U
+Microbiological Requirements - Mold - I/C - S/U
+Microbiological Requirements - Yeast - I/C - S/U
+Microbiological Requirements - Salmonella - I/C - S/U
+Microbiological Requirements - No Microbiological Testing Required - Certificate of Analysis (CoA)
+Microbiological Requirements - Aerobic Plate Count/TVC - Certificate of Analysis (CoA)
+Microbiological Requirements - Coliforms - Certificate of Analysis (CoA)
+Microbiological Requirements - Enterobacteriaceae - Certificate of Analysis (CoA)
+Microbiological Requirements - Mold - Certificate of Analysis (CoA)
+Microbiological Requirements - Yeast - Certificate of Analysis (CoA)
+Microbiological Requirements - Salmonella - Certificate of Analysis (CoA)
+Halal Certification - Halal Certification Required?
+Kosher Certification - Kosher Certification Required?
+Religious Certificate Compli - Kosher Certified by Supplier's Agency - Exception Value Desc.
+Religious Certificate Compli - Halal Certified by Supplier's Agency - Exception Value Desc.
+Religious Certificate Compli - Kosher Certified for Passover by Supplier's Agency - Exception Value Desc.
+Religious Certificate Compli - Kosher Certified by MDLZ's Agency - Exception Value Desc.
+Religious Certificate Compli - Kosher Certified for Passover by MDLZ's Agency - Exception Value Desc.
+Religious Certificate Compli - Halal Certified by MDLZ's Agency - Exception Value Desc.
+Shipping - Bag/Pouch/Sachet - Shipping Condition
+Shipping - Tote - Shipping Condition
+Shipping - Box/Case/Carton - Shipping Condition
+Shipping - DO NOT USE - All pack types - Shipping Condition
+Shipping - Bag - Shipping Condition
+Shipping - Drum/Barrel/Keg - Shipping Condition
+Shipping - Bulk/Tanker/Truck/Rail car - Shipping Condition
+Storage - Bag/Pouch/Sachet - Storage Condition
+Storage - Tote - Storage Condition
+Storage - Bag - Storage Condition
+Storage - Drum/Barrel/Keg - Storage Condition
+Storage - Bulk/Tanker/Truck/Rail car - Storage Condition
+Quantitative - PH - Certificate of Analysis (CoA)
+Quantitative - Assay - Certificate of Analysis (CoA)
+"Quantitative - Ash, total - Certificate of Analysis (CoA)"
+"Quantitative - Elements, chlorides - Certificate of Analysis (CoA)"
+Quantitative - PH - Certificate of Analysis (CoA).1
+"Quantitative - Moisture, loss on drying - Certificate of Analysis (CoA)"
+"Quantitative - Solids, acid insoluble - Certificate of Analysis (CoA)"
+Quantitative - Sulphates - Certificate of Analysis (CoA)
+"Quantitative - Elements, Fe - Certificate of Analysis (CoA)"
+"Quantitative - Solids, water insoluble - Certificate of Analysis (CoA)"
+Quantitative - Sulfur compounds (as SO4) - Certificate of Analysis (CoA)
+"Quantitative - Carbon dioxide, total - Certificate of Analysis (CoA)"
+Quantitative - Non-volatile residue - Certificate of Analysis (CoA)
+"Quantitative - Elements, Mg - Certificate of Analysis (CoA)"
+Quantitative - Assay (anhydrous basis) - Certificate of Analysis (CoA)
+Quantitative - Chlorinated compounds - Certificate of Analysis (CoA)
+"Quantitative - Sulphates, water soluble - Certificate of Analysis (CoA)"
+Quantitative - Moisture - Certificate of Analysis (CoA)
+"Quantitative - Solids, total - Certificate of Analysis (CoA)"
+"Quantitative - Gases, carbon dioxide - Certificate of Analysis (CoA)"
+"Quantitative - Solids, acetone insoluble - Certificate of Analysis (CoA)"
+Quantitative - Assay (as MgO) - Certificate of Analysis (CoA)
+Quantitative - Assay (dry basis) - Certificate of Analysis (CoA)
+"Quantitative - Elements, Ca - Certificate of Analysis (CoA)"
+Quantitative - Loss on ignition - Certificate of Analysis (CoA)
+"Quantitative - Salt, magnesium & alkali salts - Certificate of Analysis (CoA)"
+"Quantitative - Elements, fluorides - Certificate of Analysis (CoA)"
+"Quantitative - Density, bulk free flow - Certificate of Analysis (CoA)"
+Quantitative - Density - Certificate of Analysis (CoA)
+Quantitative - Melting point - Certificate of Analysis (CoA)
+Quantitative - Solubility - Certificate of Analysis (CoA)
+Quantitative - Refractive index - Certificate of Analysis (CoA)
+Quantitative - Pungency - Certificate of Analysis (CoA)
+Quantitative - Assay - Minimum Testing Frequency
+"Quantitative - Ash, total - Minimum Testing Frequency"
+"Quantitative - Moisture, loss on drying - Minimum Testing Frequency"
+"Particle size tests - Particle size, >150µm (#100) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >315µm - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >500µm (#35) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >200µm - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >710µm (#25) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >212µm (#70) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >180µm (#80) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >425µm (#40) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >250µm (#60) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >160µm - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >75µm (#200) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >125µm (#120) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >100µm - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >45µm (#325) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >63µm (#230) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, >20µm (#635) - Certificate of Analysis (CoA)"
+"Particle size tests - Particle size, residue on pan - Certificate of Analysis (CoA)"
+Allergens - Egg - Exception Value Desc.
+Allergens - Milk - Exception Value Desc.
+Allergens - Soybean / Soya / Soy - Exception Value Desc.
+Allergens - Wheat - Exception Value Desc.
+Allergens - Buckwheat (Japanese definition) - Exception Value Desc.
+Allergens - Added Sulphites - Exception Value Desc.
+Allergens - Gluten from sources other than wheat - Exception Value Desc.
+Allergens - Gelatin from animal sources other than Fish - Exception Value Desc.
+Allergens - Refined ingredient(s) derived from Wheat - Exception Value Desc.
+Allergens - Matsutake Mushroom (Japanese definition) - Exception Value Desc.
+Allergens - Yam (Japanese definition) - Exception Value Desc.
+Allergens - Beef (Japanese definition) - Exception Value Desc.
+Allergens - Chicken (Japanese definition) - Exception Value Desc.
+Allergens - Pork (Japanese definition) - Exception Value Desc.
+Allergens - Other animal-derived ingredients - Exception Value Desc.
+Allergens - Apple (Japanese definition) - Exception Value Desc.
+Allergens - Banana (Japanese definition) - Exception Value Desc.
+Allergens - Grapefruit - Exception Value Desc.
+Allergens - Kiwifruit (Japanese definition) - Exception Value Desc.
+Allergens - Orange (Japanese definition) - Exception Value Desc.
+Allergens - Peach (Japanese definition) - Exception Value Desc.
+Allergens - Wheat (Brazil definition) - Exception Value Desc.
+Allergens - Rye (Brazil definition) - Exception Value Desc.
+Allergens - Barley (Brazil definition) - Exception Value Desc.
+Allergens - Oat (Brazil definition) - Exception Value Desc.
+Allergens - Crustacean (Brazil definition) - Exception Value Desc.
+Allergens - Egg (Brazil definition) - Exception Value Desc.
+Allergens - Fish (Brazil definition) - Exception Value Desc.
+Allergens - Peanut (Brazil definition) - Exception Value Desc.
+Allergens - Soya (Brazil definition) - Exception Value Desc.
+Allergens - Milk (Brazil definition) - Exception Value Desc.
+Allergens - Almond (Brazil definition) - Exception Value Desc.
+Allergens - Hazelnut (Brazil definition) - Exception Value Desc.
+Allergens - Cashew (Brazil definition) - Exception Value Desc.
+Allergens - Brazil Nut (Brazil definition) - Exception Value Desc.
+Allergens - Macadamia (Brazil definition) - Exception Value Desc.
+Allergens - Walnut (Brazil definition) - Exception Value Desc.
+Allergens - Hickory Nut and Pecan (Brazil definition) - Exception Value Desc.
+Allergens - Pistachio (Brazil definition) - Exception Value Desc.
+Allergens - Pine Nut (Brazil definition) - Exception Value Desc.
+Allergens - Chestnut (Brazil definition) - Exception Value Desc.
+Allergens - Natural Latex (Brazil definition) - Exception Value Desc.
+Allergens - Cinnamon - Exception Value Desc.
+Allergens - Ethanol - Exception Value Desc.
+Allergens - Phenylalanine from aspartame - Exception Value Desc.
+Allergens - TBHQ - Exception Value Desc.
+Allergens - BHA - Exception Value Desc.
+Allergens - BHT - Exception Value Desc.
+Allergens - Ethylene Oxide - Exception Value Desc.
+Allergens - Irradiated ingredients - Exception Value Desc.
+Allergens - Mango (Taiwan Definition) - Exception Value Desc.
+Allergens - Coconut (Taiwan Definition) - Exception Value Desc.
+Allergens - Shea Nut (Taiwan Definition) - Exception Value Desc.
+Diet Suitability - Suitable for Jewish Diet (Global definition) - Exception Value Desc.
+Diet Suitability - Suitable for Muslim Diet (Global definition) - Exception Value Desc.
+Diet Suitability - Suitable for Vegetarian Diet (Global definition) - Exception Value Desc.
+Diet Suitability - Suitable for Vegan Diet (Global definition) - Exception Value Desc.
+Diet Suitability - Suitable for Children under 3 years (EU) - Exception Value Desc.
+Diet Suitability - Organic Certified (AMEA) - Exception Value Desc.
+Diet Suitability - Organic Certified (EU) - Exception Value Desc.
+Diet Suitability - Organic Certified (NA) - Exception Value Desc.
+Diet Suitability - Organic Certified (LA) - Exception Value Desc.
+"Qualitative - Elements, chlorides - Acceptance Criteria"
+"Qualitative - Elements, chlorides - Certificate of Analysis (CoA)"
+"Qualitative - Elements, chlorides - Analytical Reference Method"
+Qualitative - Ammonia - Acceptance Criteria
+Qualitative - Ammonia - Certificate of Analysis (CoA)
+Qualitative - Ammonia - Analytical Reference Method
+Qualitative - Ammonia - TXT: Key Testing Details
+"Qualitative - Solids, water insoluble - Acceptance Criteria"
+"Qualitative - Solids, water insoluble - Certificate of Analysis (CoA)"
+"Qualitative - Solids, water insoluble - TXT: Key Testing Details"
+Qualitative - Extraneous matter - Acceptance Criteria
+Qualitative - Extraneous matter - Certificate of Analysis (CoA)
+Qualitative - Extraneous matter - Analytical Reference Method
+Qualitative - Extraneous matter - TXT: Key Testing Details
+Qualitative - Extraneous matter - Minimum Testing Frequency
+Qualitative - Solubility - Acceptance Criteria
+Qualitative - Solubility - Certificate of Analysis (CoA)
+Qualitative - Solubility - TXT: Key Testing Details
+Food Safety Requirements - No Micro Testing Required - Not a source of microorganisms - Contaminant Limits Required
+Food Safety Requirements - Quality - May be a source of spoilage microorganisms - Contaminant Limits Required
+Food Safety Requirements - Sensitive–Maybe source of pathogens;ING/subcomponents NOT gone through validated pathogen reduction.May need kill step - Contaminant Limits Required
+GM Assessment - Derived From GM Crop(s)
+GM Assessment - Contains GM DNA/Protein
+Status
+Classification
+Quantitative - PH - Analytical Reference Method
+"Quantitative - Ash, total - Analytical Reference Method"
+"Quantitative - Elements, chlorides - Analytical Reference Method"
+Quantitative - PH - Analytical Reference Method.1
+"Quantitative - Solids, acid insoluble - Analytical Reference Method"
+Quantitative - Sulphates - Analytical Reference Method
+"Quantitative - Solids, water insoluble - Analytical Reference Method"
+Quantitative - Sulfur compounds (as SO4) - Analytical Reference Method
+"Quantitative - Carbon dioxide, total - Analytical Reference Method"
+Quantitative - Non-volatile residue - Analytical Reference Method
+"Quantitative - Elements, Mg - Analytical Reference Method"
+Quantitative - Assay (anhydrous basis) - Analytical Reference Method
+Quantitative - Chlorinated compounds - Analytical Reference Method
+"Quantitative - Sulphates, water soluble - Analytical Reference Method"
+Quantitative - Moisture - Analytical Reference Method
+"Quantitative - Solids, total - Analytical Reference Method"
+Quantitative - Assay (as MgO) - Analytical Reference Method
+"Quantitative - Elements, Ca - Analytical Reference Method"
+"Quantitative - Salt, magnesium & alkali salts - Analytical Reference Method"
+"Quantitative - Density, bulk free flow - Analytical Reference Method"
+Quantitative - Melting point - Analytical Reference Method
+Quantitative - Solubility - Analytical Reference Method
+Quantitative - Refractive index - Analytical Reference Method
+Quantitative - Pungency - Analytical Reference Method
+"Quantitative - Solids, acid insoluble - TXT: Key Testing Details"
+"Quantitative - Solids, water insoluble - TXT: Key Testing Details"
+"Quantitative - Carbon dioxide, total - TXT: Key Testing Details"
+Quantitative - Non-volatile residue - TXT: Key Testing Details
+"Quantitative - Gases, carbon dioxide - TXT: Key Testing Details"
+Quantitative - Density - TXT: Key Testing Details
+Quantitative - Solubility - TXT: Key Testing Details
+"Particle size tests - Particle size, >150µm (#100) - Analytical Reference Method"
+"Particle size tests - Particle size, >315µm - Analytical Reference Method"
+"Particle size tests - Particle size, >500µm (#35) - Analytical Reference Method"
+"Particle size tests - Particle size, >200µm - Analytical Reference Method"
+"Particle size tests - Particle size, >710µm (#25) - Analytical Reference Method"
+"Particle size tests - Particle size, >212µm (#70) - Analytical Reference Method"
+"Particle size tests - Particle size, >180µm (#80) - Analytical Reference Method"
+"Particle size tests - Particle size, >425µm (#40) - Analytical Reference Method"
+"Particle size tests - Particle size, >250µm (#60) - Analytical Reference Method"
+"Particle size tests - Particle size, >160µm - Analytical Reference Method"
+"Particle size tests - Particle size, >75µm (#200) - Analytical Reference Method"
+"Particle size tests - Particle size, >125µm (#120) - Analytical Reference Method"
+"Particle size tests - Particle size, >100µm - Analytical Reference Method"
+"Particle size tests - Particle size, >45µm (#325) - Analytical Reference Method"
+"Particle size tests - Particle size, >63µm (#230) - Analytical Reference Method"
+"Particle size tests - Particle size, >20µm (#635) - Analytical Reference Method"
+"Particle size tests - Particle size, residue on pan - Analytical Reference Method"
+"Particle size tests - Particle size, >315µm - TXT: Key Testing Details"
+"Particle size tests - Particle size, >200µm - TXT: Key Testing Details"
+"Particle size tests - Particle size, >710µm (#25) - TXT: Key Testing Details"
+"Particle size tests - Particle size, >180µm (#80) - TXT: Key Testing Details"
+"Particle size tests - Particle size, >425µm (#40) - TXT: Key Testing Details"
+"Particle size tests - Particle size, >250µm (#60) - TXT: Key Testing Details"
+"Particle size tests - Particle size, >75µm (#200) - TXT: Key Testing Details"
+"Particle size tests - Particle size, >125µm (#120) - TXT: Key Testing Details"
+"Particle size tests - Particle size, >100µm - TXT: Key Testing Details"
+"Particle size tests - Particle size, residue on pan - TXT: Key Testing Details"
+"Nutrient Composition - Total Carbohydrate, g - Value"
+"Nutrient Composition - Organic Acid, g - Value"
+Standard Composition - LIMESTONE - Value
+"Particle size tests - Particle size, >710µm (#25) - Max"
+Standard Composition - WHEAT STARCH - Value
+"Particle size tests - Particle size, >20µm (#635) - Max"
+Standard Composition - AMMONIUM CARBONATE - Value
+"Quantitative - Elements, Fe - Max"
+"Nutrient Composition - Starch, g - Value"
+"Particle size tests - Particle size, >125µm (#120) - Max"
+Storage - Bag - Total Shelf Life
+"Quantitative - Salt, magnesium & alkali salts - Max"
+Storage - Tote - Min Remaining SL Upon Receipt
+Standard Composition - CALCIUM SULPHATE - Value
+Quantitative - Solubility - Max
+"Particle size tests - Particle size, >45µm (#325) - Max"
+"Nutrient Composition - Protein, g - Value"
+"Particle size tests - Particle size, >63µm (#230) - Max"
+Quantitative - Non-volatile residue - Max
+"Quantitative - Solids, acid insoluble - Max"
+Standard Composition - DISODIUM DIPHOSPHATE - Value
+"Nutrient Composition - Available Carbohydrate, g (MX calculation) - Value"
+Quantitative - Refractive index - Max
+Quantitative - Density - Max
+"Particle size tests - Particle size, >75µm (#200) - Max"
+Storage - Drum/Barrel/Keg - Total Shelf Life
+"Nutrient Composition - Total Fat, g - Value"
+Storage - Drum/Barrel/Keg - Min Remaining SL Upon Receipt
+Storage - Tote - Total Shelf Life
+"Particle size tests - Particle size, >160µm - Max"
+"Particle size tests - Particle size, >100µm - Max"
+"Quantitative - Gases, carbon dioxide - Max"
+Standard Composition - POTASSIUM CARBONATE - Value
+"Quantitative - Elements, Ca - Max"
+"Nutrient Composition - Available Carbohydrate, g - Value"
+"Nutrient Composition - Fluoride, mg - Value"
+"Nutrient Composition - Selenium, μg - Value"
+Storage - Bulk/Tanker/Truck/Rail car - Total Shelf Life
+Standard Composition - ADDED SULPHITES - Value
+"Quantitative - Solids, acetone insoluble - Max"
+"Quantitative - Solids, water insoluble - Max"
+Quantitative - Loss on ignition - Max
+Standard Composition - MAGNESIUM OXIDE - Value
+Quantitative - Sulphates - Max
+Standard Composition - TRICALCIUM ORTHOPHOSPHATE - Value
+Quantitative - Assay (as MgO) - Max
+Standard Composition - POTASSIUM HYDROGEN CARBONATE - Value
+Quantitative - Assay (anhydrous basis) - Max
+Standard Composition - MAGNESIUM HYDROGEN CARBONATE - Value
+Quantitative - Assay (dry basis) - Max
+Storage - Bag - Min Remaining SL Upon Receipt
+Quantitative - Sulfur compounds (as SO4) - Max
+"Quantitative - Elements, Mg - Max"
+Standard Composition - SODIUM CARBONATE - Value
+Standard Composition - SILICON DIOXIDE - Value
+Quantitative - Chlorinated compounds - Max
+"Particle size tests - Particle size, >315µm - Max"
+"Quantitative - Carbon dioxide, total - Max"
+"Particle size tests - Particle size, >150µm (#100) - Max"
+"Quantitative - Sulphates, water soluble - Max"
+Storage - Bulk/Tanker/Truck/Rail car - Min Remaining SL Upon Receipt
+"Quantitative - Elements, fluorides - Max"
+Quantitative - Melting point - Max
+Standard Composition - PROPYLENE GLYCOL - Value
+Specification description
+Quantitative - Assay - Analytical Reference Method
+"Quantitative - Moisture, loss on drying - Analytical Reference Method"
+"Quantitative - Elements, Fe - Analytical Reference Method"
+Quantitative - PH - TXT: Key Testing Details
+Quantitative - Assay - TXT: Key Testing Details
+"Quantitative - Ash, total - TXT: Key Testing Details"
+"Quantitative - Elements, chlorides - TXT: Key Testing Details"
+Quantitative - PH - TXT: Key Testing Details.1
+"Quantitative - Moisture, loss on drying - TXT: Key Testing Details"
+Quantitative - Moisture - TXT: Key Testing Details
+"Quantitative - Solids, total - TXT: Key Testing Details"
+"Quantitative - Density, bulk free flow - TXT: Key Testing Details"
+"Particle size tests - Particle size, >150µm (#100) - TXT: Key Testing Details"
+"Particle size tests - Particle size, >500µm (#35) - TXT: Key Testing Details"
+Classification

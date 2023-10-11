@@ -1,0 +1,1294 @@
+0,1
+"                                     feature_name  Model 1  \
+0                                         titrant        0   
+1                                         solvent        0   
+2                                             xxx        0   
+3                                            temp        0   
+4                                          others        0   
+5                                  Total Solids %        0   
+6                                          method        0   
+7    Standard Composition - MALIC ACID - Value, %        0   
+8                                        supplier        0   
+9                                             per        0   
+10                                             eu        0   
+11                                     instrument        0   
+12                                       official        0   
+13                                    calculation        0   
+14                                        reagent        0   
+15                                        fumaric        0   
+16                                         maleic        0   
+17                                          assay        0   
+18                                    instruction        0   
+19                                            fcc        0   
+20                                       ignition        0   
+21                                             kf        0   
+22                                      monograph        0   
+23                                           meoh        0   
+24                                   instructions        0   
+25                                          acids        0   
+26                                        residue        0   
+27                                            wia        0   
+28                                         method        1   
+29                                       supplier        1   
+30                                         others        1   
+31   Standard Composition - MALIC ACID - Value, %        1   
+32                                 Total Solids %        1   
+33                                            fcc        1   
+34                                        titrant        1   
+35                                        solvent        1   
+36                                           temp        1   
+37                                    instruction        1   
+38                                       official        1   
+39                                     instrument        1   
+40                                            xxx        1   
+41                                            per        1   
+42                                          acids        1   
+43                                        residue        1   
+44                                           meoh        1   
+45                                       ignition        1   
+46                                        fumaric        1   
+47                                      monograph        1   
+48                                    calculation        1   
+49                                             eu        1   
+50                                   instructions        1   
+51                                            wia        1   
+52                                             kf        1   
+53                                          assay        1   
+54                                        reagent        1   
+55                                         maleic        1   
+56                                         others        2   
+57   Standard Composition - MALIC ACID - Value, %        2   
+58                                         method        2   
+59                                 Total Solids %        2   
+60                                        titrant        2   
+61                                       supplier        2   
+62                                        solvent        2   
+63                                            fcc        2   
+64                                            xxx        2   
+65                                            per        2   
+66                                           temp        2   
+67                                     instrument        2   
+68                                    calculation        2   
+69                                       ignition        2   
+70                                           meoh        2   
+71                                        residue        2   
+72                                             kf        2   
+73                                             eu        2   
+74                                      monograph        2   
+75                                       official        2   
+76                                         maleic        2   
+77                                            wia        2   
+78                                        reagent        2   
+79                                          assay        2   
+80                                    instruction        2   
+81                                   instructions        2   
+82                                          acids        2   
+83                                        fumaric        2   
+84                                         others        3   
+85                                          assay        3   
+86                                          acids        3   
+87                                         maleic        3   
+88                                            wia        3   
+89                                        fumaric        3   
+90                                         method        3   
+91                                        solvent        3   
+92   Standard Composition - MALIC ACID - Value, %        3   
+93                                            xxx        3   
+94                                       supplier        3   
+95                                        titrant        3   
+96                                 Total Solids %        3   
+97                                            fcc        3   
+98                                        reagent        3   
+99                                           temp        3   
+100                                    instrument        3   
+101                                           per        3   
+102                                  instructions        3   
+103                                   instruction        3   
+104                                          meoh        3   
+105                                   calculation        3   
+106                                       residue        3   
+107                                      official        3   
+108                                            kf        3   
+109                                      ignition        3   
+110                                     monograph        3   
+111                                            eu        3   
+112                                           per        4   
+113                                  instructions        4   
+114                                           fcc        4   
+115                                        others        4   
+116                                    instrument        4   
+117  Standard Composition - MALIC ACID - Value, %        4   
+118                                   instruction        4   
+119                                        method        4   
+120                                       solvent        4   
+121                                Total Solids %        4   
+122                                           xxx        4   
+123                                     monograph        4   
+124                                            kf        4   
+125                                          temp        4   
+126                                      supplier        4   
+127                                       titrant        4   
+128                                      ignition        4   
+129                                       residue        4   
+130                                      official        4   
+131                                           wia        4   
+132                                            eu        4   
+133                                   calculation        4   
+134                                       reagent        4   
+135                                       fumaric        4   
+136                                          meoh        4   
+137                                        maleic        4   
+138                                         acids        4   
+139                                         assay        4   
+140  Standard Composition - MALIC ACID - Value, %        5   
+141                                Total Solids %        5   
+142                                        others        5   
+143                                            eu        5   
+144                                       titrant        5   
+145                                   calculation        5   
+146                                        method        5   
+147                                      supplier        5   
+148                                       solvent        5   
+149                                           fcc        5   
+150                                          temp        5   
+151                                           xxx        5   
+152                                           per        5   
+153                                          meoh        5   
+154                                      ignition        5   
+155                                    instrument        5   
+156                                           wia        5   
+157                                      official        5   
+158                                       residue        5   
+159                                     monograph        5   
+160                                         assay        5   
+161                                       reagent        5   
+162                                   instruction        5   
+163                                         acids        5   
+164                                            kf        5   
+165                                        maleic        5   
+166                                  instructions        5   
+167                                       fumaric        5   
+168  Standard Composition - MALIC ACID - Value, %        6   
+169                                        others        6   
+170                                Total Solids %        6   
+171                                       titrant        6   
+172                                       solvent        6   
+173                                        method        6   
+174                                           fcc        6   
+175                                            eu        6   
+176                                          temp        6   
+177                                      supplier        6   
+178                                           xxx        6   
+179                                    instrument        6   
+180                                           per        6   
+181                                   calculation        6   
+182                                       residue        6   
+183                                      official        6   
+184                                          meoh        6   
+185                                        maleic        6   
+186                                            kf        6   
+187                                     monograph        6   
+188                                       reagent        6   
+189                                           wia        6   
+190                                         assay        6   
+191                                      ignition        6   
+192                                         acids        6   
+193                                   instruction        6   
+194                                       fumaric        6   
+195                                  instructions        6   
+196                                            eu        7   
+197  Standard Composition - MALIC ACID - Value, %        7   
+198                                        others        7   
+199                                Total Solids %        7   
+200                                   calculation        7   
+201                                        method        7   
+202                                           fcc        7   
+203                                           xxx        7   
+204                                       solvent        7   
+205                                       residue        7   
+206                                       titrant        7   
+207                                          temp        7   
+208                                   instruction        7   
+209                                            kf        7   
+210                                      supplier        7   
+211                                      ignition        7   
+212                                       fumaric        7   
+213                                    instrument        7   
+214                                          meoh        7   
+215                                         acids        7   
+216                                        maleic        7   
+217                                       reagent        7   
+218                                           per        7   
+219                                         assay        7   
+220                                     monograph        7   
+221                                      official        7   
+222                                  instructions        7   
+223                                           wia        7   
+224                                        others        8   
+225                                          meoh        8   
+226                                            kf        8   
+227                                       reagent        8   
+228  Standard Composition - MALIC ACID - Value, %        8   
+229                                        method        8   
+230                                           fcc        8   
+231                                       solvent        8   
+232                                      supplier        8   
+233                                      ignition        8   
+234                                Total Solids %        8   
+235                                          temp        8   
+236                                   calculation        8   
+237                                       titrant        8   
+238                                           per        8   
+239                                       residue        8   
+240                                           xxx        8   
+241                                        maleic        8   
+242                                    instrument        8   
+243                                      official        8   
+244                                           wia        8   
+245                                     monograph        8   
+246                                            eu        8   
+247                                       fumaric        8   
+248                                  instructions        8   
+249                                         assay        8   
+250                                         acids        8   
+251                                   instruction        8   
+252                                        others        9   
+253                                      official        9   
+254                                        method        9   
+255                                           fcc        9   
+256                                     monograph        9   
+257  Standard Composition - MALIC ACID - Value, %        9   
+258                                Total Solids %        9   
+259                                      supplier        9   
+260                                    instrument        9   
+261                                       titrant        9   
+262                                       solvent        9   
+263                                           xxx        9   
+264                                       residue        9   
+265                                   calculation        9   
+266                                          temp        9   
+267                                           per        9   
+268                                         acids        9   
+269                                       reagent        9   
+270                                  instructions        9   
+271                                      ignition        9   
+272                                   instruction        9   
+273                                          meoh        9   
+274                                         assay        9   
+275                                            kf        9   
+276                                            eu        9   
+277                                           wia        9   
+278                                        maleic        9   
+279                                       fumaric        9   
+280                                        others       10   
+281                                      ignition       10   
+282                                       residue       10   
+283  Standard Composition - MALIC ACID - Value, %       10   
+284                                      supplier       10   
+285                                           per       10   
+286                                       solvent       10   
+287                                        method       10   
+288                                       titrant       10   
+289                                Total Solids %       10   
+290                                           xxx       10   
+291                                  instructions       10   
+292                                           fcc       10   
+293                                          temp       10   
+294                                          meoh       10   
+295                                   calculation       10   
+296                                            eu       10   
+297                                      official       10   
+298                                       reagent       10   
+299                                         assay       10   
+300                                         acids       10   
+301                                     monograph       10   
+302                                       fumaric       10   
+303                                            kf       10   
+304                                   instruction       10   
+305                                    instrument       10   
+306                                           wia       10   
+307                                        maleic       10   
+308                                        others       11   
+309                                   calculation       11   
+310                                Total Solids %       11   
+311  Standard Composition - MALIC ACID - Value, %       11   
+312                                        method       11   
+313                                      supplier       11   
+314                                       solvent       11   
+315                                           xxx       11   
+316                                       titrant       11   
+317                                           per       11   
+318                                            eu       11   
+319                                          temp       11   
+320                                           fcc       11   
+321                                       residue       11   
+322                                      ignition       11   
+323                                    instrument       11   
+324                                       reagent       11   
+325                                      official       11   
+326                                            kf       11   
+327                                           wia       11   
+328                                  instructions       11   
+329                                   instruction       11   
+330                                     monograph       11   
+331                                         acids       11   
+332                                          meoh       11   
+333                                        maleic       11   
+334                                         assay       11   
+335                                       fumaric       11   
+336                                   instruction       12   
+337                                        others       12   
+338                                           per       12   
+339                                    instrument       12   
+340                                           fcc       12   
+341  Standard Composition - MALIC ACID - Value, %       12   
+342                                        method       12   
+343                                Total Solids %       12   
+344                                  instructions       12   
+345                                      supplier       12   
+346                                       titrant       12   
+347                                       solvent       12   
+348                                          temp       12   
+349                                           xxx       12   
+350                                         assay       12   
+351                                       residue       12   
+352                                            kf       12   
+353                                      official       12   
+354                                      ignition       12   
+355                                     monograph       12   
+356                                       reagent       12   
+357                                          meoh       12   
+358                                            eu       12   
+359                                   calculation       12   
+360                                        maleic       12   
+361                                       fumaric       12   
+362                                         acids       12   
+363                                           wia       12   
+
+     feature_imp_scaled_vals  Region    Model  
+0                   1.000000  Global  Model 1  
+1                   0.987859  Global  Model 1  
+2                   0.777953  Global  Model 1  
+3                   0.679285  Global  Model 1  
+4                   0.640502  Global  Model 1  
+5                   0.131173  Global  Model 1  
+6                   0.097961  Global  Model 1  
+7                   0.077924  Global  Model 1  
+8                   0.073551  Global  Model 1  
+9                   0.047219  Global  Model 1  
+10                  0.023332  Global  Model 1  
+11                  0.022346  Global  Model 1  
+12                  0.021945  Global  Model 1  
+13                  0.019148  Global  Model 1  
+14                  0.018268  Global  Model 1  
+15                  0.017918  Global  Model 1  
+16                  0.017045  Global  Model 1  
+17                  0.015185  Global  Model 1  
+18                  0.012470  Global  Model 1  
+19                  0.011549  Global  Model 1  
+20                  0.010554  Global  Model 1  
+21                  0.009368  Global  Model 1  
+22                  0.007030  Global  Model 1  
+23                  0.005004  Global  Model 1  
+24                  0.004232  Global  Model 1  
+25                  0.003112  Global  Model 1  
+26                  0.000400  Global  Model 1  
+27                  0.000000  Global  Model 1  
+28                  1.000000  Global  Model 1  
+29                  0.877044  Global  Model 1  
+30                  0.692756  Global  Model 1  
+31                  0.145701  Global  Model 1  
+32                  0.126039  Global  Model 1  
+33                  0.075914  Global  Model 1  
+34                  0.072436  Global  Model 1  
+35                  0.061257  Global  Model 1  
+36                  0.056070  Global  Model 1  
+37                  0.051037  Global  Model 1  
+38                  0.046370  Global  Model 1  
+39                  0.044881  Global  Model 1  
+40                  0.043002  Global  Model 1  
+41                  0.034449  Global  Model 1  
+42                  0.025638  Global  Model 1  
+43                  0.024313  Global  Model 1  
+44                  0.023460  Global  Model 1  
+45                  0.019084  Global  Model 1  
+46                  0.017553  Global  Model 1  
+47                  0.015939  Global  Model 1  
+48                  0.012559  Global  Model 1  
+49                  0.012296  Global  Model 1  
+50                  0.011270  Global  Model 1  
+51                  0.009817  Global  Model 1  
+52                  0.008166  Global  Model 1  
+53                  0.007843  Global  Model 1  
+54                  0.006629  Global  Model 1  
+55                  0.000000  Global  Model 1  
+56                  1.000000  Global  Model 1  
+57                  0.572546  Global  Model 1  
+58                  0.140545  Global  Model 1  
+59                  0.136980  Global  Model 1  
+60                  0.090113  Global  Model 1  
+61                  0.081539  Global  Model 1  
+62                  0.081038  Global  Model 1  
+63                  0.073642  Global  Model 1  
+64                  0.071935  Global  Model 1  
+65                  0.058622  Global  Model 1  
+66                  0.053979  Global  Model 1  
+67                  0.048638  Global  Model 1  
+68                  0.038397  Global  Model 1  
+69                  0.032819  Global  Model 1  
+70                  0.024276  Global  Model 1  
+71                  0.021470  Global  Model 1  
+72                  0.019930  Global  Model 1  
+73                  0.017876  Global  Model 1  
+74                  0.017466  Global  Model 1  
+75                  0.017010  Global  Model 1  
+76                  0.013610  Global  Model 1  
+77                  0.012944  Global  Model 1  
+78                  0.012756  Global  Model 1  
+79                  0.012130  Global  Model 1  
+80                  0.011643  Global  Model 1  
+81                  0.011310  Global  Model 1  
+82                  0.009720  Global  Model 1  
+83                  0.000000  Global  Model 1  
+84                  1.000000  Global  Model 1  
+85                  0.501341  Global  Model 1  
+86                  0.485661  Global  Model 1  
+87                  0.454993  Global  Model 1  
+88                  0.435241  Global  Model 1  
+89                  0.319079  Global  Model 1  
+90                  0.227224  Global  Model 1  
+91                  0.133387  Global  Model 1  
+92                  0.123485  Global  Model 1  
+93                  0.111059  Global  Model 1  
+94                  0.108132  Global  Model 1  
+95                  0.094405  Global  Model 1  
+96                  0.082369  Global  Model 1  
+97                  0.080855  Global  Model 1  
+98                  0.066751  Global  Model 1  
+99                  0.054863  Global  Model 1  
+100                 0.049560  Global  Model 1  
+101                 0.047687  Global  Model 1  
+102                 0.033294  Global  Model 1  
+103                 0.032888  Global  Model 1  
+104                 0.032268  Global  Model 1  
+105                 0.027282  Global  Model 1  
+106                 0.026456  Global  Model 1  
+107                 0.021100  Global  Model 1  
+108                 0.013317  Global  Model 1  
+109                 0.012494  Global  Model 1  
+110                 0.000505  Global  Model 1  
+111                 0.000000  Global  Model 1  
+112                 1.000000  Global  Model 1  
+113                 0.895539  Global  Model 1  
+114                 0.831572  Global  Model 1  
+115                 0.798423  Global  Model 1  
+116                 0.714910  Global  Model 1  
+117                 0.705986  Global  Model 1  
+118                 0.425404  Global  Model 1  
+119                 0.314583  Global  Model 1  
+120                 0.135192  Global  Model 1  
+121                 0.128829  Global  Model 1  
+122                 0.116327  Global  Model 1  
+123                 0.107872  Global  Model 1  
+124                 0.107698  Global  Model 1  
+125                 0.093903  Global  Model 1  
+126                 0.093536  Global  Model 1  
+127                 0.086042  Global  Model 1  
+128                 0.074317  Global  Model 1  
+129                 0.048211  Global  Model 1  
+130                 0.048135  Global  Model 1  
+131                 0.025804  Global  Model 1  
+132                 0.018858  Global  Model 1  
+133                 0.017199  Global  Model 1  
+134                 0.015640  Global  Model 1  
+135                 0.014751  Global  Model 1  
+136                 0.009925  Global  Model 1  
+137                 0.009463  Global  Model 1  
+138                 0.001831  Global  Model 1  
+139                 0.000000  Global  Model 1  
+140                 1.000000  Global  Model 1  
+141                 0.915943  Global  Model 1  
+142                 0.386014  Global  Model 1  
+143                 0.126718  Global  Model 1  
+144                 0.053228  Global  Model 1  
+145                 0.050145  Global  Model 1  
+146                 0.040770  Global  Model 1  
+147                 0.039728  Global  Model 1  
+148                 0.038775  Global  Model 1  
+149                 0.034085  Global  Model 1  
+150                 0.032270  Global  Model 1  
+151                 0.030408  Global  Model 1  
+152                 0.025280  Global  Model 1  
+153                 0.017653  Global  Model 1  
+154                 0.014130  Global  Model 1  
+155                 0.011511  Global  Model 1  
+156                 0.011177  Global  Model 1  
+157                 0.010462  Global  Model 1  
+158                 0.007182  Global  Model 1  
+159                 0.007164  Global  Model 1  
+160                 0.006549  Global  Model 1  
+161                 0.006306  Global  Model 1  
+162                 0.006239  Global  Model 1  
+163                 0.006075  Global  Model 1  
+164                 0.004694  Global  Model 1  
+165                 0.003288  Global  Model 1  
+166                 0.001784  Global  Model 1  
+167                 0.000000  Global  Model 1  
+168                 1.000000  Global  Model 1  
+169                 0.226385  Global  Model 1  
+170                 0.193334  Global  Model 1  
+171                 0.034038  Global  Model 1  
+172                 0.028294  Global  Model 1  
+173                 0.026562  Global  Model 1  
+174                 0.024359  Global  Model 1  
+175                 0.021694  Global  Model 1  
+176                 0.018939  Global  Model 1  
+177                 0.018665  Global  Model 1  
+178                 0.016331  Global  Model 1  
+179                 0.012180  Global  Model 1  
+180                 0.012171  Global  Model 1  
+181                 0.010735  Global  Model 1  
+182                 0.009416  Global  Model 1  
+183                 0.008440  Global  Model 1  
+184                 0.006040  Global  Model 1  
+185                 0.005257  Global  Model 1  
+186                 0.005135  Global  Model 1  
+187                 0.005130  Global  Model 1  
+188                 0.004554  Global  Model 1  
+189                 0.004540  Global  Model 1  
+190                 0.003312  Global  Model 1  
+191                 0.002927  Global  Model 1  
+192                 0.002739  Global  Model 1  
+193                 0.002528  Global  Model 1  
+194                 0.000569  Global  Model 1  
+195                 0.000000  Global  Model 1  
+196                 1.000000  Global  Model 1  
+197                 0.976985  Global  Model 1  
+198                 0.975782  Global  Model 1  
+199                 0.858033  Global  Model 1  
+200                 0.204599  Global  Model 1  
+201                 0.203238  Global  Model 1  
+202                 0.154460  Global  Model 1  
+203                 0.132779  Global  Model 1  
+204                 0.126756  Global  Model 1  
+205                 0.115800  Global  Model 1  
+206                 0.100154  Global  Model 1  
+207                 0.088543  Global  Model 1  
+208                 0.088041  Global  Model 1  
+209                 0.073601  Global  Model 1  
+210                 0.066198  Global  Model 1  
+211                 0.059320  Global  Model 1  
+212                 0.033195  Global  Model 1  
+213                 0.032373  Global  Model 1  
+214                 0.031995  Global  Model 1  
+215                 0.031250  Global  Model 1  
+216                 0.030426  Global  Model 1  
+217                 0.026164  Global  Model 1  
+218                 0.022419  Global  Model 1  
+219                 0.019792  Global  Model 1  
+220                 0.014855  Global  Model 1  
+221                 0.014457  Global  Model 1  
+222                 0.003154  Global  Model 1  
+223                 0.000000  Global  Model 1  
+224                 1.000000  Global  Model 1  
+225                 0.868928  Global  Model 1  
+226                 0.837541  Global  Model 1  
+227                 0.751267  Global  Model 1  
+228                 0.217408  Global  Model 1  
+229                 0.198422  Global  Model 1  
+230                 0.190595  Global  Model 1  
+231                 0.136319  Global  Model 1  
+232                 0.130092  Global  Model 1  
+233                 0.118175  Global  Model 1  
+234                 0.117637  Global  Model 1  
+235                 0.105237  Global  Model 1  
+236                 0.087543  Global  Model 1  
+237                 0.063879  Global  Model 1  
+238                 0.063724  Global  Model 1  
+239                 0.055006  Global  Model 1  
+240                 0.052781  Global  Model 1  
+241                 0.050152  Global  Model 1  
+242                 0.038197  Global  Model 1  
+243                 0.029039  Global  Model 1  
+244                 0.025325  Global  Model 1  
+245                 0.025060  Global  Model 1  
+246                 0.020942  Global  Model 1  
+247                 0.020045  Global  Model 1  
+248                 0.018262  Global  Model 1  
+249                 0.009678  Global  Model 1  
+250                 0.008347  Global  Model 1  
+251                 0.000000  Global  Model 1  
+252                 1.000000  Global  Model 1  
+253                 0.806914  Global  Model 1  
+254                 0.683785  Global  Model 1  
+255                 0.665446  Global  Model 1  
+256                 0.646510  Global  Model 1  
+257                 0.369623  Global  Model 1  
+258                 0.268388  Global  Model 1  
+259                 0.156686  Global  Model 1  
+260                 0.151912  Global  Model 1  
+261                 0.141832  Global  Model 1  
+262                 0.107881  Global  Model 1  
+263                 0.107877  Global  Model 1  
+264                 0.105147  Global  Model 1  
+265                 0.083308  Global  Model 1  
+266                 0.070605  Global  Model 1  
+267                 0.058719  Global  Model 1  
+268                 0.050630  Global  Model 1  
+269                 0.047198  Global  Model 1  
+270                 0.044781  Global  Model 1  
+271                 0.043508  Global  Model 1  
+272                 0.039411  Global  Model 1  
+273                 0.037279  Global  Model 1  
+274                 0.034957  Global  Model 1  
+275                 0.024084  Global  Model 1  
+276                 0.023836  Global  Model 1  
+277                 0.023066  Global  Model 1  
+278                 0.014653  Global  Model 1  
+279                 0.000000  Global  Model 1  
+280                 1.000000  Global  Model 1  
+281                 0.533323  Global  Model 1  
+282                 0.514008  Global  Model 1  
+283                 0.225541  Global  Model 1  
+284                 0.170517  Global  Model 1  
+285                 0.152431  Global  Model 1  
+286                 0.124809  Global  Model 1  
+287                 0.121006  Global  Model 1  
+288                 0.119339  Global  Model 1  
+289                 0.099687  Global  Model 1  
+290                 0.051999  Global  Model 1  
+291                 0.050077  Global  Model 1  
+292                 0.048863  Global  Model 1  
+293                 0.047844  Global  Model 1  
+294                 0.044547  Global  Model 1  
+295                 0.036476  Global  Model 1  
+296                 0.035440  Global  Model 1  
+297                 0.031113  Global  Model 1  
+298                 0.030934  Global  Model 1  
+299                 0.029730  Global  Model 1  
+300                 0.029169  Global  Model 1  
+301                 0.021911  Global  Model 1  
+302                 0.018936  Global  Model 1  
+303                 0.015816  Global  Model 1  
+304                 0.013918  Global  Model 1  
+305                 0.011778  Global  Model 1  
+306                 0.009772  Global  Model 1  
+307                 0.000000  Global  Model 1  
+308                 1.000000  Global  Model 1  
+309                 0.896403  Global  Model 1  
+310                 0.493699  Global  Model 1  
+311                 0.306841  Global  Model 1  
+312                 0.119358  Global  Model 1  
+313                 0.097142  Global  Model 1  
+314                 0.082820  Global  Model 1  
+315                 0.076041  Global  Model 1  
+316                 0.075530  Global  Model 1  
+317                 0.074456  Global  Model 1  
+318                 0.065476  Global  Model 1  
+319                 0.060396  Global  Model 1  
+320                 0.059356  Global  Model 1  
+321                 0.047690  Global  Model 1  
+322                 0.043544  Global  Model 1  
+323                 0.034668  Global  Model 1  
+324                 0.033515  Global  Model 1  
+325                 0.027219  Global  Model 1  
+326                 0.027032  Global  Model 1  
+327                 0.022885  Global  Model 1  
+328                 0.019523  Global  Model 1  
+329                 0.018637  Global  Model 1  
+330                 0.011484  Global  Model 1  
+331                 0.010769  Global  Model 1  
+332                 0.009494  Global  Model 1  
+333                 0.008347  Global  Model 1  
+334                 0.003322  Global  Model 1  
+335                 0.000000  Global  Model 1  
+336                 1.000000  Global  Model 1  
+337                 0.913753  Global  Model 1  
+338                 0.876988  Global  Model 1  
+339                 0.702825  Global  Model 1  
+340                 0.599914  Global  Model 1  
+341                 0.571202  Global  Model 1  
+342                 0.156715  Global  Model 1  
+343                 0.147595  Global  Model 1  
+344                 0.140986  Global  Model 1  
+345                 0.105352  Global  Model 1  
+346                 0.103092  Global  Model 1  
+347                 0.098206  Global  Model 1  
+348                 0.088828  Global  Model 1  
+349                 0.057626  Global  Model 1  
+350                 0.050051  Global  Model 1  
+351                 0.043872  Global  Model 1  
+352                 0.042896  Global  Model 1  
+353                 0.040229  Global  Model 1  
+354                 0.035465  Global  Model 1  
+355                 0.032556  Global  Model 1  
+356                 0.024918  Global  Model 1  
+357                 0.022962  Global  Model 1  
+358                 0.020868  Global  Model 1  
+359                 0.015328  Global  Model 1  
+360                 0.014966  Global  Model 1  
+361                 0.010355  Global  Model 1  
+362                 0.006845  Global  Model 1  
+363                 0.000000  Global  Model 1  ","                                     feature_name  Model 2  \
+0                                          others        0   
+1                                          method        0   
+2                                             fcc        0   
+3                                         solvent        0   
+4    Standard Composition - MALIC ACID - Value, %        0   
+5                                              eu        0   
+6                                         titrant        0   
+7                                            temp        0   
+8                                  Total Solids %        0   
+9                                             xxx        0   
+10                                       supplier        0   
+11                                     instrument        0   
+12                                        reagent        0   
+13                                        residue        0   
+14                                            per        0   
+15                                       ignition        0   
+16                                             kf        0   
+17                                       official        0   
+18                                         maleic        0   
+19                                            wia        0   
+20                                           meoh        0   
+21                                    instruction        0   
+22                                          acids        0   
+23                                   instructions        0   
+24                                      monograph        0   
+25                                        fumaric        0   
+26                                          assay        0   
+27                                    calculation        0   
+28                                        solvent        1   
+29                                         others        1   
+30                                        titrant        1   
+31                                            xxx        1   
+32                                           temp        1   
+33                                         method        1   
+34                                            fcc        1   
+35   Standard Composition - MALIC ACID - Value, %        1   
+36                                            per        1   
+37                                            wia        1   
+38                                       supplier        1   
+39                                 Total Solids %        1   
+40                                     instrument        1   
+41                                          assay        1   
+42                                         maleic        1   
+43                                        reagent        1   
+44                                           meoh        1   
+45                                   instructions        1   
+46                                        fumaric        1   
+47                                          acids        1   
+48                                        residue        1   
+49                                             eu        1   
+50                                             kf        1   
+51                                      monograph        1   
+52                                       ignition        1   
+53                                       official        1   
+54                                    instruction        1   
+55                                    calculation        1   
+56                                         others        2   
+57                                     instrument        2   
+58                                            fcc        2   
+59                                   instructions        2   
+60                                            per        2   
+61   Standard Composition - MALIC ACID - Value, %        2   
+62                                    instruction        2   
+63                                       supplier        2   
+64                                 Total Solids %        2   
+65                                       ignition        2   
+66                                         method        2   
+67                                        reagent        2   
+68                                            xxx        2   
+69                                       official        2   
+70                                         maleic        2   
+71                                        solvent        2   
+72                                        titrant        2   
+73                                        fumaric        2   
+74                                          acids        2   
+75                                           temp        2   
+76                                        residue        2   
+77                                            wia        2   
+78                                      monograph        2   
+79                                          assay        2   
+80                                           meoh        2   
+81                                             eu        2   
+82                                             kf        2   
+83                                    calculation        2   
+84                                         method        3   
+85                                         others        3   
+86                                       supplier        3   
+87   Standard Composition - MALIC ACID - Value, %        3   
+88                                            fcc        3   
+89                                 Total Solids %        3   
+90                                        solvent        3   
+91                                     instrument        3   
+92                                        titrant        3   
+93                                            xxx        3   
+94                                            per        3   
+95                                       ignition        3   
+96                                          assay        3   
+97                                        residue        3   
+98                                           temp        3   
+99                                       official        3   
+100                                          meoh        3   
+101                                           wia        3   
+102                                            kf        3   
+103                                       reagent        3   
+104                                       fumaric        3   
+105                                         acids        3   
+106                                            eu        3   
+107                                  instructions        3   
+108                                        maleic        3   
+109                                     monograph        3   
+110                                   instruction        3   
+111                                   calculation        3   
+112                                        others        4   
+113                                           wia        4   
+114                                        maleic        4   
+115                                         assay        4   
+116                                         acids        4   
+117                                       fumaric        4   
+118                                        method        4   
+119  Standard Composition - MALIC ACID - Value, %        4   
+120                                       solvent        4   
+121                                           xxx        4   
+122                                    instrument        4   
+123                                      supplier        4   
+124                                          temp        4   
+125                                           fcc        4   
+126                                Total Solids %        4   
+127                                      official        4   
+128                                           per        4   
+129                                   instruction        4   
+130                                       residue        4   
+131                                       titrant        4   
+132                                            kf        4   
+133                                      ignition        4   
+134                                       reagent        4   
+135                                            eu        4   
+136                                          meoh        4   
+137                                     monograph        4   
+138                                  instructions        4   
+139                                   calculation        4   
+140                                           fcc        5   
+141                                        others        5   
+142                                      official        5   
+143                                Total Solids %        5   
+144                                        method        5   
+145                                     monograph        5   
+146  Standard Composition - MALIC ACID - Value, %        5   
+147                                       solvent        5   
+148                                      supplier        5   
+149                                       titrant        5   
+150                                    instrument        5   
+151                                          temp        5   
+152                                           per        5   
+153                                   instruction        5   
+154                                           xxx        5   
+155                                       residue        5   
+156                                            eu        5   
+157                                      ignition        5   
+158                                  instructions        5   
+159                                           wia        5   
+160                                          meoh        5   
+161                                       fumaric        5   
+162                                       reagent        5   
+163                                         assay        5   
+164                                            kf        5   
+165                                         acids        5   
+166                                        maleic        5   
+167                                   calculation        5   
+168                                        others        6   
+169                                       reagent        6   
+170                                            kf        6   
+171                                          meoh        6   
+172                                       solvent        6   
+173                                           fcc        6   
+174                                        method        6   
+175  Standard Composition - MALIC ACID - Value, %        6   
+176                                      supplier        6   
+177                                      official        6   
+178                                Total Solids %        6   
+179                                        maleic        6   
+180                                      ignition        6   
+181                                    instrument        6   
+182                                       titrant        6   
+183                                           per        6   
+184                                          temp        6   
+185                                       fumaric        6   
+186                                         assay        6   
+187                                           xxx        6   
+188                                       residue        6   
+189                                           wia        6   
+190                                  instructions        6   
+191                                         acids        6   
+192                                   instruction        6   
+193                                            eu        6   
+194                                     monograph        6   
+195                                   calculation        6   
+196                                            eu        7   
+197                                        others        7   
+198                                Total Solids %        7   
+199  Standard Composition - MALIC ACID - Value, %        7   
+200                                        method        7   
+201                                       solvent        7   
+202                                       titrant        7   
+203                                      supplier        7   
+204                                           fcc        7   
+205                                       residue        7   
+206                                           xxx        7   
+207                                    instrument        7   
+208                                      ignition        7   
+209                                          temp        7   
+210                                            kf        7   
+211                                         acids        7   
+212                                   instruction        7   
+213                                       reagent        7   
+214                                   calculation        7   
+215                                     monograph        7   
+216                                         assay        7   
+217                                           wia        7   
+218                                           per        7   
+219                                          meoh        7   
+220                                      official        7   
+221                                  instructions        7   
+222                                        maleic        7   
+223                                       fumaric        7   
+224                                        others        8   
+225                                      ignition        8   
+226                                       residue        8   
+227                                        method        8   
+228                                       titrant        8   
+229                                      supplier        8   
+230                                Total Solids %        8   
+231  Standard Composition - MALIC ACID - Value, %        8   
+232                                           fcc        8   
+233                                          temp        8   
+234                                           per        8   
+235                                    instrument        8   
+236                                       solvent        8   
+237                                           xxx        8   
+238                                          meoh        8   
+239                                            kf        8   
+240                                  instructions        8   
+241                                           wia        8   
+242                                       reagent        8   
+243                                        maleic        8   
+244                                            eu        8   
+245                                   instruction        8   
+246                                         assay        8   
+247                                      official        8   
+248                                       fumaric        8   
+249                                     monograph        8   
+250                                         acids        8   
+251                                   calculation        8   
+252                                        others        9   
+253                                   instruction        9   
+254                                    instrument        9   
+255                                           fcc        9   
+256                                           per        9   
+257  Standard Composition - MALIC ACID - Value, %        9   
+258                                  instructions        9   
+259                                       solvent        9   
+260                                            eu        9   
+261                                      supplier        9   
+262                                        method        9   
+263                                           xxx        9   
+264                                Total Solids %        9   
+265                                      ignition        9   
+266                                       residue        9   
+267                                     monograph        9   
+268                                           wia        9   
+269                                       reagent        9   
+270                                          temp        9   
+271                                       titrant        9   
+272                                       fumaric        9   
+273                                            kf        9   
+274                                          meoh        9   
+275                                         assay        9   
+276                                         acids        9   
+277                                        maleic        9   
+278                                      official        9   
+279                                   calculation        9   
+
+     feature_imp_scaled_vals  Region    Model  
+0                   1.000000  Global  Model 2  
+1                   0.149120  Global  Model 2  
+2                   0.123790  Global  Model 2  
+3                   0.115107  Global  Model 2  
+4                   0.096220  Global  Model 2  
+5                   0.067834  Global  Model 2  
+6                   0.066791  Global  Model 2  
+7                   0.057679  Global  Model 2  
+8                   0.056259  Global  Model 2  
+9                   0.052891  Global  Model 2  
+10                  0.051902  Global  Model 2  
+11                  0.042706  Global  Model 2  
+12                  0.036357  Global  Model 2  
+13                  0.033738  Global  Model 2  
+14                  0.030212  Global  Model 2  
+15                  0.026262  Global  Model 2  
+16                  0.020620  Global  Model 2  
+17                  0.019436  Global  Model 2  
+18                  0.013702  Global  Model 2  
+19                  0.012858  Global  Model 2  
+20                  0.012086  Global  Model 2  
+21                  0.010053  Global  Model 2  
+22                  0.007435  Global  Model 2  
+23                  0.006748  Global  Model 2  
+24                  0.005674  Global  Model 2  
+25                  0.002918  Global  Model 2  
+26                  0.002338  Global  Model 2  
+27                  0.000000  Global  Model 2  
+28                  1.000000  Global  Model 2  
+29                  0.614411  Global  Model 2  
+30                  0.610409  Global  Model 2  
+31                  0.524772  Global  Model 2  
+32                  0.484281  Global  Model 2  
+33                  0.080694  Global  Model 2  
+34                  0.060066  Global  Model 2  
+35                  0.054368  Global  Model 2  
+36                  0.040600  Global  Model 2  
+37                  0.039531  Global  Model 2  
+38                  0.033165  Global  Model 2  
+39                  0.031063  Global  Model 2  
+40                  0.027472  Global  Model 2  
+41                  0.016003  Global  Model 2  
+42                  0.015591  Global  Model 2  
+43                  0.013824  Global  Model 2  
+44                  0.011167  Global  Model 2  
+45                  0.009457  Global  Model 2  
+46                  0.009064  Global  Model 2  
+47                  0.007974  Global  Model 2  
+48                  0.007665  Global  Model 2  
+49                  0.007525  Global  Model 2  
+50                  0.007161  Global  Model 2  
+51                  0.005811  Global  Model 2  
+52                  0.004963  Global  Model 2  
+53                  0.001909  Global  Model 2  
+54                  0.001516  Global  Model 2  
+55                  0.000000  Global  Model 2  
+56                  1.000000  Global  Model 2  
+57                  0.742584  Global  Model 2  
+58                  0.727786  Global  Model 2  
+59                  0.586294  Global  Model 2  
+60                  0.551513  Global  Model 2  
+61                  0.410049  Global  Model 2  
+62                  0.308734  Global  Model 2  
+63                  0.201474  Global  Model 2  
+64                  0.142832  Global  Model 2  
+65                  0.114793  Global  Model 2  
+66                  0.100998  Global  Model 2  
+67                  0.086005  Global  Model 2  
+68                  0.085736  Global  Model 2  
+69                  0.079319  Global  Model 2  
+70                  0.076177  Global  Model 2  
+71                  0.067902  Global  Model 2  
+72                  0.062313  Global  Model 2  
+73                  0.055587  Global  Model 2  
+74                  0.044634  Global  Model 2  
+75                  0.043611  Global  Model 2  
+76                  0.041460  Global  Model 2  
+77                  0.039805  Global  Model 2  
+78                  0.035368  Global  Model 2  
+79                  0.034999  Global  Model 2  
+80                  0.030670  Global  Model 2  
+81                  0.018726  Global  Model 2  
+82                  0.007679  Global  Model 2  
+83                  0.000000  Global  Model 2  
+84                  1.000000  Global  Model 2  
+85                  0.746790  Global  Model 2  
+86                  0.655096  Global  Model 2  
+87                  0.144482  Global  Model 2  
+88                  0.121748  Global  Model 2  
+89                  0.119779  Global  Model 2  
+90                  0.109490  Global  Model 2  
+91                  0.093749  Global  Model 2  
+92                  0.085261  Global  Model 2  
+93                  0.075889  Global  Model 2  
+94                  0.055594  Global  Model 2  
+95                  0.055122  Global  Model 2  
+96                  0.039837  Global  Model 2  
+97                  0.039045  Global  Model 2  
+98                  0.038579  Global  Model 2  
+99                  0.036540  Global  Model 2  
+100                 0.035861  Global  Model 2  
+101                 0.033672  Global  Model 2  
+102                 0.032868  Global  Model 2  
+103                 0.031602  Global  Model 2  
+104                 0.026367  Global  Model 2  
+105                 0.021424  Global  Model 2  
+106                 0.015498  Global  Model 2  
+107                 0.010910  Global  Model 2  
+108                 0.010363  Global  Model 2  
+109                 0.009435  Global  Model 2  
+110                 0.001182  Global  Model 2  
+111                 0.000000  Global  Model 2  
+112                 1.000000  Global  Model 2  
+113                 0.531911  Global  Model 2  
+114                 0.440729  Global  Model 2  
+115                 0.356816  Global  Model 2  
+116                 0.333429  Global  Model 2  
+117                 0.321392  Global  Model 2  
+118                 0.127865  Global  Model 2  
+119                 0.122084  Global  Model 2  
+120                 0.119667  Global  Model 2  
+121                 0.088824  Global  Model 2  
+122                 0.078826  Global  Model 2  
+123                 0.074844  Global  Model 2  
+124                 0.055006  Global  Model 2  
+125                 0.049686  Global  Model 2  
+126                 0.040960  Global  Model 2  
+127                 0.038962  Global  Model 2  
+128                 0.035631  Global  Model 2  
+129                 0.031995  Global  Model 2  
+130                 0.030806  Global  Model 2  
+131                 0.024812  Global  Model 2  
+132                 0.021551  Global  Model 2  
+133                 0.021408  Global  Model 2  
+134                 0.020760  Global  Model 2  
+135                 0.019329  Global  Model 2  
+136                 0.018388  Global  Model 2  
+137                 0.011007  Global  Model 2  
+138                 0.007841  Global  Model 2  
+139                 0.000000  Global  Model 2  
+140                 1.000000  Global  Model 2  
+141                 0.878268  Global  Model 2  
+142                 0.604525  Global  Model 2  
+143                 0.398773  Global  Model 2  
+144                 0.384111  Global  Model 2  
+145                 0.311815  Global  Model 2  
+146                 0.188119  Global  Model 2  
+147                 0.172689  Global  Model 2  
+148                 0.122985  Global  Model 2  
+149                 0.117240  Global  Model 2  
+150                 0.097117  Global  Model 2  
+151                 0.060461  Global  Model 2  
+152                 0.055502  Global  Model 2  
+153                 0.052914  Global  Model 2  
+154                 0.049396  Global  Model 2  
+155                 0.048361  Global  Model 2  
+156                 0.039985  Global  Model 2  
+157                 0.036105  Global  Model 2  
+158                 0.032696  Global  Model 2  
+159                 0.032606  Global  Model 2  
+160                 0.029588  Global  Model 2  
+161                 0.026798  Global  Model 2  
+162                 0.026357  Global  Model 2  
+163                 0.025146  Global  Model 2  
+164                 0.024455  Global  Model 2  
+165                 0.019887  Global  Model 2  
+166                 0.017829  Global  Model 2  
+167                 0.000000  Global  Model 2  
+168                 1.000000  Global  Model 2  
+169                 0.712135  Global  Model 2  
+170                 0.502937  Global  Model 2  
+171                 0.449033  Global  Model 2  
+172                 0.227638  Global  Model 2  
+173                 0.148149  Global  Model 2  
+174                 0.141238  Global  Model 2  
+175                 0.133720  Global  Model 2  
+176                 0.099189  Global  Model 2  
+177                 0.081918  Global  Model 2  
+178                 0.066348  Global  Model 2  
+179                 0.060535  Global  Model 2  
+180                 0.055548  Global  Model 2  
+181                 0.050502  Global  Model 2  
+182                 0.050200  Global  Model 2  
+183                 0.045999  Global  Model 2  
+184                 0.042006  Global  Model 2  
+185                 0.034942  Global  Model 2  
+186                 0.034411  Global  Model 2  
+187                 0.030190  Global  Model 2  
+188                 0.027263  Global  Model 2  
+189                 0.027152  Global  Model 2  
+190                 0.021875  Global  Model 2  
+191                 0.020749  Global  Model 2  
+192                 0.019354  Global  Model 2  
+193                 0.016309  Global  Model 2  
+194                 0.003466  Global  Model 2  
+195                 0.000000  Global  Model 2  
+196                 1.000000  Global  Model 2  
+197                 0.829471  Global  Model 2  
+198                 0.797787  Global  Model 2  
+199                 0.655458  Global  Model 2  
+200                 0.153324  Global  Model 2  
+201                 0.108771  Global  Model 2  
+202                 0.082495  Global  Model 2  
+203                 0.081547  Global  Model 2  
+204                 0.073931  Global  Model 2  
+205                 0.069532  Global  Model 2  
+206                 0.065146  Global  Model 2  
+207                 0.062184  Global  Model 2  
+208                 0.050572  Global  Model 2  
+209                 0.036637  Global  Model 2  
+210                 0.033000  Global  Model 2  
+211                 0.031782  Global  Model 2  
+212                 0.030370  Global  Model 2  
+213                 0.028334  Global  Model 2  
+214                 0.025863  Global  Model 2  
+215                 0.025423  Global  Model 2  
+216                 0.022765  Global  Model 2  
+217                 0.018617  Global  Model 2  
+218                 0.013530  Global  Model 2  
+219                 0.013158  Global  Model 2  
+220                 0.003535  Global  Model 2  
+221                 0.003057  Global  Model 2  
+222                 0.001903  Global  Model 2  
+223                 0.000000  Global  Model 2  
+224                 1.000000  Global  Model 2  
+225                 0.534803  Global  Model 2  
+226                 0.531539  Global  Model 2  
+227                 0.191887  Global  Model 2  
+228                 0.119345  Global  Model 2  
+229                 0.112780  Global  Model 2  
+230                 0.112202  Global  Model 2  
+231                 0.112117  Global  Model 2  
+232                 0.110853  Global  Model 2  
+233                 0.106865  Global  Model 2  
+234                 0.089791  Global  Model 2  
+235                 0.079277  Global  Model 2  
+236                 0.078151  Global  Model 2  
+237                 0.063904  Global  Model 2  
+238                 0.050472  Global  Model 2  
+239                 0.043237  Global  Model 2  
+240                 0.037993  Global  Model 2  
+241                 0.032768  Global  Model 2  
+242                 0.032124  Global  Model 2  
+243                 0.030894  Global  Model 2  
+244                 0.026217  Global  Model 2  
+245                 0.020072  Global  Model 2  
+246                 0.019826  Global  Model 2  
+247                 0.019493  Global  Model 2  
+248                 0.016634  Global  Model 2  
+249                 0.016030  Global  Model 2  
+250                 0.012858  Global  Model 2  
+251                 0.000000  Global  Model 2  
+252                 1.000000  Global  Model 2  
+253                 0.878112  Global  Model 2  
+254                 0.840057  Global  Model 2  
+255                 0.833699  Global  Model 2  
+256                 0.624319  Global  Model 2  
+257                 0.369083  Global  Model 2  
+258                 0.241885  Global  Model 2  
+259                 0.170335  Global  Model 2  
+260                 0.150772  Global  Model 2  
+261                 0.139953  Global  Model 2  
+262                 0.135282  Global  Model 2  
+263                 0.118372  Global  Model 2  
+264                 0.103554  Global  Model 2  
+265                 0.077880  Global  Model 2  
+266                 0.077501  Global  Model 2  
+267                 0.060795  Global  Model 2  
+268                 0.060113  Global  Model 2  
+269                 0.052985  Global  Model 2  
+270                 0.051913  Global  Model 2  
+271                 0.045737  Global  Model 2  
+272                 0.039601  Global  Model 2  
+273                 0.033045  Global  Model 2  
+274                 0.031687  Global  Model 2  
+275                 0.022291  Global  Model 2  
+276                 0.019380  Global  Model 2  
+277                 0.018968  Global  Model 2  
+278                 0.017278  Global  Model 2  
+279                 0.000000  Global  Model 2  "

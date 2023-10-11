@@ -1,0 +1,500 @@
+0,1
+"                                          feature_name  Model 1  \
+0    Nutrient Composition - Calories, kcal - Value,...        0   
+1    Particle size tests - Particle size, >600µm (#...        0   
+2                                               others        0   
+3                                                laser        0   
+4                                                sieve        0   
+5                                               sample        0   
+6                                           dryseiving        0   
+7                                                  dry        0   
+8                                                grade        0   
+9                                                  din        0   
+10                                                 min        0   
+11                                             seiving        0   
+12                                                  tm        0   
+13   Nutrient Composition - Calories, kcal - Value,...        1   
+14                                              others        1   
+15   Particle size tests - Particle size, >600µm (#...        1   
+16                                               laser        1   
+17                                               sieve        1   
+18                                              sample        1   
+19                                               grade        1   
+20                                                 dry        1   
+21                                          dryseiving        1   
+22                                                 min        1   
+23                                                  tm        1   
+24                                                 din        1   
+25                                             seiving        1   
+26   Particle size tests - Particle size, >600µm (#...        2   
+27                                              others        2   
+28   Nutrient Composition - Calories, kcal - Value,...        2   
+29                                               sieve        2   
+30                                             seiving        2   
+31                                                 dry        2   
+32                                          dryseiving        2   
+33                                               grade        2   
+34                                                 min        2   
+35                                                  tm        2   
+36                                              sample        2   
+37                                                 din        2   
+38                                               laser        2   
+39   Nutrient Composition - Calories, kcal - Value,...        3   
+40                                              others        3   
+41                                               laser        3   
+42   Particle size tests - Particle size, >600µm (#...        3   
+43                                               sieve        3   
+44                                               grade        3   
+45                                          dryseiving        3   
+46                                                 din        3   
+47                                                  tm        3   
+48                                                 min        3   
+49                                                 dry        3   
+50                                             seiving        3   
+51                                              sample        3   
+52   Nutrient Composition - Calories, kcal - Value,...        4   
+53   Particle size tests - Particle size, >600µm (#...        4   
+54                                              others        4   
+55                                               laser        4   
+56                                               sieve        4   
+57                                              sample        4   
+58                                          dryseiving        4   
+59                                               grade        4   
+60                                                 min        4   
+61                                                 din        4   
+62                                             seiving        4   
+63                                                  tm        4   
+64                                                 dry        4   
+65   Nutrient Composition - Calories, kcal - Value,...        5   
+66                                              others        5   
+67   Particle size tests - Particle size, >600µm (#...        5   
+68                                               laser        5   
+69                                               sieve        5   
+70                                               grade        5   
+71                                              sample        5   
+72                                          dryseiving        5   
+73                                                 min        5   
+74                                                 din        5   
+75                                                  tm        5   
+76                                                 dry        5   
+77                                             seiving        5   
+78                                              others        6   
+79   Particle size tests - Particle size, >600µm (#...        6   
+80                                               sieve        6   
+81   Nutrient Composition - Calories, kcal - Value,...        6   
+82                                               laser        6   
+83                                                 min        6   
+84                                          dryseiving        6   
+85                                                 din        6   
+86                                                 dry        6   
+87                                             seiving        6   
+88                                               grade        6   
+89                                                  tm        6   
+90                                              sample        6   
+91                                              others        7   
+92                                              sample        7   
+93   Particle size tests - Particle size, >600µm (#...        7   
+94                                                 min        7   
+95                                               grade        7   
+96                                                 din        7   
+97                                               sieve        7   
+98   Nutrient Composition - Calories, kcal - Value,...        7   
+99                                                 dry        7   
+100                                         dryseiving        7   
+101                                                 tm        7   
+102                                              laser        7   
+103                                            seiving        7   
+104  Nutrient Composition - Calories, kcal - Value,...        8   
+105                                             others        8   
+106  Particle size tests - Particle size, >600µm (#...        8   
+107                                              laser        8   
+108                                             sample        8   
+109                                              sieve        8   
+110                                                din        8   
+111                                              grade        8   
+112                                         dryseiving        8   
+113                                                dry        8   
+114                                                 tm        8   
+115                                            seiving        8   
+116                                                min        8   
+117                                             others        9   
+118                                              laser        9   
+119  Nutrient Composition - Calories, kcal - Value,...        9   
+120  Particle size tests - Particle size, >600µm (#...        9   
+121                                             sample        9   
+122                                              sieve        9   
+123                                         dryseiving        9   
+124                                                dry        9   
+125                                                min        9   
+126                                            seiving        9   
+127                                              grade        9   
+128                                                din        9   
+129                                                 tm        9   
+130  Nutrient Composition - Calories, kcal - Value,...       10   
+131                                             others       10   
+132  Particle size tests - Particle size, >600µm (#...       10   
+133                                              laser       10   
+134                                             sample       10   
+135                                              sieve       10   
+136                                                dry       10   
+137                                         dryseiving       10   
+138                                                 tm       10   
+139                                              grade       10   
+140                                                min       10   
+141                                            seiving       10   
+142                                                din       10   
+143                                             others       11   
+144  Particle size tests - Particle size, >600µm (#...       11   
+145                                                dry       11   
+146                                         dryseiving       11   
+147                                            seiving       11   
+148                                                 tm       11   
+149  Nutrient Composition - Calories, kcal - Value,...       11   
+150                                              sieve       11   
+151                                             sample       11   
+152                                              laser       11   
+153                                              grade       11   
+154                                                min       11   
+155                                                din       11   
+156  Nutrient Composition - Calories, kcal - Value,...       12   
+157  Particle size tests - Particle size, >600µm (#...       12   
+158                                             others       12   
+159                                              laser       12   
+160                                              grade       12   
+161                                              sieve       12   
+162                                                dry       12   
+163                                             sample       12   
+164                                         dryseiving       12   
+165                                                min       12   
+166                                            seiving       12   
+167                                                din       12   
+168                                                 tm       12   
+
+     feature_imp_scaled_vals  Region    Model  
+0                   1.000000  Global  Model 1  
+1                   0.442596  Global  Model 1  
+2                   0.139320  Global  Model 1  
+3                   0.020168  Global  Model 1  
+4                   0.014021  Global  Model 1  
+5                   0.007574  Global  Model 1  
+6                   0.002357  Global  Model 1  
+7                   0.001110  Global  Model 1  
+8                   0.000611  Global  Model 1  
+9                   0.000430  Global  Model 1  
+10                  0.000076  Global  Model 1  
+11                  0.000073  Global  Model 1  
+12                  0.000000  Global  Model 1  
+13                  1.000000  Global  Model 1  
+14                  0.070435  Global  Model 1  
+15                  0.062923  Global  Model 1  
+16                  0.015274  Global  Model 1  
+17                  0.005699  Global  Model 1  
+18                  0.005684  Global  Model 1  
+19                  0.001404  Global  Model 1  
+20                  0.001328  Global  Model 1  
+21                  0.000822  Global  Model 1  
+22                  0.000650  Global  Model 1  
+23                  0.000353  Global  Model 1  
+24                  0.000220  Global  Model 1  
+25                  0.000000  Global  Model 1  
+26                  1.000000  Global  Model 1  
+27                  0.179655  Global  Model 1  
+28                  0.152330  Global  Model 1  
+29                  0.073149  Global  Model 1  
+30                  0.020715  Global  Model 1  
+31                  0.015233  Global  Model 1  
+32                  0.009212  Global  Model 1  
+33                  0.008350  Global  Model 1  
+34                  0.008160  Global  Model 1  
+35                  0.006591  Global  Model 1  
+36                  0.005783  Global  Model 1  
+37                  0.003859  Global  Model 1  
+38                  0.000000  Global  Model 1  
+39                  1.000000  Global  Model 1  
+40                  0.103385  Global  Model 1  
+41                  0.051501  Global  Model 1  
+42                  0.046839  Global  Model 1  
+43                  0.005882  Global  Model 1  
+44                  0.002836  Global  Model 1  
+45                  0.002426  Global  Model 1  
+46                  0.002201  Global  Model 1  
+47                  0.001924  Global  Model 1  
+48                  0.001635  Global  Model 1  
+49                  0.001215  Global  Model 1  
+50                  0.000434  Global  Model 1  
+51                  0.000000  Global  Model 1  
+52                  1.000000  Global  Model 1  
+53                  0.077035  Global  Model 1  
+54                  0.061049  Global  Model 1  
+55                  0.024390  Global  Model 1  
+56                  0.005398  Global  Model 1  
+57                  0.005346  Global  Model 1  
+58                  0.002551  Global  Model 1  
+59                  0.002278  Global  Model 1  
+60                  0.001742  Global  Model 1  
+61                  0.001336  Global  Model 1  
+62                  0.001003  Global  Model 1  
+63                  0.000645  Global  Model 1  
+64                  0.000000  Global  Model 1  
+65                  1.000000  Global  Model 1  
+66                  0.087852  Global  Model 1  
+67                  0.057026  Global  Model 1  
+68                  0.016495  Global  Model 1  
+69                  0.005261  Global  Model 1  
+70                  0.003091  Global  Model 1  
+71                  0.001901  Global  Model 1  
+72                  0.001509  Global  Model 1  
+73                  0.001409  Global  Model 1  
+74                  0.001395  Global  Model 1  
+75                  0.001008  Global  Model 1  
+76                  0.000042  Global  Model 1  
+77                  0.000000  Global  Model 1  
+78                  1.000000  Global  Model 1  
+79                  0.504709  Global  Model 1  
+80                  0.484216  Global  Model 1  
+81                  0.149997  Global  Model 1  
+82                  0.037014  Global  Model 1  
+83                  0.035510  Global  Model 1  
+84                  0.028878  Global  Model 1  
+85                  0.028167  Global  Model 1  
+86                  0.019690  Global  Model 1  
+87                  0.016546  Global  Model 1  
+88                  0.014205  Global  Model 1  
+89                  0.009819  Global  Model 1  
+90                  0.000000  Global  Model 1  
+91                  1.000000  Global  Model 1  
+92                  0.833148  Global  Model 1  
+93                  0.803780  Global  Model 1  
+94                  0.603220  Global  Model 1  
+95                  0.584775  Global  Model 1  
+96                  0.497360  Global  Model 1  
+97                  0.346442  Global  Model 1  
+98                  0.264842  Global  Model 1  
+99                  0.143242  Global  Model 1  
+100                 0.048944  Global  Model 1  
+101                 0.012675  Global  Model 1  
+102                 0.007787  Global  Model 1  
+103                 0.000000  Global  Model 1  
+104                 1.000000  Global  Model 1  
+105                 0.079613  Global  Model 1  
+106                 0.065863  Global  Model 1  
+107                 0.024897  Global  Model 1  
+108                 0.003394  Global  Model 1  
+109                 0.002944  Global  Model 1  
+110                 0.002281  Global  Model 1  
+111                 0.002098  Global  Model 1  
+112                 0.001831  Global  Model 1  
+113                 0.001430  Global  Model 1  
+114                 0.000404  Global  Model 1  
+115                 0.000357  Global  Model 1  
+116                 0.000000  Global  Model 1  
+117                 1.000000  Global  Model 1  
+118                 0.595755  Global  Model 1  
+119                 0.398411  Global  Model 1  
+120                 0.192527  Global  Model 1  
+121                 0.025303  Global  Model 1  
+122                 0.020877  Global  Model 1  
+123                 0.016953  Global  Model 1  
+124                 0.014497  Global  Model 1  
+125                 0.013083  Global  Model 1  
+126                 0.009747  Global  Model 1  
+127                 0.005795  Global  Model 1  
+128                 0.001468  Global  Model 1  
+129                 0.000000  Global  Model 1  
+130                 1.000000  Global  Model 1  
+131                 0.099546  Global  Model 1  
+132                 0.059051  Global  Model 1  
+133                 0.051443  Global  Model 1  
+134                 0.004691  Global  Model 1  
+135                 0.002829  Global  Model 1  
+136                 0.002650  Global  Model 1  
+137                 0.001440  Global  Model 1  
+138                 0.001389  Global  Model 1  
+139                 0.001152  Global  Model 1  
+140                 0.000912  Global  Model 1  
+141                 0.000527  Global  Model 1  
+142                 0.000000  Global  Model 1  
+143                 1.000000  Global  Model 1  
+144                 0.892044  Global  Model 1  
+145                 0.700992  Global  Model 1  
+146                 0.627790  Global  Model 1  
+147                 0.551960  Global  Model 1  
+148                 0.396804  Global  Model 1  
+149                 0.301834  Global  Model 1  
+150                 0.062538  Global  Model 1  
+151                 0.046413  Global  Model 1  
+152                 0.026460  Global  Model 1  
+153                 0.015692  Global  Model 1  
+154                 0.008990  Global  Model 1  
+155                 0.000000  Global  Model 1  
+156                 1.000000  Global  Model 1  
+157                 0.077036  Global  Model 1  
+158                 0.063485  Global  Model 1  
+159                 0.029580  Global  Model 1  
+160                 0.004066  Global  Model 1  
+161                 0.003811  Global  Model 1  
+162                 0.003438  Global  Model 1  
+163                 0.002571  Global  Model 1  
+164                 0.001782  Global  Model 1  
+165                 0.000516  Global  Model 1  
+166                 0.000380  Global  Model 1  
+167                 0.000015  Global  Model 1  
+168                 0.000000  Global  Model 1  ","                                         feature_name  Model 2  \
+0   Nutrient Composition - Calories, kcal - Value,...        0   
+1                                              others        0   
+2                                               sieve        0   
+3   Particle size tests - Particle size, >600µm (#...        0   
+4                                                  tm        0   
+5                                               laser        0   
+6                                          dryseiving        0   
+7                                               grade        0   
+8                                                 din        0   
+9                                              sample        0   
+10                                                dry        0   
+11                                                min        0   
+12                                            seiving        0   
+13  Nutrient Composition - Calories, kcal - Value,...        1   
+14                                             others        1   
+15  Particle size tests - Particle size, >600µm (#...        1   
+16                                              laser        1   
+17                                              sieve        1   
+18                                                 tm        1   
+19                                             sample        1   
+20                                         dryseiving        1   
+21                                              grade        1   
+22                                                din        1   
+23                                                min        1   
+24                                            seiving        1   
+25                                                dry        1   
+26                                             others        2   
+27                                              sieve        2   
+28  Particle size tests - Particle size, >600µm (#...        2   
+29                                                din        2   
+30                                                min        2   
+31                                              grade        2   
+32                                             sample        2   
+33  Nutrient Composition - Calories, kcal - Value,...        2   
+34                                                dry        2   
+35                                            seiving        2   
+36                                         dryseiving        2   
+37                                                 tm        2   
+38                                              laser        2   
+39  Particle size tests - Particle size, >600µm (#...        3   
+40                                             others        3   
+41                                                 tm        3   
+42                                         dryseiving        3   
+43                                            seiving        3   
+44                                                dry        3   
+45  Nutrient Composition - Calories, kcal - Value,...        3   
+46                                              sieve        3   
+47                                                din        3   
+48                                                min        3   
+49                                              laser        3   
+50                                             sample        3   
+51                                              grade        3   
+52                                             others        4   
+53                                              sieve        4   
+54  Particle size tests - Particle size, >600µm (#...        4   
+55  Nutrient Composition - Calories, kcal - Value,...        4   
+56                                                min        4   
+57                                              laser        4   
+58                                             sample        4   
+59                                         dryseiving        4   
+60                                              grade        4   
+61                                            seiving        4   
+62                                                 tm        4   
+63                                                din        4   
+64                                                dry        4   
+65                                             others        5   
+66                                              laser        5   
+67  Nutrient Composition - Calories, kcal - Value,...        5   
+68                                              sieve        5   
+69  Particle size tests - Particle size, >600µm (#...        5   
+70                                         dryseiving        5   
+71                                            seiving        5   
+72                                                min        5   
+73                                              grade        5   
+74                                                 tm        5   
+75                                                din        5   
+76                                                dry        5   
+77                                             sample        5   
+
+    feature_imp_scaled_vals  Region    Model  
+0                  1.000000  Global  Model 2  
+1                  0.189675  Global  Model 2  
+2                  0.055408  Global  Model 2  
+3                  0.050047  Global  Model 2  
+4                  0.018335  Global  Model 2  
+5                  0.010615  Global  Model 2  
+6                  0.007363  Global  Model 2  
+7                  0.004668  Global  Model 2  
+8                  0.003620  Global  Model 2  
+9                  0.003001  Global  Model 2  
+10                 0.002095  Global  Model 2  
+11                 0.001138  Global  Model 2  
+12                 0.000000  Global  Model 2  
+13                 1.000000  Global  Model 2  
+14                 0.094711  Global  Model 2  
+15                 0.067149  Global  Model 2  
+16                 0.025163  Global  Model 2  
+17                 0.011197  Global  Model 2  
+18                 0.004061  Global  Model 2  
+19                 0.002223  Global  Model 2  
+20                 0.001967  Global  Model 2  
+21                 0.001646  Global  Model 2  
+22                 0.001097  Global  Model 2  
+23                 0.000603  Global  Model 2  
+24                 0.000403  Global  Model 2  
+25                 0.000000  Global  Model 2  
+26                 1.000000  Global  Model 2  
+27                 0.695163  Global  Model 2  
+28                 0.693663  Global  Model 2  
+29                 0.507731  Global  Model 2  
+30                 0.495402  Global  Model 2  
+31                 0.452166  Global  Model 2  
+32                 0.442755  Global  Model 2  
+33                 0.227244  Global  Model 2  
+34                 0.036611  Global  Model 2  
+35                 0.028980  Global  Model 2  
+36                 0.021550  Global  Model 2  
+37                 0.004521  Global  Model 2  
+38                 0.000000  Global  Model 2  
+39                 1.000000  Global  Model 2  
+40                 0.967056  Global  Model 2  
+41                 0.891415  Global  Model 2  
+42                 0.674964  Global  Model 2  
+43                 0.394106  Global  Model 2  
+44                 0.360550  Global  Model 2  
+45                 0.321324  Global  Model 2  
+46                 0.180787  Global  Model 2  
+47                 0.128367  Global  Model 2  
+48                 0.099995  Global  Model 2  
+49                 0.055388  Global  Model 2  
+50                 0.011769  Global  Model 2  
+51                 0.000000  Global  Model 2  
+52                 1.000000  Global  Model 2  
+53                 0.662132  Global  Model 2  
+54                 0.274352  Global  Model 2  
+55                 0.229797  Global  Model 2  
+56                 0.048777  Global  Model 2  
+57                 0.047038  Global  Model 2  
+58                 0.044157  Global  Model 2  
+59                 0.040293  Global  Model 2  
+60                 0.025600  Global  Model 2  
+61                 0.018211  Global  Model 2  
+62                 0.014193  Global  Model 2  
+63                 0.013273  Global  Model 2  
+64                 0.000000  Global  Model 2  
+65                 1.000000  Global  Model 2  
+66                 0.473438  Global  Model 2  
+67                 0.377069  Global  Model 2  
+68                 0.104877  Global  Model 2  
+69                 0.094011  Global  Model 2  
+70                 0.023949  Global  Model 2  
+71                 0.020491  Global  Model 2  
+72                 0.014281  Global  Model 2  
+73                 0.014121  Global  Model 2  
+74                 0.013236  Global  Model 2  
+75                 0.013125  Global  Model 2  
+76                 0.006815  Global  Model 2  
+77                 0.000000  Global  Model 2  "

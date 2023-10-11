@@ -1,0 +1,1458 @@
+0,1
+"                                          feature_name  Model 1  \
+0    Shipping - Drum/Barrel/Keg - Shipping Conditio...        0   
+1    Shipping - Drum/Barrel/Keg - Shipping Conditio...        0   
+2         Standard Composition - MALIC ACID - Value, %        0   
+3                                                   eu        0   
+4                                               others        0   
+5    Shipping - Drum/Barrel/Keg - Shipping Conditio...        0   
+6                                                  fcc        0   
+7                                                  per        0   
+8                                                  xxx        0   
+9                                              titrant        0   
+10                                              method        0   
+11                                            ignition        0   
+12                                            supplier        0   
+13   Shipping - Bag - Shipping Condition_Not Applic...        0   
+14   Shipping - Bag - Shipping Condition_Ambient (P...        0   
+15                                             residue        0   
+16                                          instrument        0   
+17                                             solvent        0   
+18                                               acids        0   
+19                                                temp        0   
+20                    Storage - Bag - Total Shelf Life        0   
+21                                         calculation        0   
+22                                                meoh        0   
+23                                             reagent        0   
+24                                            official        0   
+25                                           monograph        0   
+26                                              maleic        0   
+27                                             fumaric        0   
+28                                                 wia        0   
+29                                               assay        0   
+30                                                  kf        0   
+31                                        instructions        0   
+32                                         instruction        0   
+33                                              others        1   
+34   Shipping - Drum/Barrel/Keg - Shipping Conditio...        1   
+35   Shipping - Drum/Barrel/Keg - Shipping Conditio...        1   
+36                                                 fcc        1   
+37                                              method        1   
+38        Standard Composition - MALIC ACID - Value, %        1   
+39   Shipping - Drum/Barrel/Keg - Shipping Conditio...        1   
+40   Shipping - Bag - Shipping Condition_Not Applic...        1   
+41                                             titrant        1   
+42                                                temp        1   
+43                                                 per        1   
+44                                                 xxx        1   
+45                                         calculation        1   
+46   Shipping - Bag - Shipping Condition_Ambient (P...        1   
+47                                          instrument        1   
+48                                               acids        1   
+49                                            supplier        1   
+50                                            ignition        1   
+51                    Storage - Bag - Total Shelf Life        1   
+52                                                 wia        1   
+53                                             solvent        1   
+54                                                  kf        1   
+55                                             residue        1   
+56                                             reagent        1   
+57                                                meoh        1   
+58                                                  eu        1   
+59                                            official        1   
+60                                           monograph        1   
+61                                             fumaric        1   
+62                                               assay        1   
+63                                         instruction        1   
+64                                              maleic        1   
+65                                        instructions        1   
+66                                                 fcc        2   
+67                                                 per        2   
+68                                              others        2   
+69                                          instrument        2   
+70                                              method        2   
+71                                        instructions        2   
+72                                         instruction        2   
+73   Shipping - Bag - Shipping Condition_Not Applic...        2   
+74                                         calculation        2   
+75                                            official        2   
+76        Standard Composition - MALIC ACID - Value, %        2   
+77                                             titrant        2   
+78                                                temp        2   
+79                                            ignition        2   
+80                                            supplier        2   
+81   Shipping - Drum/Barrel/Keg - Shipping Conditio...        2   
+82                                                 xxx        2   
+83   Shipping - Drum/Barrel/Keg - Shipping Conditio...        2   
+84                                             residue        2   
+85   Shipping - Bag - Shipping Condition_Ambient (P...        2   
+86                                             reagent        2   
+87                                               acids        2   
+88                                             solvent        2   
+89                    Storage - Bag - Total Shelf Life        2   
+90                                                  kf        2   
+91                                              maleic        2   
+92                                           monograph        2   
+93                                                meoh        2   
+94   Shipping - Drum/Barrel/Keg - Shipping Conditio...        2   
+95                                             fumaric        2   
+96                                                 wia        2   
+97                                                  eu        2   
+98                                               assay        2   
+99   Shipping - Bag - Shipping Condition_Not Applic...        3   
+100  Shipping - Bag - Shipping Condition_Ambient (P...        3   
+101                                            titrant        3   
+102                   Storage - Bag - Total Shelf Life        3   
+103                                                xxx        3   
+104                                             others        3   
+105                                               temp        3   
+106                                            solvent        3   
+107       Standard Composition - MALIC ACID - Value, %        3   
+108                                             method        3   
+109                                           supplier        3   
+110                                                 kf        3   
+111  Shipping - Drum/Barrel/Keg - Shipping Conditio...        3   
+112  Shipping - Drum/Barrel/Keg - Shipping Conditio...        3   
+113                                                per        3   
+114                                                fcc        3   
+115                                        calculation        3   
+116                                         instrument        3   
+117                                            residue        3   
+118                                              assay        3   
+119                                                wia        3   
+120  Shipping - Drum/Barrel/Keg - Shipping Conditio...        3   
+121                                            reagent        3   
+122                                            fumaric        3   
+123                                           official        3   
+124                                          monograph        3   
+125                                               meoh        3   
+126                                           ignition        3   
+127                                              acids        3   
+128                                             maleic        3   
+129                                                 eu        3   
+130                                       instructions        3   
+131                                        instruction        3   
+132                                             others        4   
+133                                              acids        4   
+134                                                wia        4   
+135                                             maleic        4   
+136                                            fumaric        4   
+137                                              assay        4   
+138                                                xxx        4   
+139                                                fcc        4   
+140       Standard Composition - MALIC ACID - Value, %        4   
+141                                         instrument        4   
+142                                           supplier        4   
+143                                             method        4   
+144  Shipping - Bag - Shipping Condition_Not Applic...        4   
+145                                            reagent        4   
+146                                            titrant        4   
+147  Shipping - Drum/Barrel/Keg - Shipping Conditio...        4   
+148                   Storage - Bag - Total Shelf Life        4   
+149  Shipping - Drum/Barrel/Keg - Shipping Conditio...        4   
+150                                        calculation        4   
+151                                           ignition        4   
+152                                                per        4   
+153                                               temp        4   
+154                                            solvent        4   
+155                                            residue        4   
+156  Shipping - Drum/Barrel/Keg - Shipping Conditio...        4   
+157                                                 kf        4   
+158  Shipping - Bag - Shipping Condition_Ambient (P...        4   
+159                                               meoh        4   
+160                                                 eu        4   
+161                                          monograph        4   
+162                                           official        4   
+163                                       instructions        4   
+164                                        instruction        4   
+165                                             method        5   
+166                                           supplier        5   
+167                                             others        5   
+168  Shipping - Bag - Shipping Condition_Not Applic...        5   
+169                   Storage - Bag - Total Shelf Life        5   
+170  Shipping - Bag - Shipping Condition_Ambient (P...        5   
+171       Standard Composition - MALIC ACID - Value, %        5   
+172                                                fcc        5   
+173                                          monograph        5   
+174                                         instrument        5   
+175                                                xxx        5   
+176                                            residue        5   
+177                                               temp        5   
+178  Shipping - Drum/Barrel/Keg - Shipping Conditio...        5   
+179  Shipping - Drum/Barrel/Keg - Shipping Conditio...        5   
+180                                           official        5   
+181                                        calculation        5   
+182                                                per        5   
+183                                       instructions        5   
+184                                            titrant        5   
+185                                           ignition        5   
+186                                            reagent        5   
+187                                                 kf        5   
+188                                            solvent        5   
+189                                            fumaric        5   
+190                                        instruction        5   
+191                                               meoh        5   
+192                                             maleic        5   
+193                                                wia        5   
+194  Shipping - Drum/Barrel/Keg - Shipping Conditio...        5   
+195                                              acids        5   
+196                                                 eu        5   
+197                                              assay        5   
+198  Shipping - Bag - Shipping Condition_Not Applic...        6   
+199  Shipping - Bag - Shipping Condition_Ambient (P...        6   
+200                                             method        6   
+201                                             others        6   
+202                   Storage - Bag - Total Shelf Life        6   
+203                                           supplier        6   
+204                                            solvent        6   
+205                                            titrant        6   
+206       Standard Composition - MALIC ACID - Value, %        6   
+207                                                xxx        6   
+208                                                fcc        6   
+209                                                per        6   
+210                                               temp        6   
+211  Shipping - Drum/Barrel/Keg - Shipping Conditio...        6   
+212  Shipping - Drum/Barrel/Keg - Shipping Conditio...        6   
+213                                        calculation        6   
+214                                             maleic        6   
+215                                           official        6   
+216                                           ignition        6   
+217                                          monograph        6   
+218                                                wia        6   
+219                                         instrument        6   
+220                                            fumaric        6   
+221                                                 kf        6   
+222                                              acids        6   
+223  Shipping - Drum/Barrel/Keg - Shipping Conditio...        6   
+224                                            reagent        6   
+225                                               meoh        6   
+226                                                 eu        6   
+227                                            residue        6   
+228                                       instructions        6   
+229                                        instruction        6   
+230                                              assay        6   
+231                                             others        7   
+232                                        calculation        7   
+233       Standard Composition - MALIC ACID - Value, %        7   
+234                                             method        7   
+235                                           supplier        7   
+236                                                fcc        7   
+237                                                 kf        7   
+238  Shipping - Drum/Barrel/Keg - Shipping Conditio...        7   
+239                                                xxx        7   
+240                                           ignition        7   
+241                                            titrant        7   
+242                                            reagent        7   
+243                                         instrument        7   
+244  Shipping - Bag - Shipping Condition_Ambient (P...        7   
+245                                               temp        7   
+246                                            solvent        7   
+247  Shipping - Drum/Barrel/Keg - Shipping Conditio...        7   
+248                   Storage - Bag - Total Shelf Life        7   
+249                                                 eu        7   
+250                                                per        7   
+251                                              acids        7   
+252                                            residue        7   
+253  Shipping - Bag - Shipping Condition_Not Applic...        7   
+254                                          monograph        7   
+255                                               meoh        7   
+256                                             maleic        7   
+257  Shipping - Drum/Barrel/Keg - Shipping Conditio...        7   
+258                                              assay        7   
+259                                           official        7   
+260                                            fumaric        7   
+261                                                wia        7   
+262                                       instructions        7   
+263                                        instruction        7   
+264                                                xxx        8   
+265                                               temp        8   
+266                                             others        8   
+267                                            titrant        8   
+268                                            solvent        8   
+269  Shipping - Bag - Shipping Condition_Not Applic...        8   
+270       Standard Composition - MALIC ACID - Value, %        8   
+271  Shipping - Bag - Shipping Condition_Ambient (P...        8   
+272                   Storage - Bag - Total Shelf Life        8   
+273                                                fcc        8   
+274  Shipping - Drum/Barrel/Keg - Shipping Conditio...        8   
+275                                           ignition        8   
+276  Shipping - Drum/Barrel/Keg - Shipping Conditio...        8   
+277                                        calculation        8   
+278                                           supplier        8   
+279                                             method        8   
+280                                         instrument        8   
+281                                            reagent        8   
+282                                                per        8   
+283                                               meoh        8   
+284                                                 kf        8   
+285  Shipping - Drum/Barrel/Keg - Shipping Conditio...        8   
+286                                          monograph        8   
+287                                                wia        8   
+288                                           official        8   
+289                                             maleic        8   
+290                                            fumaric        8   
+291                                              acids        8   
+292                                                 eu        8   
+293                                        instruction        8   
+294                                            residue        8   
+295                                              assay        8   
+296                                       instructions        8   
+297  Shipping - Drum/Barrel/Keg - Shipping Conditio...        9   
+298  Shipping - Drum/Barrel/Keg - Shipping Conditio...        9   
+299       Standard Composition - MALIC ACID - Value, %        9   
+300                                             others        9   
+301  Shipping - Drum/Barrel/Keg - Shipping Conditio...        9   
+302  Shipping - Bag - Shipping Condition_Not Applic...        9   
+303                                                fcc        9   
+304                                             method        9   
+305                                            titrant        9   
+306                                                xxx        9   
+307                   Storage - Bag - Total Shelf Life        9   
+308                                                per        9   
+309  Shipping - Bag - Shipping Condition_Ambient (P...        9   
+310                                         instrument        9   
+311                                            solvent        9   
+312                                        calculation        9   
+313                                           official        9   
+314                                            reagent        9   
+315                                           supplier        9   
+316                                              acids        9   
+317                                                 kf        9   
+318                                           ignition        9   
+319                                          monograph        9   
+320                                        instruction        9   
+321                                            residue        9   
+322                                               meoh        9   
+323                                                 eu        9   
+324                                               temp        9   
+325                                             maleic        9   
+326                                            fumaric        9   
+327                                                wia        9   
+328                                       instructions        9   
+329                                              assay        9   
+330                                             others       10   
+331                                                 kf       10   
+332                                            reagent       10   
+333                                               meoh       10   
+334       Standard Composition - MALIC ACID - Value, %       10   
+335  Shipping - Drum/Barrel/Keg - Shipping Conditio...       10   
+336                                                fcc       10   
+337                                           supplier       10   
+338                                             method       10   
+339  Shipping - Bag - Shipping Condition_Not Applic...       10   
+340                                                xxx       10   
+341                                           ignition       10   
+342                                             maleic       10   
+343                                        calculation       10   
+344                   Storage - Bag - Total Shelf Life       10   
+345                                            titrant       10   
+346  Shipping - Drum/Barrel/Keg - Shipping Conditio...       10   
+347  Shipping - Bag - Shipping Condition_Ambient (P...       10   
+348                                               temp       10   
+349                                            residue       10   
+350                                                per       10   
+351                                            solvent       10   
+352                                           official       10   
+353                                         instrument       10   
+354                                                 eu       10   
+355                                          monograph       10   
+356  Shipping - Drum/Barrel/Keg - Shipping Conditio...       10   
+357                                            fumaric       10   
+358                                       instructions       10   
+359                                              assay       10   
+360                                              acids       10   
+361                                                wia       10   
+362                                        instruction       10   
+363                                             others       11   
+364                                           ignition       11   
+365                                            residue       11   
+366       Standard Composition - MALIC ACID - Value, %       11   
+367                                                fcc       11   
+368                                           supplier       11   
+369                                             method       11   
+370  Shipping - Bag - Shipping Condition_Not Applic...       11   
+371                                        calculation       11   
+372                                                xxx       11   
+373                                            reagent       11   
+374                                            solvent       11   
+375                                               temp       11   
+376                                            titrant       11   
+377                                                 eu       11   
+378                                                 kf       11   
+379  Shipping - Drum/Barrel/Keg - Shipping Conditio...       11   
+380                                         instrument       11   
+381                                              acids       11   
+382                                                wia       11   
+383                   Storage - Bag - Total Shelf Life       11   
+384  Shipping - Drum/Barrel/Keg - Shipping Conditio...       11   
+385  Shipping - Bag - Shipping Condition_Ambient (P...       11   
+386                                                per       11   
+387                                           official       11   
+388                                             maleic       11   
+389  Shipping - Drum/Barrel/Keg - Shipping Conditio...       11   
+390                                            fumaric       11   
+391                                       instructions       11   
+392                                          monograph       11   
+393                                               meoh       11   
+394                                        instruction       11   
+395                                              assay       11   
+396                                                fcc       12   
+397                                             others       12   
+398                                           official       12   
+399                                             method       12   
+400                                          monograph       12   
+401                                                per       12   
+402                                           supplier       12   
+403                                         instrument       12   
+404                                               temp       12   
+405       Standard Composition - MALIC ACID - Value, %       12   
+406                                                xxx       12   
+407                   Storage - Bag - Total Shelf Life       12   
+408                                       instructions       12   
+409  Shipping - Bag - Shipping Condition_Not Applic...       12   
+410                                        calculation       12   
+411                                            residue       12   
+412  Shipping - Drum/Barrel/Keg - Shipping Conditio...       12   
+413                                            reagent       12   
+414  Shipping - Bag - Shipping Condition_Ambient (P...       12   
+415                                                wia       12   
+416                                             maleic       12   
+417                                            titrant       12   
+418  Shipping - Drum/Barrel/Keg - Shipping Conditio...       12   
+419                                              acids       12   
+420                                           ignition       12   
+421                                        instruction       12   
+422                                            solvent       12   
+423                                                 kf       12   
+424                                            fumaric       12   
+425  Shipping - Drum/Barrel/Keg - Shipping Conditio...       12   
+426                                               meoh       12   
+427                                                 eu       12   
+428                                              assay       12   
+
+     feature_imp_scaled_vals  Region    Model  
+0                   1.000000  Global  Model 1  
+1                   0.919940  Global  Model 1  
+2                   0.367409  Global  Model 1  
+3                   0.231090  Global  Model 1  
+4                   0.157090  Global  Model 1  
+5                   0.077451  Global  Model 1  
+6                   0.073234  Global  Model 1  
+7                   0.052255  Global  Model 1  
+8                   0.051833  Global  Model 1  
+9                   0.040689  Global  Model 1  
+10                  0.033996  Global  Model 1  
+11                  0.033467  Global  Model 1  
+12                  0.032693  Global  Model 1  
+13                  0.032101  Global  Model 1  
+14                  0.032005  Global  Model 1  
+15                  0.031291  Global  Model 1  
+16                  0.031001  Global  Model 1  
+17                  0.030748  Global  Model 1  
+18                  0.029865  Global  Model 1  
+19                  0.028696  Global  Model 1  
+20                  0.028021  Global  Model 1  
+21                  0.027427  Global  Model 1  
+22                  0.012265  Global  Model 1  
+23                  0.011996  Global  Model 1  
+24                  0.009587  Global  Model 1  
+25                  0.007531  Global  Model 1  
+26                  0.006077  Global  Model 1  
+27                  0.005895  Global  Model 1  
+28                  0.005739  Global  Model 1  
+29                  0.004128  Global  Model 1  
+30                  0.003918  Global  Model 1  
+31                  0.002832  Global  Model 1  
+32                  0.000000  Global  Model 1  
+33                  1.000000  Global  Model 1  
+34                  0.253882  Global  Model 1  
+35                  0.124401  Global  Model 1  
+36                  0.122711  Global  Model 1  
+37                  0.122044  Global  Model 1  
+38                  0.092438  Global  Model 1  
+39                  0.085822  Global  Model 1  
+40                  0.082752  Global  Model 1  
+41                  0.072833  Global  Model 1  
+42                  0.064571  Global  Model 1  
+43                  0.061061  Global  Model 1  
+44                  0.060221  Global  Model 1  
+45                  0.060192  Global  Model 1  
+46                  0.059490  Global  Model 1  
+47                  0.048173  Global  Model 1  
+48                  0.036789  Global  Model 1  
+49                  0.036501  Global  Model 1  
+50                  0.034406  Global  Model 1  
+51                  0.033978  Global  Model 1  
+52                  0.032307  Global  Model 1  
+53                  0.032258  Global  Model 1  
+54                  0.030716  Global  Model 1  
+55                  0.028782  Global  Model 1  
+56                  0.025483  Global  Model 1  
+57                  0.022300  Global  Model 1  
+58                  0.021747  Global  Model 1  
+59                  0.021403  Global  Model 1  
+60                  0.012428  Global  Model 1  
+61                  0.007662  Global  Model 1  
+62                  0.004538  Global  Model 1  
+63                  0.003636  Global  Model 1  
+64                  0.003200  Global  Model 1  
+65                  0.000000  Global  Model 1  
+66                  1.000000  Global  Model 1  
+67                  0.981359  Global  Model 1  
+68                  0.970085  Global  Model 1  
+69                  0.913481  Global  Model 1  
+70                  0.242272  Global  Model 1  
+71                  0.173367  Global  Model 1  
+72                  0.114650  Global  Model 1  
+73                  0.110700  Global  Model 1  
+74                  0.097681  Global  Model 1  
+75                  0.083564  Global  Model 1  
+76                  0.076872  Global  Model 1  
+77                  0.073700  Global  Model 1  
+78                  0.071645  Global  Model 1  
+79                  0.067739  Global  Model 1  
+80                  0.065262  Global  Model 1  
+81                  0.057472  Global  Model 1  
+82                  0.051770  Global  Model 1  
+83                  0.048916  Global  Model 1  
+84                  0.042276  Global  Model 1  
+85                  0.035350  Global  Model 1  
+86                  0.028805  Global  Model 1  
+87                  0.027683  Global  Model 1  
+88                  0.027144  Global  Model 1  
+89                  0.020619  Global  Model 1  
+90                  0.018557  Global  Model 1  
+91                  0.016585  Global  Model 1  
+92                  0.012751  Global  Model 1  
+93                  0.010621  Global  Model 1  
+94                  0.010585  Global  Model 1  
+95                  0.007520  Global  Model 1  
+96                  0.006834  Global  Model 1  
+97                  0.006572  Global  Model 1  
+98                  0.000000  Global  Model 1  
+99                  1.000000  Global  Model 1  
+100                 0.678433  Global  Model 1  
+101                 0.629795  Global  Model 1  
+102                 0.530252  Global  Model 1  
+103                 0.438274  Global  Model 1  
+104                 0.425925  Global  Model 1  
+105                 0.395589  Global  Model 1  
+106                 0.393049  Global  Model 1  
+107                 0.182929  Global  Model 1  
+108                 0.117341  Global  Model 1  
+109                 0.074635  Global  Model 1  
+110                 0.045782  Global  Model 1  
+111                 0.041389  Global  Model 1  
+112                 0.039646  Global  Model 1  
+113                 0.038255  Global  Model 1  
+114                 0.033448  Global  Model 1  
+115                 0.030021  Global  Model 1  
+116                 0.024467  Global  Model 1  
+117                 0.021466  Global  Model 1  
+118                 0.017140  Global  Model 1  
+119                 0.011903  Global  Model 1  
+120                 0.010263  Global  Model 1  
+121                 0.008807  Global  Model 1  
+122                 0.007166  Global  Model 1  
+123                 0.005523  Global  Model 1  
+124                 0.004023  Global  Model 1  
+125                 0.004023  Global  Model 1  
+126                 0.003419  Global  Model 1  
+127                 0.003369  Global  Model 1  
+128                 0.002713  Global  Model 1  
+129                 0.001901  Global  Model 1  
+130                 0.000000  Global  Model 1  
+131                 0.000000  Global  Model 1  
+132                 1.000000  Global  Model 1  
+133                 0.960817  Global  Model 1  
+134                 0.774971  Global  Model 1  
+135                 0.492981  Global  Model 1  
+136                 0.411880  Global  Model 1  
+137                 0.243832  Global  Model 1  
+138                 0.201988  Global  Model 1  
+139                 0.173827  Global  Model 1  
+140                 0.127629  Global  Model 1  
+141                 0.112628  Global  Model 1  
+142                 0.110669  Global  Model 1  
+143                 0.099058  Global  Model 1  
+144                 0.095872  Global  Model 1  
+145                 0.095844  Global  Model 1  
+146                 0.086599  Global  Model 1  
+147                 0.086384  Global  Model 1  
+148                 0.069114  Global  Model 1  
+149                 0.068914  Global  Model 1  
+150                 0.065929  Global  Model 1  
+151                 0.061775  Global  Model 1  
+152                 0.058049  Global  Model 1  
+153                 0.056208  Global  Model 1  
+154                 0.045906  Global  Model 1  
+155                 0.040966  Global  Model 1  
+156                 0.040272  Global  Model 1  
+157                 0.032363  Global  Model 1  
+158                 0.026485  Global  Model 1  
+159                 0.011830  Global  Model 1  
+160                 0.010345  Global  Model 1  
+161                 0.010236  Global  Model 1  
+162                 0.009979  Global  Model 1  
+163                 0.007875  Global  Model 1  
+164                 0.000000  Global  Model 1  
+165                 1.000000  Global  Model 1  
+166                 0.807213  Global  Model 1  
+167                 0.786565  Global  Model 1  
+168                 0.202331  Global  Model 1  
+169                 0.154529  Global  Model 1  
+170                 0.132199  Global  Model 1  
+171                 0.119216  Global  Model 1  
+172                 0.103286  Global  Model 1  
+173                 0.098106  Global  Model 1  
+174                 0.075750  Global  Model 1  
+175                 0.074340  Global  Model 1  
+176                 0.071710  Global  Model 1  
+177                 0.069735  Global  Model 1  
+178                 0.068494  Global  Model 1  
+179                 0.059144  Global  Model 1  
+180                 0.057189  Global  Model 1  
+181                 0.057137  Global  Model 1  
+182                 0.047015  Global  Model 1  
+183                 0.044168  Global  Model 1  
+184                 0.036153  Global  Model 1  
+185                 0.034577  Global  Model 1  
+186                 0.033793  Global  Model 1  
+187                 0.033463  Global  Model 1  
+188                 0.030034  Global  Model 1  
+189                 0.024489  Global  Model 1  
+190                 0.020776  Global  Model 1  
+191                 0.018309  Global  Model 1  
+192                 0.017335  Global  Model 1  
+193                 0.016907  Global  Model 1  
+194                 0.015708  Global  Model 1  
+195                 0.011467  Global  Model 1  
+196                 0.008500  Global  Model 1  
+197                 0.000000  Global  Model 1  
+198                 1.000000  Global  Model 1  
+199                 0.696403  Global  Model 1  
+200                 0.664204  Global  Model 1  
+201                 0.623074  Global  Model 1  
+202                 0.615845  Global  Model 1  
+203                 0.463951  Global  Model 1  
+204                 0.349832  Global  Model 1  
+205                 0.297919  Global  Model 1  
+206                 0.178106  Global  Model 1  
+207                 0.125420  Global  Model 1  
+208                 0.115345  Global  Model 1  
+209                 0.069027  Global  Model 1  
+210                 0.062692  Global  Model 1  
+211                 0.053005  Global  Model 1  
+212                 0.034480  Global  Model 1  
+213                 0.031409  Global  Model 1  
+214                 0.030306  Global  Model 1  
+215                 0.028277  Global  Model 1  
+216                 0.026220  Global  Model 1  
+217                 0.024065  Global  Model 1  
+218                 0.022874  Global  Model 1  
+219                 0.021042  Global  Model 1  
+220                 0.017169  Global  Model 1  
+221                 0.012856  Global  Model 1  
+222                 0.011789  Global  Model 1  
+223                 0.011663  Global  Model 1  
+224                 0.009970  Global  Model 1  
+225                 0.008832  Global  Model 1  
+226                 0.008219  Global  Model 1  
+227                 0.003356  Global  Model 1  
+228                 0.000000  Global  Model 1  
+229                 0.000000  Global  Model 1  
+230                 0.000000  Global  Model 1  
+231                 1.000000  Global  Model 1  
+232                 0.817321  Global  Model 1  
+233                 0.180891  Global  Model 1  
+234                 0.128022  Global  Model 1  
+235                 0.110495  Global  Model 1  
+236                 0.110493  Global  Model 1  
+237                 0.102422  Global  Model 1  
+238                 0.101659  Global  Model 1  
+239                 0.097191  Global  Model 1  
+240                 0.087558  Global  Model 1  
+241                 0.086872  Global  Model 1  
+242                 0.080482  Global  Model 1  
+243                 0.079201  Global  Model 1  
+244                 0.059126  Global  Model 1  
+245                 0.059036  Global  Model 1  
+246                 0.055187  Global  Model 1  
+247                 0.054476  Global  Model 1  
+248                 0.048372  Global  Model 1  
+249                 0.045073  Global  Model 1  
+250                 0.043512  Global  Model 1  
+251                 0.039111  Global  Model 1  
+252                 0.034912  Global  Model 1  
+253                 0.026622  Global  Model 1  
+254                 0.025902  Global  Model 1  
+255                 0.019196  Global  Model 1  
+256                 0.018324  Global  Model 1  
+257                 0.016042  Global  Model 1  
+258                 0.015731  Global  Model 1  
+259                 0.014624  Global  Model 1  
+260                 0.012681  Global  Model 1  
+261                 0.011330  Global  Model 1  
+262                 0.008232  Global  Model 1  
+263                 0.000000  Global  Model 1  
+264                 1.000000  Global  Model 1  
+265                 0.804020  Global  Model 1  
+266                 0.744864  Global  Model 1  
+267                 0.716949  Global  Model 1  
+268                 0.515427  Global  Model 1  
+269                 0.491101  Global  Model 1  
+270                 0.417553  Global  Model 1  
+271                 0.369358  Global  Model 1  
+272                 0.219405  Global  Model 1  
+273                 0.099249  Global  Model 1  
+274                 0.095058  Global  Model 1  
+275                 0.059424  Global  Model 1  
+276                 0.055298  Global  Model 1  
+277                 0.049893  Global  Model 1  
+278                 0.046779  Global  Model 1  
+279                 0.045696  Global  Model 1  
+280                 0.036722  Global  Model 1  
+281                 0.033206  Global  Model 1  
+282                 0.032686  Global  Model 1  
+283                 0.027363  Global  Model 1  
+284                 0.024053  Global  Model 1  
+285                 0.021825  Global  Model 1  
+286                 0.021368  Global  Model 1  
+287                 0.020299  Global  Model 1  
+288                 0.014116  Global  Model 1  
+289                 0.012639  Global  Model 1  
+290                 0.010978  Global  Model 1  
+291                 0.009982  Global  Model 1  
+292                 0.007229  Global  Model 1  
+293                 0.005292  Global  Model 1  
+294                 0.002931  Global  Model 1  
+295                 0.000000  Global  Model 1  
+296                 0.000000  Global  Model 1  
+297                 1.000000  Global  Model 1  
+298                 0.856643  Global  Model 1  
+299                 0.511488  Global  Model 1  
+300                 0.420044  Global  Model 1  
+301                 0.207040  Global  Model 1  
+302                 0.051888  Global  Model 1  
+303                 0.047395  Global  Model 1  
+304                 0.032834  Global  Model 1  
+305                 0.030509  Global  Model 1  
+306                 0.026529  Global  Model 1  
+307                 0.026078  Global  Model 1  
+308                 0.023974  Global  Model 1  
+309                 0.022176  Global  Model 1  
+310                 0.020609  Global  Model 1  
+311                 0.018657  Global  Model 1  
+312                 0.017721  Global  Model 1  
+313                 0.013056  Global  Model 1  
+314                 0.012480  Global  Model 1  
+315                 0.011692  Global  Model 1  
+316                 0.011417  Global  Model 1  
+317                 0.010212  Global  Model 1  
+318                 0.009651  Global  Model 1  
+319                 0.007243  Global  Model 1  
+320                 0.006924  Global  Model 1  
+321                 0.006192  Global  Model 1  
+322                 0.005594  Global  Model 1  
+323                 0.004494  Global  Model 1  
+324                 0.003836  Global  Model 1  
+325                 0.003182  Global  Model 1  
+326                 0.002601  Global  Model 1  
+327                 0.002053  Global  Model 1  
+328                 0.001114  Global  Model 1  
+329                 0.000000  Global  Model 1  
+330                 1.000000  Global  Model 1  
+331                 0.784929  Global  Model 1  
+332                 0.766930  Global  Model 1  
+333                 0.421717  Global  Model 1  
+334                 0.231137  Global  Model 1  
+335                 0.118178  Global  Model 1  
+336                 0.115965  Global  Model 1  
+337                 0.110802  Global  Model 1  
+338                 0.103604  Global  Model 1  
+339                 0.095780  Global  Model 1  
+340                 0.092371  Global  Model 1  
+341                 0.090802  Global  Model 1  
+342                 0.081887  Global  Model 1  
+343                 0.077195  Global  Model 1  
+344                 0.071298  Global  Model 1  
+345                 0.069763  Global  Model 1  
+346                 0.055813  Global  Model 1  
+347                 0.053946  Global  Model 1  
+348                 0.053489  Global  Model 1  
+349                 0.047884  Global  Model 1  
+350                 0.047756  Global  Model 1  
+351                 0.046210  Global  Model 1  
+352                 0.036585  Global  Model 1  
+353                 0.035101  Global  Model 1  
+354                 0.024818  Global  Model 1  
+355                 0.023890  Global  Model 1  
+356                 0.019988  Global  Model 1  
+357                 0.015604  Global  Model 1  
+358                 0.012527  Global  Model 1  
+359                 0.008717  Global  Model 1  
+360                 0.005917  Global  Model 1  
+361                 0.002717  Global  Model 1  
+362                 0.000000  Global  Model 1  
+363                 1.000000  Global  Model 1  
+364                 0.812539  Global  Model 1  
+365                 0.633984  Global  Model 1  
+366                 0.172167  Global  Model 1  
+367                 0.114256  Global  Model 1  
+368                 0.110840  Global  Model 1  
+369                 0.105798  Global  Model 1  
+370                 0.089122  Global  Model 1  
+371                 0.087385  Global  Model 1  
+372                 0.068521  Global  Model 1  
+373                 0.066165  Global  Model 1  
+374                 0.062505  Global  Model 1  
+375                 0.061372  Global  Model 1  
+376                 0.061068  Global  Model 1  
+377                 0.057313  Global  Model 1  
+378                 0.056940  Global  Model 1  
+379                 0.056865  Global  Model 1  
+380                 0.051362  Global  Model 1  
+381                 0.049733  Global  Model 1  
+382                 0.047998  Global  Model 1  
+383                 0.045322  Global  Model 1  
+384                 0.040534  Global  Model 1  
+385                 0.031274  Global  Model 1  
+386                 0.028367  Global  Model 1  
+387                 0.020227  Global  Model 1  
+388                 0.018513  Global  Model 1  
+389                 0.016737  Global  Model 1  
+390                 0.015575  Global  Model 1  
+391                 0.008378  Global  Model 1  
+392                 0.008021  Global  Model 1  
+393                 0.004431  Global  Model 1  
+394                 0.004267  Global  Model 1  
+395                 0.000000  Global  Model 1  
+396                 1.000000  Global  Model 1  
+397                 0.664460  Global  Model 1  
+398                 0.632487  Global  Model 1  
+399                 0.577902  Global  Model 1  
+400                 0.488879  Global  Model 1  
+401                 0.152799  Global  Model 1  
+402                 0.136151  Global  Model 1  
+403                 0.133759  Global  Model 1  
+404                 0.125289  Global  Model 1  
+405                 0.104611  Global  Model 1  
+406                 0.090169  Global  Model 1  
+407                 0.078172  Global  Model 1  
+408                 0.077188  Global  Model 1  
+409                 0.074359  Global  Model 1  
+410                 0.060725  Global  Model 1  
+411                 0.046833  Global  Model 1  
+412                 0.045141  Global  Model 1  
+413                 0.042262  Global  Model 1  
+414                 0.036515  Global  Model 1  
+415                 0.033775  Global  Model 1  
+416                 0.029244  Global  Model 1  
+417                 0.028651  Global  Model 1  
+418                 0.028174  Global  Model 1  
+419                 0.028080  Global  Model 1  
+420                 0.028069  Global  Model 1  
+421                 0.027479  Global  Model 1  
+422                 0.025554  Global  Model 1  
+423                 0.023092  Global  Model 1  
+424                 0.018968  Global  Model 1  
+425                 0.017833  Global  Model 1  
+426                 0.012324  Global  Model 1  
+427                 0.010950  Global  Model 1  
+428                 0.000000  Global  Model 1  ","                                          feature_name  Model 2  \
+0                                               others        0   
+1         Standard Composition - MALIC ACID - Value, %        0   
+2                                               method        0   
+3                                                  fcc        0   
+4                                                  xxx        0   
+5                                           instrument        0   
+6                                              solvent        0   
+7                     Storage - Bag - Total Shelf Life        0   
+8                                             supplier        0   
+9                                                 temp        0   
+10                                                  eu        0   
+11                                             titrant        0   
+12                                                 per        0   
+13   Shipping - Drum/Barrel/Keg - Shipping Conditio...        0   
+14                                            ignition        0   
+15                                             reagent        0   
+16                                             residue        0   
+17   Shipping - Bag - Shipping Condition_Ambient (P...        0   
+18                                                  kf        0   
+19   Shipping - Bag - Shipping Condition_Not Applic...        0   
+20                                               assay        0   
+21                                           monograph        0   
+22                                                meoh        0   
+23                                             fumaric        0   
+24                                            official        0   
+25   Shipping - Drum/Barrel/Keg - Shipping Conditio...        0   
+26                                               acids        0   
+27                                              maleic        0   
+28                                        instructions        0   
+29                                                 wia        0   
+30                                         calculation        0   
+31                                         instruction        0   
+32   Shipping - Drum/Barrel/Keg - Shipping Conditio...        0   
+33                                                 xxx        1   
+34                                             solvent        1   
+35                                                temp        1   
+36                                              others        1   
+37                                             titrant        1   
+38                    Storage - Bag - Total Shelf Life        1   
+39   Shipping - Bag - Shipping Condition_Ambient (P...        1   
+40                                              method        1   
+41                                            supplier        1   
+42                                                 fcc        1   
+43                                          instrument        1   
+44        Standard Composition - MALIC ACID - Value, %        1   
+45                                               assay        1   
+46   Shipping - Bag - Shipping Condition_Not Applic...        1   
+47                                                 per        1   
+48                                           monograph        1   
+49   Shipping - Drum/Barrel/Keg - Shipping Conditio...        1   
+50                                             residue        1   
+51                                             fumaric        1   
+52                                                meoh        1   
+53                                             reagent        1   
+54   Shipping - Drum/Barrel/Keg - Shipping Conditio...        1   
+55                                              maleic        1   
+56                                               acids        1   
+57                                                  kf        1   
+58                                        instructions        1   
+59                                            official        1   
+60                                                  eu        1   
+61                                            ignition        1   
+62   Shipping - Drum/Barrel/Keg - Shipping Conditio...        1   
+63                                         instruction        1   
+64                                         calculation        1   
+65                                                 wia        1   
+66                                                 fcc        2   
+67                                          instrument        2   
+68                                              others        2   
+69                                                 per        2   
+70                                        instructions        2   
+71        Standard Composition - MALIC ACID - Value, %        2   
+72                                              method        2   
+73                                            supplier        2   
+74                                         instruction        2   
+75                                                 xxx        2   
+76                                             solvent        2   
+77                                           monograph        2   
+78   Shipping - Bag - Shipping Condition_Ambient (P...        2   
+79                    Storage - Bag - Total Shelf Life        2   
+80                                             titrant        2   
+81                                            ignition        2   
+82   Shipping - Bag - Shipping Condition_Not Applic...        2   
+83                                                temp        2   
+84                                                  kf        2   
+85                                             reagent        2   
+86                                            official        2   
+87                                              maleic        2   
+88   Shipping - Drum/Barrel/Keg - Shipping Conditio...        2   
+89                                             residue        2   
+90   Shipping - Drum/Barrel/Keg - Shipping Conditio...        2   
+91                                               assay        2   
+92                                                  eu        2   
+93                                                meoh        2   
+94                                             fumaric        2   
+95                                               acids        2   
+96                                                 wia        2   
+97                                         calculation        2   
+98   Shipping - Drum/Barrel/Keg - Shipping Conditio...        2   
+99                                              others        3   
+100                                             method        3   
+101                                           supplier        3   
+102       Standard Composition - MALIC ACID - Value, %        3   
+103  Shipping - Bag - Shipping Condition_Not Applic...        3   
+104                   Storage - Bag - Total Shelf Life        3   
+105                                                fcc        3   
+106                                               temp        3   
+107                                                xxx        3   
+108                                                per        3   
+109  Shipping - Bag - Shipping Condition_Ambient (P...        3   
+110                                         instrument        3   
+111                                            titrant        3   
+112                                            solvent        3   
+113  Shipping - Drum/Barrel/Keg - Shipping Conditio...        3   
+114                                           official        3   
+115                                            residue        3   
+116                                           ignition        3   
+117                                            fumaric        3   
+118                                       instructions        3   
+119                                                 kf        3   
+120                                              assay        3   
+121                                             maleic        3   
+122                                          monograph        3   
+123                                               meoh        3   
+124  Shipping - Drum/Barrel/Keg - Shipping Conditio...        3   
+125                                            reagent        3   
+126                                                 eu        3   
+127                                        calculation        3   
+128                                              acids        3   
+129                                        instruction        3   
+130  Shipping - Drum/Barrel/Keg - Shipping Conditio...        3   
+131                                                wia        3   
+132                                             others        4   
+133                                              assay        4   
+134                                            fumaric        4   
+135                                             maleic        4   
+136                                              acids        4   
+137       Standard Composition - MALIC ACID - Value, %        4   
+138                                                fcc        4   
+139                                                wia        4   
+140                                             method        4   
+141                                           supplier        4   
+142                                         instrument        4   
+143                                            solvent        4   
+144                                                xxx        4   
+145                                           ignition        4   
+146                                            titrant        4   
+147                   Storage - Bag - Total Shelf Life        4   
+148                                          monograph        4   
+149                                                per        4   
+150                                            reagent        4   
+151  Shipping - Drum/Barrel/Keg - Shipping Conditio...        4   
+152                                               meoh        4   
+153                                               temp        4   
+154  Shipping - Bag - Shipping Condition_Ambient (P...        4   
+155  Shipping - Drum/Barrel/Keg - Shipping Conditio...        4   
+156  Shipping - Bag - Shipping Condition_Not Applic...        4   
+157                                           official        4   
+158                                                 eu        4   
+159                                                 kf        4   
+160                                       instructions        4   
+161                                            residue        4   
+162                                        instruction        4   
+163  Shipping - Drum/Barrel/Keg - Shipping Conditio...        4   
+164                                        calculation        4   
+165                                             others        5   
+166                                             method        5   
+167                                          monograph        5   
+168                                                fcc        5   
+169                                           official        5   
+170       Standard Composition - MALIC ACID - Value, %        5   
+171                                                per        5   
+172                                         instrument        5   
+173                                           supplier        5   
+174                                                xxx        5   
+175                                            residue        5   
+176                   Storage - Bag - Total Shelf Life        5   
+177  Shipping - Bag - Shipping Condition_Not Applic...        5   
+178                                           ignition        5   
+179                                            solvent        5   
+180                                              assay        5   
+181                                                 kf        5   
+182  Shipping - Bag - Shipping Condition_Ambient (P...        5   
+183                                            reagent        5   
+184                                               meoh        5   
+185                                               temp        5   
+186                                            titrant        5   
+187                                             maleic        5   
+188  Shipping - Drum/Barrel/Keg - Shipping Conditio...        5   
+189                                                 eu        5   
+190                                            fumaric        5   
+191                                              acids        5   
+192                                       instructions        5   
+193  Shipping - Drum/Barrel/Keg - Shipping Conditio...        5   
+194                                                wia        5   
+195                                        instruction        5   
+196                                        calculation        5   
+197  Shipping - Drum/Barrel/Keg - Shipping Conditio...        5   
+198                                             others        6   
+199                                            reagent        6   
+200                                                 kf        6   
+201                                               meoh        6   
+202       Standard Composition - MALIC ACID - Value, %        6   
+203                                             method        6   
+204                                                fcc        6   
+205                                           ignition        6   
+206                                                xxx        6   
+207                   Storage - Bag - Total Shelf Life        6   
+208                                           supplier        6   
+209                                               temp        6   
+210                                             maleic        6   
+211                                                per        6   
+212  Shipping - Bag - Shipping Condition_Not Applic...        6   
+213                                            solvent        6   
+214                                           official        6   
+215  Shipping - Bag - Shipping Condition_Ambient (P...        6   
+216                                         instrument        6   
+217                                            titrant        6   
+218  Shipping - Drum/Barrel/Keg - Shipping Conditio...        6   
+219                                          monograph        6   
+220                                            residue        6   
+221                                              assay        6   
+222                                       instructions        6   
+223                                              acids        6   
+224                                                 eu        6   
+225                                            fumaric        6   
+226  Shipping - Drum/Barrel/Keg - Shipping Conditio...        6   
+227                                                wia        6   
+228                                        calculation        6   
+229  Shipping - Drum/Barrel/Keg - Shipping Conditio...        6   
+230                                        instruction        6   
+231  Shipping - Drum/Barrel/Keg - Shipping Conditio...        7   
+232                                                 eu        7   
+233       Standard Composition - MALIC ACID - Value, %        7   
+234                                             others        7   
+235  Shipping - Drum/Barrel/Keg - Shipping Conditio...        7   
+236                                            solvent        7   
+237                                        calculation        7   
+238  Shipping - Bag - Shipping Condition_Ambient (P...        7   
+239                                                per        7   
+240                                                fcc        7   
+241                                            residue        7   
+242                                               meoh        7   
+243                                                xxx        7   
+244                                             method        7   
+245                                                 kf        7   
+246                                              acids        7   
+247                                               temp        7   
+248                   Storage - Bag - Total Shelf Life        7   
+249                                         instrument        7   
+250                                           supplier        7   
+251                                            reagent        7   
+252  Shipping - Bag - Shipping Condition_Not Applic...        7   
+253                                            titrant        7   
+254                                           ignition        7   
+255                                           official        7   
+256                                          monograph        7   
+257                                              assay        7   
+258                                             maleic        7   
+259  Shipping - Drum/Barrel/Keg - Shipping Conditio...        7   
+260                                       instructions        7   
+261                                            fumaric        7   
+262                                                wia        7   
+263                                        instruction        7   
+264                                             others        8   
+265                                           ignition        8   
+266                                            residue        8   
+267                                             method        8   
+268       Standard Composition - MALIC ACID - Value, %        8   
+269                                            titrant        8   
+270                                            solvent        8   
+271                                         instrument        8   
+272                                           supplier        8   
+273                                                fcc        8   
+274                                               meoh        8   
+275                                                xxx        8   
+276                                              assay        8   
+277                                               temp        8   
+278                                                 kf        8   
+279                                                per        8   
+280                   Storage - Bag - Total Shelf Life        8   
+281  Shipping - Bag - Shipping Condition_Ambient (P...        8   
+282  Shipping - Bag - Shipping Condition_Not Applic...        8   
+283  Shipping - Drum/Barrel/Keg - Shipping Conditio...        8   
+284                                          monograph        8   
+285                                              acids        8   
+286                                            reagent        8   
+287  Shipping - Drum/Barrel/Keg - Shipping Conditio...        8   
+288                                             maleic        8   
+289                                           official        8   
+290                                       instructions        8   
+291                                            fumaric        8   
+292                                                wia        8   
+293  Shipping - Drum/Barrel/Keg - Shipping Conditio...        8   
+294                                                 eu        8   
+295                                        calculation        8   
+296                                        instruction        8   
+
+     feature_imp_scaled_vals  Region    Model  
+0                   1.000000  Global  Model 2  
+1                   0.160222  Global  Model 2  
+2                   0.113845  Global  Model 2  
+3                   0.102390  Global  Model 2  
+4                   0.101640  Global  Model 2  
+5                   0.072593  Global  Model 2  
+6                   0.071471  Global  Model 2  
+7                   0.070087  Global  Model 2  
+8                   0.063281  Global  Model 2  
+9                   0.062916  Global  Model 2  
+10                  0.062785  Global  Model 2  
+11                  0.054833  Global  Model 2  
+12                  0.048920  Global  Model 2  
+13                  0.046874  Global  Model 2  
+14                  0.043614  Global  Model 2  
+15                  0.038667  Global  Model 2  
+16                  0.036081  Global  Model 2  
+17                  0.035928  Global  Model 2  
+18                  0.033070  Global  Model 2  
+19                  0.027302  Global  Model 2  
+20                  0.024188  Global  Model 2  
+21                  0.023691  Global  Model 2  
+22                  0.018366  Global  Model 2  
+23                  0.018314  Global  Model 2  
+24                  0.017769  Global  Model 2  
+25                  0.016655  Global  Model 2  
+26                  0.014898  Global  Model 2  
+27                  0.010579  Global  Model 2  
+28                  0.010360  Global  Model 2  
+29                  0.008110  Global  Model 2  
+30                  0.007546  Global  Model 2  
+31                  0.007337  Global  Model 2  
+32                  0.000000  Global  Model 2  
+33                  1.000000  Global  Model 2  
+34                  0.741835  Global  Model 2  
+35                  0.639632  Global  Model 2  
+36                  0.627253  Global  Model 2  
+37                  0.598826  Global  Model 2  
+38                  0.345993  Global  Model 2  
+39                  0.296372  Global  Model 2  
+40                  0.125475  Global  Model 2  
+41                  0.088325  Global  Model 2  
+42                  0.083906  Global  Model 2  
+43                  0.070728  Global  Model 2  
+44                  0.060458  Global  Model 2  
+45                  0.051954  Global  Model 2  
+46                  0.044390  Global  Model 2  
+47                  0.039470  Global  Model 2  
+48                  0.039416  Global  Model 2  
+49                  0.039306  Global  Model 2  
+50                  0.038762  Global  Model 2  
+51                  0.033214  Global  Model 2  
+52                  0.026945  Global  Model 2  
+53                  0.025748  Global  Model 2  
+54                  0.017240  Global  Model 2  
+55                  0.015367  Global  Model 2  
+56                  0.011164  Global  Model 2  
+57                  0.008964  Global  Model 2  
+58                  0.008857  Global  Model 2  
+59                  0.007984  Global  Model 2  
+60                  0.007607  Global  Model 2  
+61                  0.003525  Global  Model 2  
+62                  0.002166  Global  Model 2  
+63                  0.002113  Global  Model 2  
+64                  0.000365  Global  Model 2  
+65                  0.000000  Global  Model 2  
+66                  1.000000  Global  Model 2  
+67                  0.995411  Global  Model 2  
+68                  0.832644  Global  Model 2  
+69                  0.790298  Global  Model 2  
+70                  0.225182  Global  Model 2  
+71                  0.128848  Global  Model 2  
+72                  0.118076  Global  Model 2  
+73                  0.107437  Global  Model 2  
+74                  0.086406  Global  Model 2  
+75                  0.082845  Global  Model 2  
+76                  0.068350  Global  Model 2  
+77                  0.061778  Global  Model 2  
+78                  0.053861  Global  Model 2  
+79                  0.047752  Global  Model 2  
+80                  0.042376  Global  Model 2  
+81                  0.041907  Global  Model 2  
+82                  0.039963  Global  Model 2  
+83                  0.038338  Global  Model 2  
+84                  0.036901  Global  Model 2  
+85                  0.030388  Global  Model 2  
+86                  0.029293  Global  Model 2  
+87                  0.029128  Global  Model 2  
+88                  0.023601  Global  Model 2  
+89                  0.023414  Global  Model 2  
+90                  0.011838  Global  Model 2  
+91                  0.011511  Global  Model 2  
+92                  0.010097  Global  Model 2  
+93                  0.009679  Global  Model 2  
+94                  0.005245  Global  Model 2  
+95                  0.004600  Global  Model 2  
+96                  0.003483  Global  Model 2  
+97                  0.000000  Global  Model 2  
+98                  0.000000  Global  Model 2  
+99                  1.000000  Global  Model 2  
+100                 0.811782  Global  Model 2  
+101                 0.782344  Global  Model 2  
+102                 0.299794  Global  Model 2  
+103                 0.279439  Global  Model 2  
+104                 0.243323  Global  Model 2  
+105                 0.163281  Global  Model 2  
+106                 0.153242  Global  Model 2  
+107                 0.146242  Global  Model 2  
+108                 0.089800  Global  Model 2  
+109                 0.088765  Global  Model 2  
+110                 0.085095  Global  Model 2  
+111                 0.082927  Global  Model 2  
+112                 0.075872  Global  Model 2  
+113                 0.065172  Global  Model 2  
+114                 0.062094  Global  Model 2  
+115                 0.059266  Global  Model 2  
+116                 0.056623  Global  Model 2  
+117                 0.051711  Global  Model 2  
+118                 0.047549  Global  Model 2  
+119                 0.040637  Global  Model 2  
+120                 0.023956  Global  Model 2  
+121                 0.023779  Global  Model 2  
+122                 0.023455  Global  Model 2  
+123                 0.020825  Global  Model 2  
+124                 0.016147  Global  Model 2  
+125                 0.015261  Global  Model 2  
+126                 0.008479  Global  Model 2  
+127                 0.007174  Global  Model 2  
+128                 0.006308  Global  Model 2  
+129                 0.001477  Global  Model 2  
+130                 0.000115  Global  Model 2  
+131                 0.000000  Global  Model 2  
+132                 1.000000  Global  Model 2  
+133                 0.922550  Global  Model 2  
+134                 0.596360  Global  Model 2  
+135                 0.557184  Global  Model 2  
+136                 0.464206  Global  Model 2  
+137                 0.357871  Global  Model 2  
+138                 0.238579  Global  Model 2  
+139                 0.217698  Global  Model 2  
+140                 0.158562  Global  Model 2  
+141                 0.144820  Global  Model 2  
+142                 0.141358  Global  Model 2  
+143                 0.112271  Global  Model 2  
+144                 0.104730  Global  Model 2  
+145                 0.103910  Global  Model 2  
+146                 0.097987  Global  Model 2  
+147                 0.089592  Global  Model 2  
+148                 0.073263  Global  Model 2  
+149                 0.060679  Global  Model 2  
+150                 0.055445  Global  Model 2  
+151                 0.046758  Global  Model 2  
+152                 0.040507  Global  Model 2  
+153                 0.036145  Global  Model 2  
+154                 0.035324  Global  Model 2  
+155                 0.022986  Global  Model 2  
+156                 0.019572  Global  Model 2  
+157                 0.019491  Global  Model 2  
+158                 0.018777  Global  Model 2  
+159                 0.016755  Global  Model 2  
+160                 0.015000  Global  Model 2  
+161                 0.014145  Global  Model 2  
+162                 0.005281  Global  Model 2  
+163                 0.001681  Global  Model 2  
+164                 0.000000  Global  Model 2  
+165                 1.000000  Global  Model 2  
+166                 0.595888  Global  Model 2  
+167                 0.586911  Global  Model 2  
+168                 0.482068  Global  Model 2  
+169                 0.473216  Global  Model 2  
+170                 0.229571  Global  Model 2  
+171                 0.181687  Global  Model 2  
+172                 0.131070  Global  Model 2  
+173                 0.127002  Global  Model 2  
+174                 0.116889  Global  Model 2  
+175                 0.093859  Global  Model 2  
+176                 0.092292  Global  Model 2  
+177                 0.090544  Global  Model 2  
+178                 0.090341  Global  Model 2  
+179                 0.088361  Global  Model 2  
+180                 0.087526  Global  Model 2  
+181                 0.067318  Global  Model 2  
+182                 0.065474  Global  Model 2  
+183                 0.059726  Global  Model 2  
+184                 0.036254  Global  Model 2  
+185                 0.035870  Global  Model 2  
+186                 0.030510  Global  Model 2  
+187                 0.024635  Global  Model 2  
+188                 0.019219  Global  Model 2  
+189                 0.018526  Global  Model 2  
+190                 0.016188  Global  Model 2  
+191                 0.013157  Global  Model 2  
+192                 0.011622  Global  Model 2  
+193                 0.006746  Global  Model 2  
+194                 0.006049  Global  Model 2  
+195                 0.003707  Global  Model 2  
+196                 0.000000  Global  Model 2  
+197                 0.000000  Global  Model 2  
+198                 1.000000  Global  Model 2  
+199                 0.562826  Global  Model 2  
+200                 0.550241  Global  Model 2  
+201                 0.447938  Global  Model 2  
+202                 0.251635  Global  Model 2  
+203                 0.162770  Global  Model 2  
+204                 0.136599  Global  Model 2  
+205                 0.130406  Global  Model 2  
+206                 0.127918  Global  Model 2  
+207                 0.069509  Global  Model 2  
+208                 0.062930  Global  Model 2  
+209                 0.060939  Global  Model 2  
+210                 0.056162  Global  Model 2  
+211                 0.046850  Global  Model 2  
+212                 0.046147  Global  Model 2  
+213                 0.045735  Global  Model 2  
+214                 0.042586  Global  Model 2  
+215                 0.041709  Global  Model 2  
+216                 0.040512  Global  Model 2  
+217                 0.039055  Global  Model 2  
+218                 0.030382  Global  Model 2  
+219                 0.028443  Global  Model 2  
+220                 0.024212  Global  Model 2  
+221                 0.023564  Global  Model 2  
+222                 0.020018  Global  Model 2  
+223                 0.016474  Global  Model 2  
+224                 0.014049  Global  Model 2  
+225                 0.010778  Global  Model 2  
+226                 0.010088  Global  Model 2  
+227                 0.009851  Global  Model 2  
+228                 0.005427  Global  Model 2  
+229                 0.004799  Global  Model 2  
+230                 0.000000  Global  Model 2  
+231                 1.000000  Global  Model 2  
+232                 0.854253  Global  Model 2  
+233                 0.768706  Global  Model 2  
+234                 0.760631  Global  Model 2  
+235                 0.424519  Global  Model 2  
+236                 0.100897  Global  Model 2  
+237                 0.087506  Global  Model 2  
+238                 0.083184  Global  Model 2  
+239                 0.069583  Global  Model 2  
+240                 0.068197  Global  Model 2  
+241                 0.064715  Global  Model 2  
+242                 0.055895  Global  Model 2  
+243                 0.046879  Global  Model 2  
+244                 0.040650  Global  Model 2  
+245                 0.039983  Global  Model 2  
+246                 0.037329  Global  Model 2  
+247                 0.035722  Global  Model 2  
+248                 0.031182  Global  Model 2  
+249                 0.030104  Global  Model 2  
+250                 0.030025  Global  Model 2  
+251                 0.029702  Global  Model 2  
+252                 0.027830  Global  Model 2  
+253                 0.024355  Global  Model 2  
+254                 0.017105  Global  Model 2  
+255                 0.013792  Global  Model 2  
+256                 0.011960  Global  Model 2  
+257                 0.009272  Global  Model 2  
+258                 0.007880  Global  Model 2  
+259                 0.004321  Global  Model 2  
+260                 0.004038  Global  Model 2  
+261                 0.002018  Global  Model 2  
+262                 0.001662  Global  Model 2  
+263                 0.000000  Global  Model 2  
+264                 1.000000  Global  Model 2  
+265                 0.650553  Global  Model 2  
+266                 0.530423  Global  Model 2  
+267                 0.176967  Global  Model 2  
+268                 0.149073  Global  Model 2  
+269                 0.132685  Global  Model 2  
+270                 0.096615  Global  Model 2  
+271                 0.092730  Global  Model 2  
+272                 0.092318  Global  Model 2  
+273                 0.087742  Global  Model 2  
+274                 0.085601  Global  Model 2  
+275                 0.081294  Global  Model 2  
+276                 0.077631  Global  Model 2  
+277                 0.053467  Global  Model 2  
+278                 0.049438  Global  Model 2  
+279                 0.047167  Global  Model 2  
+280                 0.045839  Global  Model 2  
+281                 0.038448  Global  Model 2  
+282                 0.038026  Global  Model 2  
+283                 0.036284  Global  Model 2  
+284                 0.035808  Global  Model 2  
+285                 0.034237  Global  Model 2  
+286                 0.033754  Global  Model 2  
+287                 0.032317  Global  Model 2  
+288                 0.031015  Global  Model 2  
+289                 0.029344  Global  Model 2  
+290                 0.023497  Global  Model 2  
+291                 0.015813  Global  Model 2  
+292                 0.009450  Global  Model 2  
+293                 0.003842  Global  Model 2  
+294                 0.002039  Global  Model 2  
+295                 0.001980  Global  Model 2  
+296                 0.000000  Global  Model 2  "
