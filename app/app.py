@@ -39,9 +39,9 @@ active_tab = {'font-size':'16px', 'font-family': 'MDLZ BITE TYPE','color':'#FFFF
 tab_style = {'font-size':'14px', 'font-family': 'MDLZ BITE TYPE','color':'#4F2170','background-color':'#E7E6E6', 'align-items': 'center','line-height':'0.05'}
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP],suppress_callback_exceptions=True,prevent_initial_callbacks="initial_duplicate")
 
-server = app.server
-app.css.config.serve_locally = True
-app.scripts.config.serve_locally = True
+#server = app.server
+#app.css.config.serve_locally = True
+#app.scripts.config.serve_locally = True
 app.layout = dbc.Container([
         dbc.Row(dbc.Col(html.H1(className='app-header',children='project kitchen'),width=20)),# header row 
         dbc.Row([dbc.Container([

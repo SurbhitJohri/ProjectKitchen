@@ -1,16 +1,16 @@
 Attributes_list
-Total Solids %
+"Standard Composition - MALIC ACID - Value, %"
+"Standard Composition - PALM OIL - Value, %"
+Storage - Bag - Total Shelf Life
 Storage - Bag - Min Remaining SL Upon Receipt
 Storage - Bag/Pouch/Sachet - Total Shelf Life
 "Particle size tests - Particle size, >710µm (#25) - Max"
-"Particle size tests - Particle size, >150µm (#100) - Max"
-"Standard Composition - MALIC ACID - Value, %"
-"Quantitative - Ash, sulphated - Max"
-Storage - Bag - Total Shelf Life
 Quantitative - Moisture - Max
-Quantitative - PH - Max
-"Standard Composition - PALM OIL - Value, %"
+"Quantitative - Ash, sulphated - Max"
+"Particle size tests - Particle size, >150µm (#100) - Max"
 Storage - Bag/Pouch/Sachet - Min Remaining SL Upon Receipt
+Quantitative - PH - Max
+Total Solids %
 Shipping - Bag/Pouch/Sachet - Shipping Condition
 Shipping - Drum/Barrel/Keg - Shipping Condition
 Shipping - Bag - Shipping Condition
@@ -142,36 +142,36 @@ Quantitative - Assay (anhydrous basis) - TXT: Key Testing Details
 "Particle size tests - Particle size, >600µm (#30) - Analytical Reference Method"
 "Particle size tests - Particle size, residue on pan - Analytical Reference Method"
 "Particle size tests - Particle size, residue on pan - TXT: Key Testing Details"
-"Quantitative - Moisture, loss on drying - Max"
-Storage - Box - Min Remaining SL Upon Receipt
 "Standard Composition - SUGAR - Value, %"
-Storage - Tote - Total Shelf Life
-"Standard Composition - FUMARIC ACID - Value, %"
+Storage - Tote - Min Remaining SL Upon Receipt
+"Standard Composition - WATER - Value, %"
+"Standard Composition - VEGETABLE OIL BLEND - Value, %"
+"Particle size tests - Particle size, >850µm (#20) - Max"
+Storage - Drum/Barrel/Keg - Min Remaining SL Upon Receipt
+Storage - Box - Min Remaining SL Upon Receipt
+Storage - Drum/Barrel/Keg - Total Shelf Life
 "Standard Composition - SODIUM MALATE - Value, %"
 "Quantitative - Solids, water insoluble - Max"
-"Standard Composition - VEGETABLE OIL BLEND - Value, %"
-"Particle size tests - Particle size, residue on pan - Max"
-"Particle size tests - Particle size, >600µm (#30) - Max"
-"Particle size tests - Particle size, >850µm (#20) - Max"
-"Standard Composition - HYDROGENATED PALM OIL - Value, %"
-Quantitative - Specific rotation - Max
-"Particle size tests - Particle size, >2mm (#10) - Max"
-Storage - Box/Case/Carton - Min Remaining SL Upon Receipt
-Storage - Drum/Barrel/Keg - Min Remaining SL Upon Receipt
-Storage - Box - Total Shelf Life
-"Quantitative - Acid, maleic - Max"
-"Standard Composition - FULLY HYDROGENATED SUNFLOWER OIL - Value, %"
-Storage - Drum/Barrel/Keg - Total Shelf Life
-"Standard Composition - TRICALCIUM CITRATE - Value, %"
-Storage - Tote - Min Remaining SL Upon Receipt
-Quantitative - Melting point - Max
-"Quantitative - Acid, fumaric - Max"
 "Particle size tests - Particle size, >630µm - Max"
-"Standard Composition - WATER - Value, %"
-"Standard Composition - DL-MALIC ACID - Value, %"
+"Particle size tests - Particle size, >600µm (#30) - Max"
 "Standard Composition - CITRIC ACID - Value, %"
-Quantitative - Assay (anhydrous basis) - Max
+"Particle size tests - Particle size, >2mm (#10) - Max"
+"Quantitative - Acid, maleic - Max"
+Quantitative - Melting point - Max
 Storage - Box/Case/Carton - Total Shelf Life
+Storage - Box - Total Shelf Life
+Quantitative - Assay (anhydrous basis) - Max
+Quantitative - Specific rotation - Max
+"Standard Composition - DL-MALIC ACID - Value, %"
+"Standard Composition - HYDROGENATED PALM OIL - Value, %"
+Storage - Box/Case/Carton - Min Remaining SL Upon Receipt
+"Standard Composition - FULLY HYDROGENATED SUNFLOWER OIL - Value, %"
+"Particle size tests - Particle size, residue on pan - Max"
+"Quantitative - Acid, fumaric - Max"
+Storage - Tote - Total Shelf Life
+"Standard Composition - FUMARIC ACID - Value, %"
+"Quantitative - Moisture, loss on drying - Max"
+"Standard Composition - TRICALCIUM CITRATE - Value, %"
 Specification description
 Quantitative - Moisture - TXT: Key Testing Details
 "Quantitative - Ash, sulphated - TXT: Key Testing Details"
