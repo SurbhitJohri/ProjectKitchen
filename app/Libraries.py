@@ -44,16 +44,16 @@ from itertools import product
 import scipy.stats as ss
 
 import nltk
-#nltk.data.path.append('/mnt/data/stopwords')
-#nltk.data.path.append('/mnt/data/wordnet')
+nltk.data.path.append(os.getcwd()+'/stopwords')
+nltk.data.path.append(os.getcwd()+'/wordnet')
 import os
 print('cwd')
 print(os.getcwd()+'/stopwords')
 from nltk.tokenize import RegexpTokenizer
 from nltk.stem import WordNetLemmatizer,PorterStemmer
-nltk.download('stopwords',download_dir='/mnt/data/stopwords')
+nltk.download('stopwords',download_dir=os.getcwd()+'/stopwords')
 from nltk.corpus import stopwords
-nltk.download('wordnet',download_dir='/mnt/data/wordnet')
+nltk.download('wordnet',download_dir=os.getcwd()+'/wordnet')
 import re
 lemmatizer = WordNetLemmatizer()
 stemmer = PorterStemmer() 
