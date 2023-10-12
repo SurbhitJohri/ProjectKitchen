@@ -52,9 +52,9 @@ print('cwd')
 print(os.getcwd()+'/stopwords')
 from nltk.tokenize import RegexpTokenizer
 from nltk.stem import WordNetLemmatizer,PorterStemmer
-nltk.download('stopwords',download_dir=os.getcwd()+'/stopwords')
+#nltk.download('stopwords',download_dir=os.getcwd()+'\stopwords')
 from nltk.corpus import stopwords
-nltk.download('wordnet',download_dir=os.getcwd()+'/wordnet')
+#nltk.download('wordnet',download_dir=os.getcwd()+'\wordnet')
 import re
 lemmatizer = WordNetLemmatizer()
 stemmer = PorterStemmer() 
