@@ -44,6 +44,8 @@ from itertools import product
 import scipy.stats as ss
 
 import nltk
+nltk.data.path.append('/mnt/data/stopwords')
+nltk.data.path.append('/mnt/data/wordnet')
 from nltk.tokenize import RegexpTokenizer
 from nltk.stem import WordNetLemmatizer,PorterStemmer
 nltk.download('stopwords',download_dir='/mnt/data/stopwords')
