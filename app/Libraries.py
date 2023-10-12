@@ -44,9 +44,10 @@ from itertools import product
 import scipy.stats as ss
 
 import nltk
+import os
 nltk.data.path.append(os.getcwd()+'/stopwords')
 nltk.data.path.append(os.getcwd()+'/wordnet')
-import os
+
 print('cwd')
 print(os.getcwd()+'/stopwords')
 from nltk.tokenize import RegexpTokenizer
